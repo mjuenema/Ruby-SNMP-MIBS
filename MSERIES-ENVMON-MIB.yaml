@@ -1,0 +1,12 @@
+smartEnvMon: 1.3.6.1.4.1.30826.1.4
+smartEnvMonBasicComplV1: 1.3.6.1.4.1.30826.1.4.2.2.1
+smartEnvMonCompliances: 1.3.6.1.4.1.30826.1.4.2.2
+smartEnvMonGroups: 1.3.6.1.4.1.30826.1.4.2.1
+smartEnvMonMIBConformance: 1.3.6.1.4.1.30826.1.4.2
+smartEnvMonObjects: 1.3.6.1.4.1.30826.1.4.1
+smartEnvMonTemperatureDescr: 1.3.6.1.4.1.30826.1.4.1.1.1.2
+smartEnvMonTemperatureEntry: 1.3.6.1.4.1.30826.1.4.1.1.1
+smartEnvMonTemperatureGroupV1: 1.3.6.1.4.1.30826.1.4.2.1.1
+smartEnvMonTemperatureIndex: 1.3.6.1.4.1.30826.1.4.1.1.1.1
+smartEnvMonTemperatureTable: 1.3.6.1.4.1.30826.1.4.1.1
+smartEnvMonTemperatureValue: 1.3.6.1.4.1.30826.1.4.1.1.1.3

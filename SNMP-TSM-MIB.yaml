@@ -1,0 +1,15 @@
+snmpTsmCompliance: 1.3.6.1.2.1.190.2.1.1
+snmpTsmCompliances: 1.3.6.1.2.1.190.2.1
+snmpTsmConfiguration: 1.3.6.1.2.1.190.1.2
+snmpTsmConfigurationUsePrefix: 1.3.6.1.2.1.190.1.2.1
+snmpTsmConformance: 1.3.6.1.2.1.190.2
+snmpTsmGroup: 1.3.6.1.2.1.190.2.2.2
+snmpTsmGroups: 1.3.6.1.2.1.190.2.2
+snmpTsmInadequateSecurityLevels: 1.3.6.1.2.1.190.1.1.2
+snmpTsmInvalidCaches: 1.3.6.1.2.1.190.1.1.1
+snmpTsmInvalidPrefixes: 1.3.6.1.2.1.190.1.1.4
+snmpTsmMIB: 1.3.6.1.2.1.190
+snmpTsmMIBObjects: 1.3.6.1.2.1.190.1
+snmpTsmNotifications: 1.3.6.1.2.1.190.0
+snmpTsmStats: 1.3.6.1.2.1.190.1.1
+snmpTsmUnknownPrefixes: 1.3.6.1.2.1.190.1.1.3

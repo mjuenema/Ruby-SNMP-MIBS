@@ -1,0 +1,10 @@
+extremeSlb: 1.3.6.1.4.1.1916.1.14
+extremeSlbRealAppEntry: 1.3.6.1.4.1.1916.1.14.2.1
+extremeSlbRealAppIpAddress: 1.3.6.1.4.1.1916.1.14.2.1.1
+extremeSlbRealAppPort: 1.3.6.1.4.1.1916.1.14.2.1.2
+extremeSlbRealAppTable: 1.3.6.1.4.1.1916.1.14.2
+extremeSlbRealAppUp: 1.3.6.1.4.1.1916.1.14.2.1.3
+extremeSlbRealServerEntry: 1.3.6.1.4.1.1916.1.14.1.1
+extremeSlbRealServerIpAddress: 1.3.6.1.4.1.1916.1.14.1.1.1
+extremeSlbRealServerTable: 1.3.6.1.4.1.1916.1.14.1
+extremeSlbRealServerUp: 1.3.6.1.4.1.1916.1.14.1.1.2

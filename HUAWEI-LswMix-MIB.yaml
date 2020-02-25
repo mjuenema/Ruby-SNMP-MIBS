@@ -1,0 +1,11 @@
+hwLswCrossBarStatus: 1.3.6.1.4.1.2011.2.23.1.17.5.1.2
+hwLswLastSwitchDate: 1.3.6.1.4.1.2011.2.23.1.17.1
+hwLswLastSwitchTime: 1.3.6.1.4.1.2011.2.23.1.17.2
+hwLswMainCardBoardStatus: 1.3.6.1.4.1.2011.2.23.1.17.5.1.1
+hwLswMix: 1.3.6.1.4.1.2011.2.23.1.17
+hwLswMpuSwitch: 1.3.6.1.4.1.2011.2.23.1.17.4
+hwLswMpuSwitchsNum: 1.3.6.1.4.1.2011.2.23.1.17.3
+hwLswXSlotEntry: 1.3.6.1.4.1.2011.2.23.1.17.5.1
+hwLswXSlotTable: 1.3.6.1.4.1.2011.2.23.1.17.5
+hwSlaveSwitchOver: 1.3.6.1.4.1.2011.2.23.1.17.10.1
+hwsMixTrapMib: 1.3.6.1.4.1.2011.2.23.1.17.10

@@ -1,0 +1,13 @@
+h3cEntRelation: 1.3.6.1.4.1.2011.10.2.15.1.1
+h3cEntRelationCompliance: 1.3.6.1.4.1.2011.10.2.15.2.1.1
+h3cEntRelationCompliances: 1.3.6.1.4.1.2011.10.2.15.2.1
+h3cEntRelationConformance: 1.3.6.1.4.1.2011.10.2.15.2
+h3cEntRelationEntry: 1.3.6.1.4.1.2011.10.2.15.1.1.1.1
+h3cEntRelationGroup: 1.3.6.1.4.1.2011.10.2.15.2.2.1
+h3cEntRelationGroups: 1.3.6.1.4.1.2011.10.2.15.2.2
+h3cEntRelationObjects: 1.3.6.1.4.1.2011.10.2.15.1
+h3cEntRelationTable: 1.3.6.1.4.1.2011.10.2.15.1.1.1
+h3cEntRelationType: 1.3.6.1.4.1.2011.10.2.15.1.1.1.1.1
+h3cEntityIndex: 1.3.6.1.4.1.2011.10.2.15.1.1.1.1.2
+h3cEntityRelation: 1.3.6.1.4.1.2011.10.2.15
+h3cRelatedEntityIndex: 1.3.6.1.4.1.2011.10.2.15.1.1.1.1.3

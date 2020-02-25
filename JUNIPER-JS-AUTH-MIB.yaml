@@ -1,0 +1,17 @@
+jnxJsAuthMIB: 1.3.6.1.4.1.2636.3.39.1.2.1
+jnxJsAuthNotifications: 1.3.6.1.4.1.2636.3.39.1.2.1.0
+jnxJsAuthObjects: 1.3.6.1.4.1.2636.3.39.1.2.1.1
+jnxJsAuthTrapVars: 1.3.6.1.4.1.2636.3.39.1.2.1.1.2
+jnxJsFwAuthCapacityExceeded: 1.3.6.1.4.1.2636.3.39.1.2.1.0.4
+jnxJsFwAuthClientIpAddr: 1.3.6.1.4.1.2636.3.39.1.2.1.1.2.4
+jnxJsFwAuthFailure: 1.3.6.1.4.1.2636.3.39.1.2.1.0.1
+jnxJsFwAuthNumFailedUsers: 1.3.6.1.4.1.2636.3.39.1.2.1.1.1.3
+jnxJsFwAuthNumPendingUsers: 1.3.6.1.4.1.2636.3.39.1.2.1.1.1.1
+jnxJsFwAuthNumSuccUsers: 1.3.6.1.4.1.2636.3.39.1.2.1.1.1.2
+jnxJsFwAuthReason: 1.3.6.1.4.1.2636.3.39.1.2.1.1.2.3
+jnxJsFwAuthServiceDesc: 1.3.6.1.4.1.2636.3.39.1.2.1.1.2.2
+jnxJsFwAuthServiceDown: 1.3.6.1.4.1.2636.3.39.1.2.1.0.3
+jnxJsFwAuthServiceUp: 1.3.6.1.4.1.2636.3.39.1.2.1.0.2
+jnxJsFwAuthStats: 1.3.6.1.4.1.2636.3.39.1.2.1.1.1
+jnxJsFwAuthTotalUsers: 1.3.6.1.4.1.2636.3.39.1.2.1.1.1.4
+jnxJsFwAuthUserName: 1.3.6.1.4.1.2636.3.39.1.2.1.1.2.1

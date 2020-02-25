@@ -1,0 +1,14 @@
+ceProvContainerDetected: 1.3.6.1.4.1.9.9.139.1.1.1.3
+ceProvContainerEntry: 1.3.6.1.4.1.9.9.139.1.1.1
+ceProvContainerEquipped: 1.3.6.1.4.1.9.9.139.1.1.1.2
+ceProvContainerGroup: 1.3.6.1.4.1.9.9.139.3.2.1
+ceProvContainerStatus: 1.3.6.1.4.1.9.9.139.1.1.1.1
+ceProvContainerTable: 1.3.6.1.4.1.9.9.139.1.1
+ceProvMIBCompliance: 1.3.6.1.4.1.9.9.139.3.1.1
+ceProvMIBCompliances: 1.3.6.1.4.1.9.9.139.3.1
+ceProvMIBConformance: 1.3.6.1.4.1.9.9.139.3
+ceProvMIBGroups: 1.3.6.1.4.1.9.9.139.3.2
+ceProvMIBNotifications: 1.3.6.1.4.1.9.9.139.2.0
+ceProvMIBNotificationsPrefix: 1.3.6.1.4.1.9.9.139.2
+ciscoEntityProvMIB: 1.3.6.1.4.1.9.9.139
+ciscoEntityProvMIBObjects: 1.3.6.1.4.1.9.9.139.1

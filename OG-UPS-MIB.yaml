@@ -1,0 +1,17 @@
+ogNetUpsMib: 1.3.6.1.4.1.25049.10.16
+ogNetUpsMibCompliance: 1.3.6.1.4.1.25049.10.16.3.1.1
+ogNetUpsMibCompliances: 1.3.6.1.4.1.25049.10.16.3.1
+ogNetUpsMibConformance: 1.3.6.1.4.1.25049.10.16.3
+ogNetUpsMibGroup: 1.3.6.1.4.1.25049.10.16.3.2.1
+ogNetUpsMibGroups: 1.3.6.1.4.1.25049.10.16.3.2
+ogNetUpsMibNotificationPrefix: 1.3.6.1.4.1.25049.10.16.2
+ogNetUpsMibObjects: 1.3.6.1.4.1.25049.10.16.10
+ognupsEvent: 1.3.6.1.4.1.25049.10.16.10.1
+ognupsEventEntry: 1.3.6.1.4.1.25049.10.16.10.1.1.1
+ognupsEventIndex: 1.3.6.1.4.1.25049.10.16.10.1.1.1.1
+ognupsEventName: 1.3.6.1.4.1.25049.10.16.10.1.1.1.10
+ognupsEventOccurred: 1.3.6.1.4.1.25049.10.16.2.0.200
+ognupsEventTable: 1.3.6.1.4.1.25049.10.16.10.1.1
+ognupsEventType: 1.3.6.1.4.1.25049.10.16.10.1.1.1.11
+ognupsMibNotifications: 1.3.6.1.4.1.25049.10.16.2.0
+ognupsNotificationsGroup: 1.3.6.1.4.1.25049.10.16.3.2.2

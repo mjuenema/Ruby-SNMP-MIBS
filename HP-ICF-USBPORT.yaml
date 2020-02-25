@@ -1,0 +1,13 @@
+hpicfUSBPortBaseGroup: 1.3.6.1.4.1.11.2.14.11.5.1.53.2.1.1
+hpicfUSBPortCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.53.2.2.1
+hpicfUSBPortCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.53.2.2
+hpicfUSBPortConfig: 1.3.6.1.4.1.11.2.14.11.5.1.53.1
+hpicfUSBPortConformance: 1.3.6.1.4.1.11.2.14.11.5.1.53.2
+hpicfUSBPortDisabled: 1.3.6.1.4.1.11.2.14.11.5.1.53.0.2
+hpicfUSBPortEnabled: 1.3.6.1.4.1.11.2.14.11.5.1.53.0.1
+hpicfUSBPortGroups: 1.3.6.1.4.1.11.2.14.11.5.1.53.2.1
+hpicfUSBPortMIB: 1.3.6.1.4.1.11.2.14.11.5.1.53
+hpicfUSBPortNotificationGroup: 1.3.6.1.4.1.11.2.14.11.5.1.53.2.1.2
+hpicfUSBPortNotifications: 1.3.6.1.4.1.11.2.14.11.5.1.53.0
+hpicfUSBPortStatus: 1.3.6.1.4.1.11.2.14.11.5.1.53.1.1
+hpicfUSBPortZeroPowerStatus: 1.3.6.1.4.1.11.2.14.11.5.1.53.1.2

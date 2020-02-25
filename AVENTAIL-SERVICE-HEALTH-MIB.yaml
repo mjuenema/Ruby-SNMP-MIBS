@@ -1,0 +1,9 @@
+asapServiceDown: 1.3.6.1.4.1.4331.3.3
+asapServiceUp: 1.3.6.1.4.1.4331.3.2
+aventailServiceHealth: 1.3.6.1.4.1.4331.3
+serviceDescription: 1.3.6.1.4.1.4331.3.1.1.2
+serviceEntry: 1.3.6.1.4.1.4331.3.1.1
+serviceId: 1.3.6.1.4.1.4331.3.1.1.1
+serviceState: 1.3.6.1.4.1.4331.3.1.1.3
+serviceTable: 1.3.6.1.4.1.4331.3.1
+serviceTableRowStatus: 1.3.6.1.4.1.4331.3.1.1.4

@@ -1,0 +1,12 @@
+hpEntPowerCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.71.2.1.1
+hpEntPowerCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.71.2.1
+hpEntPowerConformance: 1.3.6.1.4.1.11.2.14.11.5.1.71.2
+hpEntPowerCurrentPowerUsage: 1.3.6.1.4.1.11.2.14.11.5.1.71.1.1.1.3
+hpEntPowerEntry: 1.3.6.1.4.1.11.2.14.11.5.1.71.1.1.1
+hpEntPowerGroup: 1.3.6.1.4.1.11.2.14.11.5.1.71.2.2.1
+hpEntPowerGroups: 1.3.6.1.4.1.11.2.14.11.5.1.71.2.2
+hpEntPowerMaxPowerUsage: 1.3.6.1.4.1.11.2.14.11.5.1.71.1.1.1.1
+hpEntPowerMinPowerUsage: 1.3.6.1.4.1.11.2.14.11.5.1.71.1.1.1.2
+hpEntPowerObjects: 1.3.6.1.4.1.11.2.14.11.5.1.71.1
+hpEntPowerTable: 1.3.6.1.4.1.11.2.14.11.5.1.71.1.1
+hpEntityPowerMIB: 1.3.6.1.4.1.11.2.14.11.5.1.71

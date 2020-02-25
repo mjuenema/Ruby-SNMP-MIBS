@@ -1,0 +1,13 @@
+docsIfCmtsCmStatusDocsisMode: 1.3.6.1.2.1.10.127.21.3.1.1
+docsIfCmtsCmStatusExtEntry: 1.3.6.1.2.1.10.127.21.3.1
+docsIfCmtsCmStatusExtTable: 1.3.6.1.2.1.10.127.21.3
+docsIfDocsisCapability: 1.3.6.1.2.1.10.127.21.1
+docsIfDocsisOperMode: 1.3.6.1.2.1.10.127.21.2
+docsIfDocsisVersionGroup: 1.3.6.1.2.1.10.127.21.4.2.1
+docsIfExtCmCompliance: 1.3.6.1.2.1.10.127.21.4.1.1
+docsIfExtCmtsCompliance: 1.3.6.1.2.1.10.127.21.4.1.2
+docsIfExtCompliances: 1.3.6.1.2.1.10.127.21.4.1
+docsIfExtConformance: 1.3.6.1.2.1.10.127.21.4
+docsIfExtGroup: 1.3.6.1.2.1.10.127.21.4.2.2
+docsIfExtGroups: 1.3.6.1.2.1.10.127.21.4.2
+docsIfExtMib: 1.3.6.1.2.1.10.127.21

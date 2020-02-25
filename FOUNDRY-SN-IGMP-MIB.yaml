@@ -1,0 +1,16 @@
+snIgmp: 1.3.6.1.4.1.1991.1.2.6
+snIgmpGroupMembershipTime: 1.3.6.1.4.1.1991.1.2.6.1.2
+snIgmpIfEntry: 1.3.6.1.4.1.1991.1.2.6.1.3.1
+snIgmpIfEntryIndex: 1.3.6.1.4.1.1991.1.2.6.1.3.1.1
+snIgmpIfGroupAddress: 1.3.6.1.4.1.1991.1.2.6.1.3.1.3
+snIgmpIfGroupAge: 1.3.6.1.4.1.1991.1.2.6.1.3.1.4
+snIgmpIfPortNumber: 1.3.6.1.4.1.1991.1.2.6.1.3.1.2
+snIgmpIfTable: 1.3.6.1.4.1.1991.1.2.6.1.3
+snIgmpMIBObjects: 1.3.6.1.4.1.1991.1.2.6.1
+snIgmpQueryInterval: 1.3.6.1.4.1.1991.1.2.6.1.1
+snIgmpStaticGroupAddress: 1.3.6.1.4.1.1991.1.2.6.1.4.1.2
+snIgmpStaticGroupEntry: 1.3.6.1.4.1.1991.1.2.6.1.4.1
+snIgmpStaticGroupIfIndex: 1.3.6.1.4.1.1991.1.2.6.1.4.1.1
+snIgmpStaticGroupPortList: 1.3.6.1.4.1.1991.1.2.6.1.4.1.3
+snIgmpStaticGroupRowStatus: 1.3.6.1.4.1.1991.1.2.6.1.4.1.4
+snIgmpStaticGroupTable: 1.3.6.1.4.1.1991.1.2.6.1.4

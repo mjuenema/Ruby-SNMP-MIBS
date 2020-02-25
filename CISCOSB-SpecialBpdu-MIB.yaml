@@ -1,0 +1,11 @@
+rlSpecialBpdu: 1.3.6.1.4.1.9.6.1.101.144
+rlSpecialBpduAction: 1.3.6.1.4.1.9.6.1.101.144.1.1.4
+rlSpecialBpduEncap: 1.3.6.1.4.1.9.6.1.101.144.1.1.2
+rlSpecialBpduEntry: 1.3.6.1.4.1.9.6.1.101.144.1.1
+rlSpecialBpduHwAction: 1.3.6.1.4.1.9.6.1.101.144.2.1.2
+rlSpecialBpduHwEntry: 1.3.6.1.4.1.9.6.1.101.144.2.1
+rlSpecialBpduHwTable: 1.3.6.1.4.1.9.6.1.101.144.2
+rlSpecialBpduMacAddr: 1.3.6.1.4.1.9.6.1.101.144.1.1.1
+rlSpecialBpduProtId: 1.3.6.1.4.1.9.6.1.101.144.1.1.3
+rlSpecialBpduRowStatus: 1.3.6.1.4.1.9.6.1.101.144.1.1.5
+rlSpecialBpduTable: 1.3.6.1.4.1.9.6.1.101.144.1

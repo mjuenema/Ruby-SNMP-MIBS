@@ -1,0 +1,6 @@
+extremeOspf: 1.3.6.1.4.1.1916.1.15
+extremeOspfAreaId: 1.3.6.1.4.1.1916.1.15.1.1.1
+extremeOspfInterfaceEntry: 1.3.6.1.4.1.1916.1.15.1.1
+extremeOspfInterfacePassive: 1.3.6.1.4.1.1916.1.15.1.1.2
+extremeOspfInterfaceStatus: 1.3.6.1.4.1.1916.1.15.1.1.3
+extremeOspfInterfaceTable: 1.3.6.1.4.1.1916.1.15.1

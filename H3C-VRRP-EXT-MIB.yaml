@@ -1,0 +1,7 @@
+h3cVrrpExt: 1.3.6.1.4.1.2011.10.2.24
+h3cVrrpExtEntry: 1.3.6.1.4.1.2011.10.2.24.1.1.1
+h3cVrrpExtMibObject: 1.3.6.1.4.1.2011.10.2.24.1
+h3cVrrpExtPriorityReduce: 1.3.6.1.4.1.2011.10.2.24.1.1.1.2
+h3cVrrpExtRowStatus: 1.3.6.1.4.1.2011.10.2.24.1.1.1.3
+h3cVrrpExtTable: 1.3.6.1.4.1.2011.10.2.24.1.1
+h3cVrrpExtTrackInterface: 1.3.6.1.4.1.2011.10.2.24.1.1.1.1

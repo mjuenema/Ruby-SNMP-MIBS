@@ -1,0 +1,14 @@
+cVoiceCardAdminStatus: 1.3.6.1.4.1.9.9.300576.1.1.1.4
+cVoiceCardCodecComplexity: 1.3.6.1.4.1.9.9.300576.1.1.1.3
+cVoiceCardEntry: 1.3.6.1.4.1.9.9.300576.1.1.1
+cVoiceCardIndex: 1.3.6.1.4.1.9.9.300576.1.1.1.1
+cVoiceCardSlotNumber: 1.3.6.1.4.1.9.9.300576.1.1.1.2
+cVoiceCardTable: 1.3.6.1.4.1.9.9.300576.1.1
+ciscoVoiceCard: 1.3.6.1.4.1.9.9.300576
+ciscoVoiceCardConformance: 1.3.6.1.4.1.9.9.300576.2
+ciscoVoiceCardGroup: 1.3.6.1.4.1.9.9.300576.2.2.1
+ciscoVoiceCardMIBCompliance: 1.3.6.1.4.1.9.9.300576.2.1.1
+ciscoVoiceCardMIBCompliances: 1.3.6.1.4.1.9.9.300576.2.1
+ciscoVoiceCardMIBGroups: 1.3.6.1.4.1.9.9.300576.2.2
+ciscoVoiceCardNotifications: 1.3.6.1.4.1.9.9.300576.0
+ciscoVoiceCardObjects: 1.3.6.1.4.1.9.9.300576.1

@@ -1,0 +1,13 @@
+atmDxi: 1.3.6.1.4.1.353.3.2
+atmDxiConfEntry: 1.3.6.1.4.1.353.3.2.2.1
+atmDxiConfIfIndex: 1.3.6.1.4.1.353.3.2.2.1.2
+atmDxiConfMode: 1.3.6.1.4.1.353.3.2.2.1.3
+atmDxiConfTable: 1.3.6.1.4.1.353.3.2.2
+atmDxiDFAConfAALType: 1.3.6.1.4.1.353.3.2.3.1.3
+atmDxiDFAConfDfaIndex: 1.3.6.1.4.1.353.3.2.3.1.2
+atmDxiDFAConfEntry: 1.3.6.1.4.1.353.3.2.3.1
+atmDxiDFAConfIfIndex: 1.3.6.1.4.1.353.3.2.3.1.1
+atmDxiDFAConfTable: 1.3.6.1.4.1.353.3.2.3
+atmDxiEnterprise: 1.3.6.1.4.1.353.3.2.4
+atmForum: 1.3.6.1.4.1.353
+atmUniDxi: 1.3.6.1.4.1.353.3

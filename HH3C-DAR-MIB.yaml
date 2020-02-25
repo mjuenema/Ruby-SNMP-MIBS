@@ -1,0 +1,15 @@
+hh3cDar: 1.3.6.1.4.1.25506.2.112
+hh3cDarIfObjects: 1.3.6.1.4.1.25506.2.112.1
+hh3cDarIfStatisticsObjects: 1.3.6.1.4.1.25506.2.112.1.1
+hh3cDarStatisticsEntry: 1.3.6.1.4.1.25506.2.112.1.1.1.1
+hh3cDarStatisticsInBitRate: 1.3.6.1.4.1.25506.2.112.1.1.1.1.5
+hh3cDarStatisticsInBytes: 1.3.6.1.4.1.25506.2.112.1.1.1.1.4
+hh3cDarStatisticsInPkts: 1.3.6.1.4.1.25506.2.112.1.1.1.1.3
+hh3cDarStatisticsMaxInBitRate: 1.3.6.1.4.1.25506.2.112.1.1.1.1.6
+hh3cDarStatisticsMaxOutBitRate: 1.3.6.1.4.1.25506.2.112.1.1.1.1.10
+hh3cDarStatisticsOutBitRate: 1.3.6.1.4.1.25506.2.112.1.1.1.1.9
+hh3cDarStatisticsOutBytes: 1.3.6.1.4.1.25506.2.112.1.1.1.1.8
+hh3cDarStatisticsOutPkts: 1.3.6.1.4.1.25506.2.112.1.1.1.1.7
+hh3cDarStatisticsProtocolID: 1.3.6.1.4.1.25506.2.112.1.1.1.1.1
+hh3cDarStatisticsProtocolName: 1.3.6.1.4.1.25506.2.112.1.1.1.1.2
+hh3cDarStatisticsTable: 1.3.6.1.4.1.25506.2.112.1.1.1

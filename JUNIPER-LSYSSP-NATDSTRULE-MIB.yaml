@@ -1,0 +1,17 @@
+jnxLsysSpNATdstruleAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.3
+jnxLsysSpNATdstruleEntry: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1
+jnxLsysSpNATdstruleHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.4
+jnxLsysSpNATdstruleHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.5
+jnxLsysSpNATdstruleLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.6
+jnxLsysSpNATdstruleLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.7
+jnxLsysSpNATdstruleLsysName: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1.1
+jnxLsysSpNATdstruleMIB: 1.3.6.1.4.1.2636.3.39.1.17.13.1
+jnxLsysSpNATdstruleMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.2
+jnxLsysSpNATdstruleMaximum: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1.5
+jnxLsysSpNATdstruleObjects: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1
+jnxLsysSpNATdstruleProfileName: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1.2
+jnxLsysSpNATdstruleReserved: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1.4
+jnxLsysSpNATdstruleSummary: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2
+jnxLsysSpNATdstruleTable: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1
+jnxLsysSpNATdstruleUsage: 1.3.6.1.4.1.2636.3.39.1.17.13.1.1.1.1.3
+jnxLsysSpNATdstruleUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.13.1.2.1

@@ -1,0 +1,8 @@
+pim4: 1.3.6.1.4.1.207.8.4.4.4.97
+pim4ErrorTrap: 1.3.6.1.4.1.207.8.4.4.4.97.0.5
+pim4ErrorTrapType: 1.3.6.1.4.1.207.8.4.4.4.97.1
+pim4Events: 1.3.6.1.4.1.207.8.4.4.4.97.0
+pim4InterfaceDownTrap: 1.3.6.1.4.1.207.8.4.4.4.97.0.4
+pim4InterfaceUpTrap: 1.3.6.1.4.1.207.8.4.4.4.97.0.3
+pim4NeighbourAddedTrap: 1.3.6.1.4.1.207.8.4.4.4.97.0.1
+pim4NeighbourDeletedTrap: 1.3.6.1.4.1.207.8.4.4.4.97.0.2

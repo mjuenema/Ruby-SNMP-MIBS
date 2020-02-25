@@ -1,0 +1,17 @@
+ciscoSVIAutostateGroup: 1.3.6.1.4.1.9.9.376.2.2.1
+ciscoSVIAutostateMIB: 1.3.6.1.4.1.9.9.376
+ciscoSVIAutostateMIBConformance: 1.3.6.1.4.1.9.9.376.2
+ciscoSVIAutostateMIBNotifs: 1.3.6.1.4.1.9.9.376.0
+ciscoSVIAutostateMIBObjects: 1.3.6.1.4.1.9.9.376.1
+ciscoSVITrackedVlanGroup: 1.3.6.1.4.1.9.9.376.2.2.2
+csaFeatureEnable: 1.3.6.1.4.1.9.9.376.1.1.1
+csaGlobal: 1.3.6.1.4.1.9.9.376.1.1
+csaIfConfigEntry: 1.3.6.1.4.1.9.9.376.1.2.1.1
+csaIfConfigTable: 1.3.6.1.4.1.9.9.376.1.2.1
+csaInterface: 1.3.6.1.4.1.9.9.376.1.2
+csaInterfaceMode: 1.3.6.1.4.1.9.9.376.1.2.1.1.1
+csaMIBCompliance: 1.3.6.1.4.1.9.9.376.2.1.1
+csaMIBCompliances: 1.3.6.1.4.1.9.9.376.2.1
+csaMIBGroups: 1.3.6.1.4.1.9.9.376.2.2
+csaTrackedVlansHigh: 1.3.6.1.4.1.9.9.376.1.1.3
+csaTrackedVlansLow: 1.3.6.1.4.1.9.9.376.1.1.2

@@ -1,0 +1,6 @@
+cpqRecovery: 1.3.6.1.4.1.232.13
+cpqRsFailoverFailed: 1.3.6.1.4.1.2320.13005
+cpqRsOnlineCableFailure: 1.3.6.1.4.1.2320.13004
+cpqRsPartnerFailed: 1.3.6.1.4.1.2320.13001
+cpqRsStandbyCableFailure: 1.3.6.1.4.1.2320.13002
+cpqRsStandbyFailure: 1.3.6.1.4.1.2320.13003

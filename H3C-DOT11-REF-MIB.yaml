@@ -1,0 +1,14 @@
+h3cDot11: 1.3.6.1.4.1.2011.10.2.75
+h3cDot11APElementEntry: 1.3.6.1.4.1.2011.10.2.75.12.1.1.1
+h3cDot11APElementIndex: 1.3.6.1.4.1.2011.10.2.75.12.1.1.1.1
+h3cDot11APElementModelAlias: 1.3.6.1.4.1.2011.10.2.75.12.1.1.1.4
+h3cDot11APElementSerialID: 1.3.6.1.4.1.2011.10.2.75.12.1.1.1.3
+h3cDot11APElementTable: 1.3.6.1.4.1.2011.10.2.75.12.1.1
+h3cDot11APElementTemplateName: 1.3.6.1.4.1.2011.10.2.75.12.1.1.1.2
+h3cDot11Common: 1.3.6.1.4.1.2011.10.2.75.12
+h3cDot11ElementGroup: 1.3.6.1.4.1.2011.10.2.75.12.1
+h3cDot11RadioElementEntry: 1.3.6.1.4.1.2011.10.2.75.12.1.2.1
+h3cDot11RadioElementRadioIndex: 1.3.6.1.4.1.2011.10.2.75.12.1.2.1.3
+h3cDot11RadioElementRadioNum: 1.3.6.1.4.1.2011.10.2.75.12.1.2.1.1
+h3cDot11RadioElementRadioPolicy: 1.3.6.1.4.1.2011.10.2.75.12.1.2.1.2
+h3cDot11RadioElementTable: 1.3.6.1.4.1.2011.10.2.75.12.1.2

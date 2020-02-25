@@ -1,0 +1,9 @@
+cmtsC3IfMIB: 1.3.6.1.4.1.4115.1.4.3.12
+dcxIfEntry: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1
+dcxIfInputBitRate: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1.2
+dcxIfInputPacketRate: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1.3
+dcxIfLoadInterval: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1.1
+dcxIfObjects: 1.3.6.1.4.1.4115.1.4.3.12.1
+dcxIfOutputBitRate: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1.4
+dcxIfOutputPacketRate: 1.3.6.1.4.1.4115.1.4.3.12.1.1.1.5
+dcxIfTable: 1.3.6.1.4.1.4115.1.4.3.12.1.1

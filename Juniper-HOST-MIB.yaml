@@ -1,0 +1,16 @@
+juniHost: 1.3.6.1.4.1.4874.2.2.33.1.1
+juniHostCompliance: 1.3.6.1.4.1.4874.2.2.33.4.1.1
+juniHostEntry: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1
+juniHostGroup: 1.3.6.1.4.1.4874.2.2.33.4.2.1
+juniHostIpAddress: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.2
+juniHostMIB: 1.3.6.1.4.1.4874.2.2.33
+juniHostMIBCompliances: 1.3.6.1.4.1.4874.2.2.33.4.1
+juniHostMIBConformance: 1.3.6.1.4.1.4874.2.2.33.4
+juniHostMIBGroups: 1.3.6.1.4.1.4874.2.2.33.4.2
+juniHostName: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.1
+juniHostObjects: 1.3.6.1.4.1.4874.2.2.33.1
+juniHostProtocol: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.3
+juniHostRowStatus: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.6
+juniHostTable: 1.3.6.1.4.1.4874.2.2.33.1.1.1
+juniHostUserName: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.4
+juniHostUserPassword: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.5

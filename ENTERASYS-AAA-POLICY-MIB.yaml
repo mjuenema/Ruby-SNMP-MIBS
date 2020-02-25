@@ -1,0 +1,13 @@
+etsysAAAMgmtAccessEntry: 1.3.6.1.4.1.5624.1.2.51.1.1.1.1
+etsysAAAMgmtAccessProtocol: 1.3.6.1.4.1.5624.1.2.51.1.1.1.1.1
+etsysAAAMgmtAccessTable: 1.3.6.1.4.1.5624.1.2.51.1.1.1
+etsysAAAMgmtRemoteAcctProtocol: 1.3.6.1.4.1.5624.1.2.51.1.1.1.1.3
+etsysAAAMgmtRemoteAuthProtocol: 1.3.6.1.4.1.5624.1.2.51.1.1.1.1.2
+etsysAAAPolicyMIB: 1.3.6.1.4.1.5624.1.2.51
+etsysAAAPolicyMIBCompliance: 1.3.6.1.4.1.5624.1.2.51.2.1.1
+etsysAAAPolicyMIBCompliances: 1.3.6.1.4.1.5624.1.2.51.2.1
+etsysAAAPolicyMIBConformance: 1.3.6.1.4.1.5624.1.2.51.2
+etsysAAAPolicyMIBGroups: 1.3.6.1.4.1.5624.1.2.51.2.2
+etsysAAAPolicyMgmtAccess: 1.3.6.1.4.1.5624.1.2.51.1.1
+etsysAAAPolicyMgmtGroup: 1.3.6.1.4.1.5624.1.2.51.2.2.1
+etsysAAAPolicyObjects: 1.3.6.1.4.1.5624.1.2.51.1

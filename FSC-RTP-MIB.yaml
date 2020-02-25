@@ -1,0 +1,12 @@
+iandcAdmin: 1.3.6.1.4.1.4329.2
+iandcProducts: 1.3.6.1.4.1.4329.1
+reliantTelcoPlatform: 1.3.6.1.4.1.4329.1.2
+rtp: 1.3.6.1.4.1.4329.2.1
+rtpApplicationLevelMgmt: 1.3.6.1.4.1.4329.2.1.6
+rtpConfigurationMgmt: 1.3.6.1.4.1.4329.2.1.1
+rtpFaultMgmt: 1.3.6.1.4.1.4329.2.1.2
+rtpPerformanceMgmt: 1.3.6.1.4.1.4329.2.1.3
+rtpProductEntry: 1.3.6.1.4.1.4329.2.1.7
+rtpSecurityMgmt: 1.3.6.1.4.1.4329.2.1.4
+rtpSystemMgmt: 1.3.6.1.4.1.4329.2.1.5
+siemens: 1.3.6.1.4.1.4329

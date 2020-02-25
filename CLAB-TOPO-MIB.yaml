@@ -1,0 +1,16 @@
+clabTopoChFnCfgChIfIndex: 1.3.6.1.4.1.4491.4.2.1.2.1.1
+clabTopoChFnCfgEntry: 1.3.6.1.4.1.4491.4.2.1.2.1
+clabTopoChFnCfgRowStatus: 1.3.6.1.4.1.4491.4.2.1.2.1.2
+clabTopoChFnCfgTable: 1.3.6.1.4.1.4491.4.2.1.2
+clabTopoCompliance: 1.3.6.1.4.1.4491.4.2.2.1.1
+clabTopoFiberNodeCfgEntry: 1.3.6.1.4.1.4491.4.2.1.1.1
+clabTopoFiberNodeCfgNodeDescr: 1.3.6.1.4.1.4491.4.2.1.1.1.2
+clabTopoFiberNodeCfgNodeName: 1.3.6.1.4.1.4491.4.2.1.1.1.1
+clabTopoFiberNodeCfgRowStatus: 1.3.6.1.4.1.4491.4.2.1.1.1.3
+clabTopoFiberNodeCfgTable: 1.3.6.1.4.1.4491.4.2.1.1
+clabTopoGroup: 1.3.6.1.4.1.4491.4.2.2.2.1
+clabTopoMib: 1.3.6.1.4.1.4491.4.2
+clabTopoMibCompliances: 1.3.6.1.4.1.4491.4.2.2.1
+clabTopoMibConformance: 1.3.6.1.4.1.4491.4.2.2
+clabTopoMibGroups: 1.3.6.1.4.1.4491.4.2.2.2
+clabTopoMibObjects: 1.3.6.1.4.1.4491.4.2.1

@@ -1,0 +1,14 @@
+rlCpuCounters: 1.3.6.1.4.1.9.6.1.101.124
+rlCpuCountersEnabled: 1.3.6.1.4.1.9.6.1.101.124.3
+rlCpuCountersEntry: 1.3.6.1.4.1.9.6.1.101.124.1.1
+rlCpuCountersReset: 1.3.6.1.4.1.9.6.1.101.124.2
+rlCpuCountersRxBC: 1.3.6.1.4.1.9.6.1.101.124.1.1.6
+rlCpuCountersRxMC: 1.3.6.1.4.1.9.6.1.101.124.1.1.7
+rlCpuCountersRxOctets: 1.3.6.1.4.1.9.6.1.101.124.1.1.9
+rlCpuCountersRxUC: 1.3.6.1.4.1.9.6.1.101.124.1.1.8
+rlCpuCountersTable: 1.3.6.1.4.1.9.6.1.101.124.1
+rlCpuCountersTarget: 1.3.6.1.4.1.9.6.1.101.124.1.1.1
+rlCpuCountersTxBC: 1.3.6.1.4.1.9.6.1.101.124.1.1.2
+rlCpuCountersTxMC: 1.3.6.1.4.1.9.6.1.101.124.1.1.3
+rlCpuCountersTxOctets: 1.3.6.1.4.1.9.6.1.101.124.1.1.5
+rlCpuCountersTxUC: 1.3.6.1.4.1.9.6.1.101.124.1.1.4

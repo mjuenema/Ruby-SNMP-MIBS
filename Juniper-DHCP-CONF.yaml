@@ -1,0 +1,13 @@
+juniDhcpAgent: 1.3.6.1.4.1.4874.5.2.8
+juniDhcpLocalServerAgent: 1.3.6.1.4.1.4874.5.2.8.3
+juniDhcpLocalServerAgentV1: 1.3.6.1.4.1.4874.5.2.8.3.1
+juniDhcpLocalServerAgentV2: 1.3.6.1.4.1.4874.5.2.8.3.2
+juniDhcpLocalServerAgentV3: 1.3.6.1.4.1.4874.5.2.8.3.3
+juniDhcpLocalServerAgentV5: 1.3.6.1.4.1.4874.5.2.8.3.5
+juniDhcpProxyAgent: 1.3.6.1.4.1.4874.5.2.8.2
+juniDhcpProxyAgentV1: 1.3.6.1.4.1.4874.5.2.8.2.1
+juniDhcpRelayAgent: 1.3.6.1.4.1.4874.5.2.8.1
+juniDhcpRelayAgentV1: 1.3.6.1.4.1.4874.5.2.8.1.1
+juniDhcpRelayAgentV2: 1.3.6.1.4.1.4874.5.2.8.1.2
+juniDhcpRelayAgentV3: 1.3.6.1.4.1.4874.5.2.8.1.3
+juniDhcpRelayAgentV4: 1.3.6.1.4.1.4874.5.2.8.1.4

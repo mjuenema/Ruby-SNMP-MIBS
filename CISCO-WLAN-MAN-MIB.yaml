@@ -1,0 +1,12 @@
+ciscoWlanManMIB: 1.3.6.1.4.1.9.9.415
+ciscoWlanManMIBCompliance: 1.3.6.1.4.1.9.9.415.2.1.1
+ciscoWlanManMIBCompliances: 1.3.6.1.4.1.9.9.415.2.1
+ciscoWlanManMIBConform: 1.3.6.1.4.1.9.9.415.2
+ciscoWlanManMIBGroups: 1.3.6.1.4.1.9.9.415.2.2
+ciscoWlanManMIBNotifs: 1.3.6.1.4.1.9.9.415.0
+ciscoWlanManMIBObjects: 1.3.6.1.4.1.9.9.415.1
+cwmDeviceConfig: 1.3.6.1.4.1.9.9.415.1.1
+cwmHttpServerEnabled: 1.3.6.1.4.1.9.9.415.1.1.1
+cwmNetworkConfig: 1.3.6.1.4.1.9.9.415.1.2
+cwmTelnetLoginEnabled: 1.3.6.1.4.1.9.9.415.1.1.2
+cwmWirelessDeviceGroup: 1.3.6.1.4.1.9.9.415.2.2.1

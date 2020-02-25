@@ -1,0 +1,10 @@
+ciscoCubeMIBCompliance: 1.3.6.1.4.1.9.9.764.1.1.1
+ciscoUbeMIB: 1.3.6.1.4.1.9.9.764
+ciscoUbeMIBCompliances: 1.3.6.1.4.1.9.9.764.1.1
+ciscoUbeMIBConform: 1.3.6.1.4.1.9.9.764.1
+ciscoUbeMIBGroup: 1.3.6.1.4.1.9.9.764.1.2.1
+ciscoUbeMIBGroups: 1.3.6.1.4.1.9.9.764.1.2
+ciscoUbeMIBObjects: 1.3.6.1.4.1.9.9.764.0
+cubeEnabled: 1.3.6.1.4.1.9.9.764.0.1
+cubeTotalSessionAllowed: 1.3.6.1.4.1.9.9.764.0.3
+cubeVersion: 1.3.6.1.4.1.9.9.764.0.2

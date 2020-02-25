@@ -1,0 +1,12 @@
+rlBrgMacSwAdminTrapFrequency: 1.3.6.1.4.1.9.6.1.101.50.12
+rlBrgMacSwDynamicTables: 1.3.6.1.4.1.9.6.1.101.50.3
+rlBrgMacSwKeyType: 1.3.6.1.4.1.9.6.1.101.50.7
+rlBrgMacSwMaxTableNumber: 1.3.6.1.4.1.9.6.1.101.50.2
+rlBrgMacSwOldEntryDeleteMode: 1.3.6.1.4.1.9.6.1.101.50.5
+rlBrgMacSwOperTrapCount: 1.3.6.1.4.1.9.6.1.101.50.11
+rlBrgMacSwRedBoundary: 1.3.6.1.4.1.9.6.1.101.50.9
+rlBrgMacSwSpanningTree: 1.3.6.1.4.1.9.6.1.101.50.6
+rlBrgMacSwTrapEnable: 1.3.6.1.4.1.9.6.1.101.50.10
+rlBrgMacSwVersion: 1.3.6.1.4.1.9.6.1.101.50.1
+rlBrgMacSwYellowBoundary: 1.3.6.1.4.1.9.6.1.101.50.8
+rlBrgMacSwitch: 1.3.6.1.4.1.9.6.1.101.50

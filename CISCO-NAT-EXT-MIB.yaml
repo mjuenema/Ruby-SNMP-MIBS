@@ -1,0 +1,14 @@
+ciscoNATExtMIB: 1.3.6.1.4.1.9.9.532
+ciscoNatExtAddrTransStatsGroup: 1.3.6.1.4.1.9.9.532.2.2.1
+ciscoNatExtMIBCompliance: 1.3.6.1.4.1.9.9.532.2.1.1
+ciscoNatExtMIBCompliances: 1.3.6.1.4.1.9.9.532.2.1
+ciscoNatExtMIBConformance: 1.3.6.1.4.1.9.9.532.2
+ciscoNatExtMIBGroups: 1.3.6.1.4.1.9.9.532.2.2
+ciscoNatExtMIBNotifs: 1.3.6.1.4.1.9.9.532.0
+ciscoNatExtMIBObjects: 1.3.6.1.4.1.9.9.532.1
+cneAddrTranslation1min: 1.3.6.1.4.1.9.9.532.1.1.1.3
+cneAddrTranslation5min: 1.3.6.1.4.1.9.9.532.1.1.1.4
+cneAddrTranslationNumActive: 1.3.6.1.4.1.9.9.532.1.1.1.1
+cneAddrTranslationNumPeak: 1.3.6.1.4.1.9.9.532.1.1.1.2
+cneAddrTranslationStatsEntry: 1.3.6.1.4.1.9.9.532.1.1.1
+cneAddrTranslationStatsTable: 1.3.6.1.4.1.9.9.532.1.1

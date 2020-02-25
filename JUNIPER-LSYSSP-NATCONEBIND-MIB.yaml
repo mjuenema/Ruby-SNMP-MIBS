@@ -1,0 +1,17 @@
+jnxLsysSpNATconebindAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.3
+jnxLsysSpNATconebindEntry: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1
+jnxLsysSpNATconebindHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.4
+jnxLsysSpNATconebindHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.5
+jnxLsysSpNATconebindLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.6
+jnxLsysSpNATconebindLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.7
+jnxLsysSpNATconebindLsysName: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1.1
+jnxLsysSpNATconebindMIB: 1.3.6.1.4.1.2636.3.39.1.17.15.1
+jnxLsysSpNATconebindMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.2
+jnxLsysSpNATconebindMaximum: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1.5
+jnxLsysSpNATconebindObjects: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1
+jnxLsysSpNATconebindProfileName: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1.2
+jnxLsysSpNATconebindReserved: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1.4
+jnxLsysSpNATconebindSummary: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2
+jnxLsysSpNATconebindTable: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1
+jnxLsysSpNATconebindUsage: 1.3.6.1.4.1.2636.3.39.1.17.15.1.1.1.1.3
+jnxLsysSpNATconebindUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.15.1.2.1

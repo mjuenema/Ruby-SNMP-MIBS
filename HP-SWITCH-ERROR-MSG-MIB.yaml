@@ -1,0 +1,16 @@
+hpSwitchEntityErrorMsg: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.6
+hpSwitchErrorEntityHandle: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.2
+hpSwitchErrorEntityType: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.1
+hpSwitchErrorFailedOID: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.5
+hpSwitchErrorMsgEntry: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1
+hpSwitchErrorMsgMIB: 1.3.6.1.4.1.11.2.14.11.5.1.68
+hpSwitchErrorMsgMIBCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.68.2.1.1
+hpSwitchErrorMsgMIBCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.68.2.1
+hpSwitchErrorMsgMIBConformance: 1.3.6.1.4.1.11.2.14.11.5.1.68.2
+hpSwitchErrorMsgMIBGroup: 1.3.6.1.4.1.11.2.14.11.5.1.68.2.2.1
+hpSwitchErrorMsgMIBGroups: 1.3.6.1.4.1.11.2.14.11.5.1.68.2.2
+hpSwitchErrorMsgObjects: 1.3.6.1.4.1.11.2.14.11.5.1.68.1
+hpSwitchErrorMsgTable: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1
+hpSwitchErrorSnmpSeqCode: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.3
+hpSwitchErrorTime: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.4
+hpSwitchSnmpErrorCode: 1.3.6.1.4.1.11.2.14.11.5.1.68.1.1.1.7

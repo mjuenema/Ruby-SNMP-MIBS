@@ -1,0 +1,16 @@
+usdHost: 1.3.6.1.4.1.4874.2.2.33.1.1
+usdHostCompliance: 1.3.6.1.4.1.4874.2.2.33.4.1.1
+usdHostEntry: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1
+usdHostGroup: 1.3.6.1.4.1.4874.2.2.33.4.2.1
+usdHostIpAddress: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.2
+usdHostMIB: 1.3.6.1.4.1.4874.2.2.33
+usdHostMIBCompliances: 1.3.6.1.4.1.4874.2.2.33.4.1
+usdHostMIBConformance: 1.3.6.1.4.1.4874.2.2.33.4
+usdHostMIBGroups: 1.3.6.1.4.1.4874.2.2.33.4.2
+usdHostName: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.1
+usdHostObjects: 1.3.6.1.4.1.4874.2.2.33.1
+usdHostProtocol: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.3
+usdHostRowStatus: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.6
+usdHostTable: 1.3.6.1.4.1.4874.2.2.33.1.1.1
+usdHostUserName: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.4
+usdHostUserPassword: 1.3.6.1.4.1.4874.2.2.33.1.1.1.1.5

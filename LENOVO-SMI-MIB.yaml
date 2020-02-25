@@ -1,0 +1,8 @@
+flex_mibs: 1.3.6.1.4.1.19046.2.18
+lenovo: 1.3.6.1.4.1.19046
+lenovoModules: 1.3.6.1.4.1.19046.4
+lenovoNetworkMibs: 1.3.6.1.4.1.19046.2
+lenovoProducts: 1.3.6.1.4.1.19046.1
+lenovoServerMibs: 1.3.6.1.4.1.19046.11
+network_mibs: 1.3.6.1.4.1.19046.2.3
+tor_mibs: 1.3.6.1.4.1.19046.2.7

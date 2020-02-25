@@ -1,0 +1,17 @@
+jnxLsysSpSchedulerAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.3
+jnxLsysSpSchedulerEntry: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1
+jnxLsysSpSchedulerHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.4
+jnxLsysSpSchedulerHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.5
+jnxLsysSpSchedulerLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.6
+jnxLsysSpSchedulerLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.7
+jnxLsysSpSchedulerLsysName: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1.1
+jnxLsysSpSchedulerMIB: 1.3.6.1.4.1.2636.3.39.1.17.2.1
+jnxLsysSpSchedulerMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.2
+jnxLsysSpSchedulerMaximum: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1.5
+jnxLsysSpSchedulerObjects: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1
+jnxLsysSpSchedulerProfileName: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1.2
+jnxLsysSpSchedulerReserved: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1.4
+jnxLsysSpSchedulerSummary: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2
+jnxLsysSpSchedulerTable: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1
+jnxLsysSpSchedulerUsage: 1.3.6.1.4.1.2636.3.39.1.17.2.1.1.1.1.3
+jnxLsysSpSchedulerUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.2.1.2.1

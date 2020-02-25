@@ -1,0 +1,16 @@
+foreHdlcIfAdminStatus: 1.3.6.1.4.1.326.2.2.1.1.20.1.1.2
+foreHdlcIfChecksumErrors: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.5
+foreHdlcIfEntry: 1.3.6.1.4.1.326.2.2.1.1.20.1.1
+foreHdlcIfFcsWidth: 1.3.6.1.4.1.326.2.2.1.1.20.1.1.3
+foreHdlcIfGroup: 1.3.6.1.4.1.326.2.2.1.1.20
+foreHdlcIfLossOfFrame: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.6
+foreHdlcIfPayloadType: 1.3.6.1.4.1.326.2.2.1.1.20.1.1.1
+foreHdlcIfRxOctets: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.4
+foreHdlcIfRxPackets: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.3
+foreHdlcIfTable: 1.3.6.1.4.1.326.2.2.1.1.20.1
+foreHdlcIfTxOctets: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.2
+foreHdlcIfTxPackets: 1.3.6.1.4.1.326.2.2.1.1.20.2.1.1
+foreHdlcLOFCleared: 1.3.6.1.4.1.326.2.2.1.1.20.0.2
+foreHdlcLOFDetected: 1.3.6.1.4.1.326.2.2.1.1.20.0.1
+foreHdlcStatsEntry: 1.3.6.1.4.1.326.2.2.1.1.20.2.1
+foreHdlcStatsTable: 1.3.6.1.4.1.326.2.2.1.1.20.2

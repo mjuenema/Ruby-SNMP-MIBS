@@ -1,0 +1,16 @@
+hh3cVoiceVlan: 1.3.6.1.4.1.25506.2.9
+hh3cVoiceVlanAgingTime: 1.3.6.1.4.1.25506.2.9.4
+hh3cVoiceVlanConfigState: 1.3.6.1.4.1.25506.2.9.5
+hh3cVoiceVlanEnabledId: 1.3.6.1.4.1.25506.2.9.2
+hh3cVoiceVlanOuiAddress: 1.3.6.1.4.1.25506.2.9.1.1.1
+hh3cVoiceVlanOuiDescription: 1.3.6.1.4.1.25506.2.9.1.1.3
+hh3cVoiceVlanOuiMask: 1.3.6.1.4.1.25506.2.9.1.1.2
+hh3cVoiceVlanOuiRowStatus: 1.3.6.1.4.1.25506.2.9.1.1.4
+hh3cVoiceVlanPortEnableList: 1.3.6.1.4.1.25506.2.9.3
+hh3cVoiceVlanPortMode: 1.3.6.1.4.1.25506.2.9.7.1.2
+hh3cVoiceVlanPortifIndex: 1.3.6.1.4.1.25506.2.9.7.1.1
+hh3cVoiceVlanSecurityState: 1.3.6.1.4.1.25506.2.9.6
+hh3cvoiceVlanOuiEntry: 1.3.6.1.4.1.25506.2.9.1.1
+hh3cvoiceVlanOuiTable: 1.3.6.1.4.1.25506.2.9.1
+hh3cvoiceVlanPortEntry: 1.3.6.1.4.1.25506.2.9.7.1
+hh3cvoiceVlanPortTable: 1.3.6.1.4.1.25506.2.9.7

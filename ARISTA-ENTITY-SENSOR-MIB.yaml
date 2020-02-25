@@ -1,0 +1,17 @@
+aristaEntSensorAlarm: 1.3.6.1.4.1.30065.3.12.0.1
+aristaEntSensorMIB: 1.3.6.1.4.1.30065.3.12
+aristaEntSensorMibCompliance: 1.3.6.1.4.1.30065.3.12.2.1.1
+aristaEntSensorMibCompliances: 1.3.6.1.4.1.30065.3.12.2.1
+aristaEntSensorMibConformance: 1.3.6.1.4.1.30065.3.12.2
+aristaEntSensorMibGroups: 1.3.6.1.4.1.30065.3.12.2.2
+aristaEntSensorMibNotifications: 1.3.6.1.4.1.30065.3.12.0
+aristaEntSensorMibObjects: 1.3.6.1.4.1.30065.3.12.1
+aristaEntSensorNotificationsGroup: 1.3.6.1.4.1.30065.3.12.2.2.2
+aristaEntSensorStatusDescr: 1.3.6.1.4.1.30065.3.12.1.1.1.5
+aristaEntSensorThresholdEntry: 1.3.6.1.4.1.30065.3.12.1.1.1
+aristaEntSensorThresholdGroup: 1.3.6.1.4.1.30065.3.12.2.2.1
+aristaEntSensorThresholdHighCritical: 1.3.6.1.4.1.30065.3.12.1.1.1.4
+aristaEntSensorThresholdHighWarning: 1.3.6.1.4.1.30065.3.12.1.1.1.3
+aristaEntSensorThresholdLowCritical: 1.3.6.1.4.1.30065.3.12.1.1.1.2
+aristaEntSensorThresholdLowWarning: 1.3.6.1.4.1.30065.3.12.1.1.1.1
+aristaEntSensorThresholdTable: 1.3.6.1.4.1.30065.3.12.1.1

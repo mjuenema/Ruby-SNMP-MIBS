@@ -1,0 +1,13 @@
+netscreenTrapDesc: 1.3.6.1.4.1.3224.2.3
+netscreenTrapDrp: 1.3.6.1.4.1.3224.0.800
+netscreenTrapFw: 1.3.6.1.4.1.3224.0.200
+netscreenTrapGPRO: 1.3.6.1.4.1.3224.0.700
+netscreenTrapHw: 1.3.6.1.4.1.3224.0.100
+netscreenTrapIDPAttack: 1.3.6.1.4.1.3224.0.1000
+netscreenTrapIFFailover: 1.3.6.1.4.1.3224.0.900
+netscreenTrapMibModule: 1.3.6.1.4.1.3224.2.0
+netscreenTrapNsrp: 1.3.6.1.4.1.3224.0.600
+netscreenTrapSw: 1.3.6.1.4.1.3224.0.300
+netscreenTrapTrf: 1.3.6.1.4.1.3224.0.400
+netscreenTrapType: 1.3.6.1.4.1.3224.2.1
+netscreenTrapVpn: 1.3.6.1.4.1.3224.0.500

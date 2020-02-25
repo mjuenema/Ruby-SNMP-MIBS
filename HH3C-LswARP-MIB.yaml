@@ -1,0 +1,6 @@
+hh3cLswArpMib: 1.3.6.1.4.1.25506.8.35.4
+hh3cLswIfIndex: 1.3.6.1.4.1.25506.8.35.4.1.1.1.1
+hh3cLswProxyArpEnableEntry: 1.3.6.1.4.1.25506.8.35.4.1.1.1
+hh3cLswProxyArpEnableTable: 1.3.6.1.4.1.25506.8.35.4.1.1
+hh3cLswProxyArpObject: 1.3.6.1.4.1.25506.8.35.4.1
+hh3cLswProxyArpStatus: 1.3.6.1.4.1.25506.8.35.4.1.1.1.2

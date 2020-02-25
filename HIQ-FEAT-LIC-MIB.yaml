@@ -1,0 +1,16 @@
+hiqFeatDynamicLicenseGroup: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2
+hiqFeatLic: 1.3.6.1.4.1.4329.2.18.2.2.1.5
+hiqFeatLicDynWarningThreshold: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.7
+hiqFeatLicDynamicAvailable: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.1
+hiqFeatLicDynamicInUse: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.2
+hiqFeatLicDynamicMaxInUse: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.3
+hiqFeatLicDynamicRejections: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.6
+hiqFeatLicDynamicViolations: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.4
+hiqFeatLicDynamicViolationsLimit: 1.3.6.1.4.1.4329.2.18.2.2.1.5.2.5
+hiqFeatLicTrunkAverageUsage: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.2
+hiqFeatLicTrunkCustomerViolations: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.4
+hiqFeatLicTrunkMaxAverageUsage: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.3
+hiqFeatLicTrunkSessionGroup: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1
+hiqFeatLicTrunkSessionLicenses: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.1
+hiqFeatLicTrunkViolationLimit: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.5
+hiqFeatLicTrunkWarnThresLic: 1.3.6.1.4.1.4329.2.18.2.2.1.5.1.6

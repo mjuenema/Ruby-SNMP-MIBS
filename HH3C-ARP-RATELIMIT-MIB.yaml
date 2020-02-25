@@ -1,0 +1,9 @@
+hh3cARPRatelimit: 1.3.6.1.4.1.25506.2.110
+hh3cARPRatelimitObjects: 1.3.6.1.4.1.25506.2.110.1
+hh3cARPRatelimitOverspeedTrap: 1.3.6.1.4.1.25506.2.110.1.1.0.1
+hh3cARPRatelimitTrap: 1.3.6.1.4.1.25506.2.110.1.1
+hh3cARPRatelimitTrapCount: 1.3.6.1.4.1.25506.2.110.1.1.1.2
+hh3cARPRatelimitTrapMsg: 1.3.6.1.4.1.25506.2.110.1.1.1.3
+hh3cARPRatelimitTrapObjects: 1.3.6.1.4.1.25506.2.110.1.1.1
+hh3cARPRatelimitTrapVer: 1.3.6.1.4.1.25506.2.110.1.1.1.1
+hh3cARPRatelimitTraps: 1.3.6.1.4.1.25506.2.110.1.1.0

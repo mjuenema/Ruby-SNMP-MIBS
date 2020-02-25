@@ -1,0 +1,9 @@
+atG8032v2: 1.3.6.1.4.1.207.8.4.4.4.604
+atG8032v2InstanceNotify: 1.3.6.1.4.1.207.8.4.4.4.604.0.1
+atG8032v2NotificationInstanceCurrentState: 1.3.6.1.4.1.207.8.4.4.4.604.1.3
+atG8032v2NotificationInstanceFromState: 1.3.6.1.4.1.207.8.4.4.4.604.1.2
+atG8032v2NotificationInstanceName: 1.3.6.1.4.1.207.8.4.4.4.604.1.1
+atG8032v2NotificationSystemAlarmState: 1.3.6.1.4.1.207.8.4.4.4.604.1.4
+atG8032v2NotificationVariable: 1.3.6.1.4.1.207.8.4.4.4.604.1
+atG8032v2Notifications: 1.3.6.1.4.1.207.8.4.4.4.604.0
+atG8032v2SystemAlarmNotify: 1.3.6.1.4.1.207.8.4.4.4.604.0.2

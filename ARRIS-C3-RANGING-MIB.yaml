@@ -1,0 +1,4 @@
+cmtsC3RngMIB: 1.3.6.1.4.1.4115.1.4.3.10
+phoenixRangingGroup: 1.3.6.1.4.1.4115.1.4.3.10.1
+phxRangingForceContinue: 1.3.6.1.4.1.4115.1.4.3.10.1.2
+phxRangingPowerOverride: 1.3.6.1.4.1.4115.1.4.3.10.1.1

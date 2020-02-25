@@ -1,0 +1,12 @@
+ibmSystemHTTPConfigurationEntry: 1.3.6.1.4.1.2.6.159.1.1.10.2.1
+ibmSystemHTTPConfigurationKeyIndex: 1.3.6.1.4.1.2.6.159.1.1.10.2.1.1
+ibmSystemHTTPConfigurationPort: 1.3.6.1.4.1.2.6.159.1.1.10.2.1.3
+ibmSystemHTTPConfigurationSettingId: 1.3.6.1.4.1.2.6.159.1.1.10.2.1.2
+ibmSystemHTTPConfigurationTable: 1.3.6.1.4.1.2.6.159.1.1.10.2
+ibmSystemMgmtHwIPEndPointAddressOrigin: 1.3.6.1.4.1.2.6.159.1.1.10.3.1.2
+ibmSystemMgmtHwIPEndPointEntry: 1.3.6.1.4.1.2.6.159.1.1.10.3.1
+ibmSystemMgmtHwIPEndPointIPv4Address: 1.3.6.1.4.1.2.6.159.1.1.10.3.1.3
+ibmSystemMgmtHwIPEndPointIPv6Address: 1.3.6.1.4.1.2.6.159.1.1.10.3.1.5
+ibmSystemMgmtHwIPEndPointKeyIndex: 1.3.6.1.4.1.2.6.159.1.1.10.3.1.1
+ibmSystemMgmtHwIPEndPointSubnetMask: 1.3.6.1.4.1.2.6.159.1.1.10.3.1.4
+ibmSystemMgmtHwIPEndPointTable: 1.3.6.1.4.1.2.6.159.1.1.10.3

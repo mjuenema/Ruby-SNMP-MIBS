@@ -1,0 +1,9 @@
+vmwHBMIB: 1.3.6.1.4.1.6876.4.190.66
+vmwHb: 1.3.6.1.4.1.6876.4.190
+vmwHbHeartbeat: 1.3.6.1.4.1.6876.4.190.0.401
+vmwHbMIBBasicCompliance: 1.3.6.1.4.1.6876.4.190.2.1.4
+vmwHbMIBCompliances: 1.3.6.1.4.1.6876.4.190.2.1
+vmwHbMIBConformance: 1.3.6.1.4.1.6876.4.190.2
+vmwHbMIBGroups: 1.3.6.1.4.1.6876.4.190.2.2
+vmwHbNotificationGroup: 1.3.6.1.4.1.6876.4.190.2.2.2
+vmwHbNotifications: 1.3.6.1.4.1.6876.4.190.0

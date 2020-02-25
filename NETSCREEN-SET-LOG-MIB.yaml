@@ -1,0 +1,14 @@
+netscreenSetLogMibModule: 1.3.6.1.4.1.3224.7.0.8
+nsSetLog: 1.3.6.1.4.1.3224.7.8
+nsSetLogEnable: 1.3.6.1.4.1.3224.7.8.1
+nsSetLogFacility: 1.3.6.1.4.1.3224.7.8.7
+nsSetLogHostName: 1.3.6.1.4.1.3224.7.8.4
+nsSetLogLevel: 1.3.6.1.4.1.3224.7.8.8
+nsSetLogPort: 1.3.6.1.4.1.3224.7.8.5
+nsSetLogSecFacility: 1.3.6.1.4.1.3224.7.8.6
+nsSetLogTraffic: 1.3.6.1.4.1.3224.7.8.3
+nsSetLogVPNEnable: 1.3.6.1.4.1.3224.7.8.2
+nsSetLogWebTrendsEnable: 1.3.6.1.4.1.3224.7.8.9
+nsSetLogWebTrendsHostName: 1.3.6.1.4.1.3224.7.8.11
+nsSetLogWebTrendsPort: 1.3.6.1.4.1.3224.7.8.12
+nsSetLogWebTrendsVPNEnable: 1.3.6.1.4.1.3224.7.8.10

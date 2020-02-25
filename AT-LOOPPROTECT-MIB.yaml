@@ -1,0 +1,11 @@
+atLoopProtect: 1.3.6.1.4.1.207.8.4.4.4.54
+atLoopProtectAction: 1.3.6.1.4.1.207.8.4.4.4.54.1
+atLoopProtectDetectedByLoopDetectionTrap: 1.3.6.1.4.1.207.8.4.4.4.54.0.3
+atLoopProtectDetectedByThrashLimitTrap: 1.3.6.1.4.1.207.8.4.4.4.54.0.4
+atLoopProtectDetectedLoopBlockedTrap: 1.3.6.1.4.1.207.8.4.4.4.54.0.1
+atLoopProtectIfIndex: 1.3.6.1.4.1.207.8.4.4.4.54.2
+atLoopProtectRecoverLoopBlockedTrap: 1.3.6.1.4.1.207.8.4.4.4.54.0.2
+atLoopProtectRxLDFIfIndex: 1.3.6.1.4.1.207.8.4.4.4.54.4
+atLoopProtectRxLDFVlanId: 1.3.6.1.4.1.207.8.4.4.4.54.5
+atLoopProtectTrap: 1.3.6.1.4.1.207.8.4.4.4.54.0
+atLoopProtectVlanId: 1.3.6.1.4.1.207.8.4.4.4.54.3

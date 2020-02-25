@@ -1,0 +1,15 @@
+hpicfIpv6RAGuard: 1.3.6.1.4.1.11.2.14.11.5.1.87
+hpicfIpv6RAGuardCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.87.2.1.1
+hpicfIpv6RAGuardCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.87.2.1
+hpicfIpv6RAGuardConfig: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1
+hpicfIpv6RAGuardConformance: 1.3.6.1.4.1.11.2.14.11.5.1.87.2
+hpicfIpv6RAGuardGroup: 1.3.6.1.4.1.11.2.14.11.5.1.87.2.2.1
+hpicfIpv6RAGuardGroups: 1.3.6.1.4.1.11.2.14.11.5.1.87.2.2
+hpicfIpv6RAGuardObjects: 1.3.6.1.4.1.11.2.14.11.5.1.87.1
+hpicfRAGuardLastErrorCode: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1.5
+hpicfRAGuardPortBlocked: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1.1
+hpicfRAGuardPortBlockedRAs: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1.2
+hpicfRAGuardPortBlockedRedirs: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1.3
+hpicfRAGuardPortEntry: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1
+hpicfRAGuardPortLog: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1.1.4
+hpicfRAGuardPortTable: 1.3.6.1.4.1.11.2.14.11.5.1.87.1.1.1

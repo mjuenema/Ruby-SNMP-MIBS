@@ -1,0 +1,9 @@
+rlCustom1BonjourService: 1.3.6.1.4.1.9.6.1.101.143
+rlCustom1BonjourServiceEnable: 1.3.6.1.4.1.9.6.1.101.143.1.1.4
+rlCustom1BonjourServiceEntry: 1.3.6.1.4.1.9.6.1.101.143.1.1
+rlCustom1BonjourServiceOptions: 1.3.6.1.4.1.9.6.1.101.143.1.1.5
+rlCustom1BonjourServicePort: 1.3.6.1.4.1.9.6.1.101.143.1.1.3
+rlCustom1BonjourServiceStatus: 1.3.6.1.4.1.9.6.1.101.143.1.1.6
+rlCustom1BonjourServiceTable: 1.3.6.1.4.1.9.6.1.101.143.1
+rlCustom1BonjourServiceTransport: 1.3.6.1.4.1.9.6.1.101.143.1.1.2
+rlCustom1BonjourServiceTypeName: 1.3.6.1.4.1.9.6.1.101.143.1.1.1

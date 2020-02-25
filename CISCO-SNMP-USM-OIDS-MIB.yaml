@@ -1,0 +1,5 @@
+ciscoSnmpPrivProtocols: 1.3.6.1.4.1.9.12.6.1
+ciscoSnmpUsmOidsMIB: 1.3.6.1.4.1.9.12.6
+cusm3DES168PrivProtocol: 1.3.6.1.4.1.9.12.6.1.3
+cusmAESCfb192PrivProtocol: 1.3.6.1.4.1.9.12.6.1.1
+cusmAESCfb256PrivProtocol: 1.3.6.1.4.1.9.12.6.1.2

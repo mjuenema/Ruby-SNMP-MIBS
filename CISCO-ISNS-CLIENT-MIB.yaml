@@ -1,0 +1,17 @@
+cIsnsClientConfig: 1.3.6.1.4.1.9.9.372.1.1
+cIsnsClntServerIndex: 1.3.6.1.4.1.9.9.372.1.1.1.1.2
+cIsnsClntServerProfileAddr: 1.3.6.1.4.1.9.9.372.1.1.1.1.4
+cIsnsClntServerProfileAddrType: 1.3.6.1.4.1.9.9.372.1.1.1.1.3
+cIsnsClntServerProfileEntry: 1.3.6.1.4.1.9.9.372.1.1.1.1
+cIsnsClntServerProfileName: 1.3.6.1.4.1.9.9.372.1.1.1.1.1
+cIsnsClntServerProfilePort: 1.3.6.1.4.1.9.9.372.1.1.1.1.5
+cIsnsClntServerProfileStatus: 1.3.6.1.4.1.9.9.372.1.1.1.1.6
+cIsnsClntServerProfileTable: 1.3.6.1.4.1.9.9.372.1.1.1
+cIsnsServerConfigGroup: 1.3.6.1.4.1.9.9.372.2.2.1
+ciscoIsnsClientMIB: 1.3.6.1.4.1.9.9.372
+ciscoIsnsClientMIBCompliance: 1.3.6.1.4.1.9.9.372.2.1.1
+ciscoIsnsClientMIBConformance: 1.3.6.1.4.1.9.9.372.2
+ciscoIsnsClientMIBGroups: 1.3.6.1.4.1.9.9.372.2.2
+ciscoIsnsClientMIBMIBObjects: 1.3.6.1.4.1.9.9.372.1
+ciscoIsnsClientMIBNotifications: 1.3.6.1.4.1.9.9.372.0
+ciscoiIsnsClientMIBCompliances: 1.3.6.1.4.1.9.9.372.2.1

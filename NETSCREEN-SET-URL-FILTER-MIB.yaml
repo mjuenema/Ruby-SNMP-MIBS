@@ -1,0 +1,10 @@
+netscreenSetUrlFilterMibModule: 1.3.6.1.4.1.3224.7.0.4
+nsSetURLFilter: 1.3.6.1.4.1.3224.7.4
+nsSetUrlBlockMsgType: 1.3.6.1.4.1.3224.7.4.7
+nsSetUrlCommTimeout: 1.3.6.1.4.1.3224.7.4.4
+nsSetUrlFilterViaWebsense: 1.3.6.1.4.1.3224.7.4.1
+nsSetUrlNsBlockMsg: 1.3.6.1.4.1.3224.7.4.8
+nsSetUrlSerLostHdlWay: 1.3.6.1.4.1.3224.7.4.6
+nsSetUrlServerName: 1.3.6.1.4.1.3224.7.4.2
+nsSetUrlServerPort: 1.3.6.1.4.1.3224.7.4.3
+nsSetUrlServerStatus: 1.3.6.1.4.1.3224.7.4.5

@@ -1,0 +1,9 @@
+rlProtectedPortCommunity: 1.3.6.1.4.1.9.6.1.101.132.1.1.2
+rlProtectedPortEgressPorts: 1.3.6.1.4.1.9.6.1.101.132.2.1.1
+rlProtectedPortType: 1.3.6.1.4.1.9.6.1.101.132.1.1.1
+rlProtectedPorts: 1.3.6.1.4.1.9.6.1.101.132
+rlProtectedPortsEntry: 1.3.6.1.4.1.9.6.1.101.132.1.1
+rlProtectedPortsGlobalEnable: 1.3.6.1.4.1.9.6.1.101.132.3
+rlProtectedPortsStatusEntry: 1.3.6.1.4.1.9.6.1.101.132.2.1
+rlProtectedPortsStatusTable: 1.3.6.1.4.1.9.6.1.101.132.2
+rlProtectedPortsTable: 1.3.6.1.4.1.9.6.1.101.132.1

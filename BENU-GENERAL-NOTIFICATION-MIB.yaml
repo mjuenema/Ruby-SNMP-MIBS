@@ -1,0 +1,5 @@
+bGeneralNotifyMIBObjects: 1.3.6.1.4.1.39406.1.4.1
+bGeneralNotifyMIBTraps: 1.3.6.1.4.1.39406.1.4.0
+bNotifyAgentRestart: 1.3.6.1.4.1.39406.1.4.0.2
+bNotifyAgentShutDown: 1.3.6.1.4.1.39406.1.4.0.1
+benuGeneralNotif: 1.3.6.1.4.1.39406.1.4

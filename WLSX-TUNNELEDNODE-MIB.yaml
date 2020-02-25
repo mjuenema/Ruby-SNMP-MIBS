@@ -1,0 +1,8 @@
+wlsxNumTunnels: 1.3.6.1.4.1.14823.2.2.1.17.1.1.1.3
+wlsxTunneledNodeIp: 1.3.6.1.4.1.14823.2.2.1.17.1.1.1.2
+wlsxTunneledNodeMAC: 1.3.6.1.4.1.14823.2.2.1.17.1.1.1.1
+wlsxTunneledNodeMIB: 1.3.6.1.4.1.14823.2.2.1.17
+wlsxTunneledNodeOpGroup: 1.3.6.1.4.1.14823.2.2.1.17.1
+wlsxTunneledNodeRequestEntry: 1.3.6.1.4.1.14823.2.2.1.17.1.1.1
+wlsxTunneledNodeRequestTable: 1.3.6.1.4.1.14823.2.2.1.17.1.1
+wlsxTunneledNodeType: 1.3.6.1.4.1.14823.2.2.1.17.1.1.1.4

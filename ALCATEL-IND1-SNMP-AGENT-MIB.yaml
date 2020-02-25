@@ -1,0 +1,13 @@
+alcatelIND1SNMPAgentMIB: 1.3.6.1.4.1.6486.800.1.2.1.1.1
+alcatelIND1SNMPAgentMIBCompliance: 1.3.6.1.4.1.6486.800.1.2.1.1.1.2.2.1
+alcatelIND1SNMPAgentMIBCompliances: 1.3.6.1.4.1.6486.800.1.2.1.1.1.2.2
+alcatelIND1SNMPAgentMIBConformance: 1.3.6.1.4.1.6486.800.1.2.1.1.1.2
+alcatelIND1SNMPAgentMIBGroups: 1.3.6.1.4.1.6486.800.1.2.1.1.1.2.1
+alcatelIND1SNMPAgentMIBObjects: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1
+snmpAgtCommunityMode: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.1.2
+snmpAgtConfig: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.1
+snmpAgtConfigGroup: 1.3.6.1.4.1.6486.800.1.2.1.1.1.2.1.1
+snmpAgtCtlFiles: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.3
+snmpAgtSecurityLevel: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.1.1
+snmpAgtSourceIp: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.5
+snmpAgtSourceIpConfig: 1.3.6.1.4.1.6486.800.1.2.1.1.1.1.4

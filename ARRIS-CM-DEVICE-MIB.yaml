@@ -1,0 +1,15 @@
+arrisCmDevBase: 1.3.6.1.4.1.4115.1.3.1.1.1
+arrisCmDevCmSetup: 1.3.6.1.4.1.4115.1.3.1.1.2
+arrisCmDevCmTest: 1.3.6.1.4.1.4115.1.3.1.1.3
+arrisCmDevEnableDocsis20: 1.3.6.1.4.1.4115.1.3.1.1.2.3.3
+arrisCmDevManufacturingTest: 1.3.6.1.4.1.4115.1.3.1.1.3.2
+arrisCmDevMib: 1.3.6.1.4.1.4115.1.3.1
+arrisCmDevMibObjects: 1.3.6.1.4.1.4115.1.3.1.1
+arrisCmDevOperationalSetup: 1.3.6.1.4.1.4115.1.3.1.1.2.3
+arrisCmDevOperationalTest: 1.3.6.1.4.1.4115.1.3.1.1.3.3
+arrisCmDevPermanentSetup: 1.3.6.1.4.1.4115.1.3.1.1.2.2
+arrisCmDevProvMethodIndicator: 1.3.6.1.4.1.4115.1.3.1.1.2.3.2
+arrisCmDevSalesSetup: 1.3.6.1.4.1.4115.1.3.1.1.2.4
+arrisCmDevSwImageBuildTime: 1.3.6.1.4.1.4115.1.3.1.1.1.3
+arrisCmDevSwImageName: 1.3.6.1.4.1.4115.1.3.1.1.1.2
+arrisCmDevWanIsolationState: 1.3.6.1.4.1.4115.1.3.1.1.1.1

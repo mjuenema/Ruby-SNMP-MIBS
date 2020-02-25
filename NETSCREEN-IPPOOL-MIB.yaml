@@ -1,0 +1,9 @@
+netscreenIppoolMibModule: 1.3.6.1.4.1.3224.4.0.9
+nsVpnIpPool: 1.3.6.1.4.1.3224.4.9
+nsVpnIpPoolEndIp: 1.3.6.1.4.1.3224.4.9.1.1.4
+nsVpnIpPoolEntry: 1.3.6.1.4.1.3224.4.9.1.1
+nsVpnIpPoolIndex: 1.3.6.1.4.1.3224.4.9.1.1.1
+nsVpnIpPoolIpUsed: 1.3.6.1.4.1.3224.4.9.1.1.5
+nsVpnIpPoolName: 1.3.6.1.4.1.3224.4.9.1.1.2
+nsVpnIpPoolStartIp: 1.3.6.1.4.1.3224.4.9.1.1.3
+nsVpnIpPoolTable: 1.3.6.1.4.1.3224.4.9.1

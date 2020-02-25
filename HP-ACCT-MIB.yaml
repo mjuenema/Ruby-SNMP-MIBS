@@ -1,0 +1,16 @@
+hpSwitchAccountingConfig: 1.3.6.1.4.1.11.2.14.11.5.1.17.1
+hpSwitchAccountingConfigGroup: 1.3.6.1.4.1.11.2.14.11.5.1.17.3.2.1
+hpSwitchAccountingMIB: 1.3.6.1.4.1.11.2.14.11.5.1.17
+hpSwitchAccountingMIBCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.17.3.1.1
+hpSwitchAccountingMIBCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.17.3.1
+hpSwitchAccountingMIBConformance: 1.3.6.1.4.1.11.2.14.11.5.1.17.3
+hpSwitchAccountingMIBGroups: 1.3.6.1.4.1.11.2.14.11.5.1.17.3.2
+hpSwitchAcctServiceEntry: 1.3.6.1.4.1.11.2.14.11.5.1.17.2.1
+hpSwitchAcctServiceIndex: 1.3.6.1.4.1.11.2.14.11.5.1.17.2.1.1
+hpSwitchAcctServiceMethod: 1.3.6.1.4.1.11.2.14.11.5.1.17.2.1.2
+hpSwitchAcctServiceMode: 1.3.6.1.4.1.11.2.14.11.5.1.17.2.1.3
+hpSwitchAcctServiceServerGroupName: 1.3.6.1.4.1.11.2.14.11.5.1.17.2.1.4
+hpSwitchAcctServiceTable: 1.3.6.1.4.1.11.2.14.11.5.1.17.2
+hpSwitchAcctSessionIdentification: 1.3.6.1.4.1.11.2.14.11.5.1.17.1.3
+hpSwitchAcctSuppressNullUserName: 1.3.6.1.4.1.11.2.14.11.5.1.17.1.2
+hpSwitchAcctUpdateInterval: 1.3.6.1.4.1.11.2.14.11.5.1.17.1.1

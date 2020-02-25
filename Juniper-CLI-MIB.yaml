@@ -1,0 +1,17 @@
+juniCliCompliance: 1.3.6.1.4.1.4874.2.2.30.2.1.1
+juniCliCompliances: 1.3.6.1.4.1.4874.2.2.30.2.1
+juniCliConformance: 1.3.6.1.4.1.4874.2.2.30.2
+juniCliGeneral: 1.3.6.1.4.1.4874.2.2.30.1.1
+juniCliGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.1
+juniCliGroups: 1.3.6.1.4.1.4874.2.2.30.2.2
+juniCliMIB: 1.3.6.1.4.1.4874.2.2.30
+juniCliObjects: 1.3.6.1.4.1.4874.2.2.30.1
+juniCliSecurity: 1.3.6.1.4.1.4874.2.2.30.1.2
+juniCliSecurityAlert: 1.3.6.1.4.1.4874.2.2.30.0.1
+juniCliSecurityAlertGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.2
+juniCliSecurityAlertMessage: 1.3.6.1.4.1.4874.2.2.30.1.2.2
+juniCliSecurityAlertPriority: 1.3.6.1.4.1.4874.2.2.30.1.2.1
+juniCliSecurityAlertTime: 1.3.6.1.4.1.4874.2.2.30.1.2.3
+juniCliSecurityTrapEnable: 1.3.6.1.4.1.4874.2.2.30.1.1.1
+juniCliSecurityTrapGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.3
+juniCliTrap: 1.3.6.1.4.1.4874.2.2.30.0

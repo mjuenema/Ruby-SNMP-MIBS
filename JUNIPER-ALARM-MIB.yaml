@@ -1,0 +1,11 @@
+jnxAlarmRelayMode: 1.3.6.1.4.1.2636.3.4.2.1
+jnxAlarms: 1.3.6.1.4.1.2636.3.4
+jnxCraftAlarms: 1.3.6.1.4.1.2636.3.4.2
+jnxRedAlarmCount: 1.3.6.1.4.1.2636.3.4.2.3.2
+jnxRedAlarmLastChange: 1.3.6.1.4.1.2636.3.4.2.3.3
+jnxRedAlarmState: 1.3.6.1.4.1.2636.3.4.2.3.1
+jnxRedAlarms: 1.3.6.1.4.1.2636.3.4.2.3
+jnxYellowAlarmCount: 1.3.6.1.4.1.2636.3.4.2.2.2
+jnxYellowAlarmLastChange: 1.3.6.1.4.1.2636.3.4.2.2.3
+jnxYellowAlarmState: 1.3.6.1.4.1.2636.3.4.2.2.1
+jnxYellowAlarms: 1.3.6.1.4.1.2636.3.4.2.2

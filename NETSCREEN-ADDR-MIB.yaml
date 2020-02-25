@@ -1,0 +1,10 @@
+netscreenAddrMibModule: 1.3.6.1.4.1.3224.12.0
+nsAddrComment: 1.3.6.1.4.1.3224.12.1.1.7
+nsAddrEntry: 1.3.6.1.4.1.3224.12.1.1
+nsAddrIndex: 1.3.6.1.4.1.3224.12.1.1.1
+nsAddrIpOrDomain: 1.3.6.1.4.1.3224.12.1.1.5
+nsAddrName: 1.3.6.1.4.1.3224.12.1.1.2
+nsAddrNetmask: 1.3.6.1.4.1.3224.12.1.1.6
+nsAddrTable: 1.3.6.1.4.1.3224.12.1
+nsAddrVsys: 1.3.6.1.4.1.3224.12.1.1.3
+nsAddrZone: 1.3.6.1.4.1.3224.12.1.1.4

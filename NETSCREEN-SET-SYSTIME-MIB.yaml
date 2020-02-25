@@ -1,0 +1,8 @@
+netscreenSetSystimeMibModule: 1.3.6.1.4.1.3224.7.0.6
+nsSetNtpEnable: 1.3.6.1.4.1.3224.7.6.3.1
+nsSetNtpServer: 1.3.6.1.4.1.3224.7.6.3.2
+nsSetNtpUpdateInterval: 1.3.6.1.4.1.3224.7.6.3.3
+nsSetSysTime: 1.3.6.1.4.1.3224.7.6
+nsSetSysTimeDaySaving: 1.3.6.1.4.1.3224.7.6.2
+nsSetSysTimeGmtOffset: 1.3.6.1.4.1.3224.7.6.1
+nsSetSysTimeNTP: 1.3.6.1.4.1.3224.7.6.3

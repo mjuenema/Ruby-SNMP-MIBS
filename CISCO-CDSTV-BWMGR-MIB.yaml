@@ -1,0 +1,15 @@
+cdstvBWMgrAddress: 1.3.6.1.4.1.9.9.749.1.2
+cdstvBWMgrAddressType: 1.3.6.1.4.1.9.9.749.1.1
+cdstvBWMgrDatabaseThreadPool: 1.3.6.1.4.1.9.9.749.1.4
+cdstvBWMgrPort: 1.3.6.1.4.1.9.9.749.1.3
+cdstvBWMgrServerThreadPool: 1.3.6.1.4.1.9.9.749.1.5
+cdstvBWMgrSyncAlarm: 1.3.6.1.4.1.9.9.749.1.7
+cdstvBWMgrSyncThreadPool: 1.3.6.1.4.1.9.9.749.1.6
+ciscoCdstvBWMgrMIBCompliance: 1.3.6.1.4.1.9.9.749.2.1.1
+ciscoCdstvBWMgrMIBCompliances: 1.3.6.1.4.1.9.9.749.2.1
+ciscoCdstvBWMgrMIBConform: 1.3.6.1.4.1.9.9.749.2
+ciscoCdstvBWMgrMIBGroups: 1.3.6.1.4.1.9.9.749.2.2
+ciscoCdstvBWMgrMIBMainObjectGroup: 1.3.6.1.4.1.9.9.749.2.2.1
+ciscoCdstvBWMgrMIBNotifs: 1.3.6.1.4.1.9.9.749.0
+ciscoCdstvBWMgrMIBObjects: 1.3.6.1.4.1.9.9.749.1
+ciscoCdstvBwmgrMIB: 1.3.6.1.4.1.9.9.749

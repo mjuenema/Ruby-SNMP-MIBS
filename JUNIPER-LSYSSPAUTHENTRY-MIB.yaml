@@ -1,0 +1,17 @@
+jnxLsysSpAuthentryAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.3
+jnxLsysSpAuthentryEntry: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1
+jnxLsysSpAuthentryHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.4
+jnxLsysSpAuthentryHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.5
+jnxLsysSpAuthentryLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.6
+jnxLsysSpAuthentryLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.7
+jnxLsysSpAuthentryLsysName: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1.1
+jnxLsysSpAuthentryMIB: 1.3.6.1.4.1.2636.3.39.1.17.7.1
+jnxLsysSpAuthentryMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.2
+jnxLsysSpAuthentryMaximum: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1.5
+jnxLsysSpAuthentryObjects: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1
+jnxLsysSpAuthentryProfileName: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1.2
+jnxLsysSpAuthentryReserved: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1.4
+jnxLsysSpAuthentrySummary: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2
+jnxLsysSpAuthentryTable: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1
+jnxLsysSpAuthentryUsage: 1.3.6.1.4.1.2636.3.39.1.17.7.1.1.1.1.3
+jnxLsysSpAuthentryUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.7.1.2.1

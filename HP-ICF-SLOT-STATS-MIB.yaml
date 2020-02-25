@@ -1,0 +1,15 @@
+hpicfModuleSlotStatsReadOnlyCompliance1: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2.2.2
+hpicfSlotStatsCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2.2
+hpicfSlotStatsConformance: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2
+hpicfSlotStatsFullCompliance1: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2.2.1
+hpicfSlotStatsGroup: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2.1.1
+hpicfSlotStatsGroups: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.2.1
+hpicfSlotStatsMIB: 1.3.6.1.4.1.11.2.14.11.5.1.9.20
+hpicfSlotStatsModuleCpuStatAveragePercent: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1.1.4
+hpicfSlotStatsModuleCpuStatCurrentPercent: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1.1.3
+hpicfSlotStatsModuleCpuStatEntry: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1.1
+hpicfSlotStatsModuleCpuStatTable: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1
+hpicfSlotStatsModuleCpuStatUpdateFrequency: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.2
+hpicfSlotStatsModuleHwModel: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1.1.1
+hpicfSlotStatsModuleSerialNum: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1.1.1.2
+hpicfSlotStatsObjects: 1.3.6.1.4.1.11.2.14.11.5.1.9.20.1

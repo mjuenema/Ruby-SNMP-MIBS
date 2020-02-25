@@ -1,0 +1,11 @@
+sa: 1.3.6.1.4.1.1429
+saMta: 1.3.6.1.4.1.1429.78.3
+saMtaDevOffHookWarnTOBusy: 1.3.6.1.4.1.1429.78.3.1.61
+saMtaDevice: 1.3.6.1.4.1.1429.78.3.1
+saMtaEndPntHookFlashMaxTime: 1.3.6.1.4.1.1429.78.3.2.1.2
+saMtaEndPntHookFlashMinTime: 1.3.6.1.4.1.1429.78.3.2.1.1
+saMtaEndPntStateLogical: 1.3.6.1.4.1.1429.78.3.2.1.7
+saMtaEndPntStatePhysical: 1.3.6.1.4.1.1429.78.3.2.1.6
+saMtaEndPointEntry: 1.3.6.1.4.1.1429.78.3.2.1
+saMtaEndPointTable: 1.3.6.1.4.1.1429.78.3.2
+saVoip: 1.3.6.1.4.1.1429.78

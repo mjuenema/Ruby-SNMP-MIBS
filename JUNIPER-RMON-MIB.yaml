@@ -1,0 +1,11 @@
+jnxRmon: 1.3.6.1.4.1.2636.3.13
+jnxRmonAlarmEntry: 1.3.6.1.4.1.2636.3.13.1.1
+jnxRmonAlarmGetFailCnt: 1.3.6.1.4.1.2636.3.13.1.1.1
+jnxRmonAlarmGetFailReason: 1.3.6.1.4.1.2636.3.13.1.1.3
+jnxRmonAlarmGetFailTime: 1.3.6.1.4.1.2636.3.13.1.1.2
+jnxRmonAlarmGetFailure: 1.3.6.1.4.1.2636.4.3.0.1
+jnxRmonAlarmGetOkTime: 1.3.6.1.4.1.2636.3.13.1.1.4
+jnxRmonAlarmState: 1.3.6.1.4.1.2636.3.13.1.1.5
+jnxRmonAlarmTable: 1.3.6.1.4.1.2636.3.13.1
+jnxRmonGetOk: 1.3.6.1.4.1.2636.4.3.0.2
+jnxRmonTrapPrefix: 1.3.6.1.4.1.2636.4.3.0

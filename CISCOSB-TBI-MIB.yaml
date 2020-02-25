@@ -1,0 +1,15 @@
+rlTBIMib: 1.3.6.1.4.1.9.6.1.101.145
+rlTBIPeriodicEnd: 1.3.6.1.4.1.9.6.1.101.145.2.1.4
+rlTBIPeriodicEntry: 1.3.6.1.4.1.9.6.1.101.145.2.1
+rlTBIPeriodicRowStatus: 1.3.6.1.4.1.9.6.1.101.145.2.1.5
+rlTBIPeriodicStart: 1.3.6.1.4.1.9.6.1.101.145.2.1.3
+rlTBIPeriodicTable: 1.3.6.1.4.1.9.6.1.101.145.2
+rlTBIPeriodicTimeRangeName: 1.3.6.1.4.1.9.6.1.101.145.2.1.1
+rlTBIPeriodicWeekDayList: 1.3.6.1.4.1.9.6.1.101.145.2.1.2
+rlTBITimeRangeAbsoluteEnd: 1.3.6.1.4.1.9.6.1.101.145.1.1.3
+rlTBITimeRangeAbsoluteStart: 1.3.6.1.4.1.9.6.1.101.145.1.1.2
+rlTBITimeRangeActiveStatus: 1.3.6.1.4.1.9.6.1.101.145.1.1.4
+rlTBITimeRangeEntry: 1.3.6.1.4.1.9.6.1.101.145.1.1
+rlTBITimeRangeName: 1.3.6.1.4.1.9.6.1.101.145.1.1.1
+rlTBITimeRangeRowStatus: 1.3.6.1.4.1.9.6.1.101.145.1.1.5
+rlTBITimeRangeTable: 1.3.6.1.4.1.9.6.1.101.145.1

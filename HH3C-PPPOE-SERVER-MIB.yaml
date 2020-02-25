@@ -1,0 +1,15 @@
+hh3cPPPoESAbnormOffPerAlarm: 1.3.6.1.4.1.25506.2.102.2.0.2
+hh3cPPPoESAbnormOffPerThreshold: 1.3.6.1.4.1.25506.2.102.1.7
+hh3cPPPoESAbnormOffsAlarm: 1.3.6.1.4.1.25506.2.102.2.0.1
+hh3cPPPoESAbnormOffsThreshold: 1.3.6.1.4.1.25506.2.102.1.6
+hh3cPPPoESNormOffPerAlarm: 1.3.6.1.4.1.25506.2.102.2.0.3
+hh3cPPPoESNormOffPerThreshold: 1.3.6.1.4.1.25506.2.102.1.8
+hh3cPPPoEServer: 1.3.6.1.4.1.25506.2.102
+hh3cPPPoEServerAuthFailures: 1.3.6.1.4.1.25506.2.102.1.5
+hh3cPPPoEServerAuthRequests: 1.3.6.1.4.1.25506.2.102.1.3
+hh3cPPPoEServerAuthSuccesses: 1.3.6.1.4.1.25506.2.102.1.4
+hh3cPPPoEServerCurrSessions: 1.3.6.1.4.1.25506.2.102.1.2
+hh3cPPPoEServerMaxSessions: 1.3.6.1.4.1.25506.2.102.1.1
+hh3cPPPoEServerObject: 1.3.6.1.4.1.25506.2.102.1
+hh3cPPPoEServerTraps: 1.3.6.1.4.1.25506.2.102.2
+hh3cPPPoeServerTrapPrefix: 1.3.6.1.4.1.25506.2.102.2.0

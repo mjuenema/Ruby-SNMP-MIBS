@@ -1,0 +1,14 @@
+rlTelnet: 1.3.6.1.4.1.9.6.1.101.58
+rlTelnetEnable: 1.3.6.1.4.1.9.6.1.101.58.7
+rlTelnetLoginBanner: 1.3.6.1.4.1.9.6.1.101.58.5
+rlTelnetMibVersion: 1.3.6.1.4.1.9.6.1.101.58.1
+rlTelnetPassword: 1.3.6.1.4.1.9.6.1.101.58.2
+rlTelnetSecondLoginBanner: 1.3.6.1.4.1.9.6.1.101.58.6
+rlTelnetSessionClientAddress: 1.3.6.1.4.1.9.6.1.101.58.4.1.3
+rlTelnetSessionClientAddressType: 1.3.6.1.4.1.9.6.1.101.58.4.1.2
+rlTelnetSessionId: 1.3.6.1.4.1.9.6.1.101.58.4.1.1
+rlTelnetSessionLoginTime: 1.3.6.1.4.1.9.6.1.101.58.4.1.4
+rlTelnetSessionStatus: 1.3.6.1.4.1.9.6.1.101.58.4.1.5
+rlTelnetTimeout: 1.3.6.1.4.1.9.6.1.101.58.3
+rlTelnetUsersEntry: 1.3.6.1.4.1.9.6.1.101.58.4.1
+rlTelnetUsersTable: 1.3.6.1.4.1.9.6.1.101.58.4

@@ -1,0 +1,10 @@
+pvstpm: 1.3.6.1.4.1.207.8.4.4.4.140
+pvstpmBridgeId: 1.3.6.1.4.1.207.8.4.4.4.140.1.1
+pvstpmEventVariables: 1.3.6.1.4.1.207.8.4.4.4.140.1
+pvstpmEvents: 1.3.6.1.4.1.207.8.4.4.4.140.0
+pvstpmInconsistentBPDU: 1.3.6.1.4.1.207.8.4.4.4.140.0.2
+pvstpmRxPort: 1.3.6.1.4.1.207.8.4.4.4.140.1.3
+pvstpmRxVlan: 1.3.6.1.4.1.207.8.4.4.4.140.1.4
+pvstpmTopologyChange: 1.3.6.1.4.1.207.8.4.4.4.140.0.1
+pvstpmTopologyChangeVlan: 1.3.6.1.4.1.207.8.4.4.4.140.1.2
+pvstpmTxVlan: 1.3.6.1.4.1.207.8.4.4.4.140.1.5

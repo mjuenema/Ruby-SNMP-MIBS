@@ -1,0 +1,17 @@
+usdCliCompliance: 1.3.6.1.4.1.4874.2.2.30.2.1.1
+usdCliCompliances: 1.3.6.1.4.1.4874.2.2.30.2.1
+usdCliConformance: 1.3.6.1.4.1.4874.2.2.30.2
+usdCliGeneral: 1.3.6.1.4.1.4874.2.2.30.1.1
+usdCliGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.1
+usdCliGroups: 1.3.6.1.4.1.4874.2.2.30.2.2
+usdCliMIB: 1.3.6.1.4.1.4874.2.2.30
+usdCliObjects: 1.3.6.1.4.1.4874.2.2.30.1
+usdCliSecurity: 1.3.6.1.4.1.4874.2.2.30.1.2
+usdCliSecurityAlert: 1.3.6.1.4.1.4874.2.2.30.0.1
+usdCliSecurityAlertGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.2
+usdCliSecurityAlertMessage: 1.3.6.1.4.1.4874.2.2.30.1.2.2
+usdCliSecurityAlertPriority: 1.3.6.1.4.1.4874.2.2.30.1.2.1
+usdCliSecurityAlertTime: 1.3.6.1.4.1.4874.2.2.30.1.2.3
+usdCliSecurityTrapEnable: 1.3.6.1.4.1.4874.2.2.30.1.1.1
+usdCliSecurityTrapGroup: 1.3.6.1.4.1.4874.2.2.30.2.2.3
+usdCliTrap: 1.3.6.1.4.1.4874.2.2.30.0

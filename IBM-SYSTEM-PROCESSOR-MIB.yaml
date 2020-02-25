@@ -1,0 +1,17 @@
+ibmSystemProcessorAddressWidth: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.8
+ibmSystemProcessorCPUStatus: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.14
+ibmSystemProcessorCurrentClockSpeed: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.6
+ibmSystemProcessorDataWidth: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.9
+ibmSystemProcessorDescription: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.5
+ibmSystemProcessorDeviceID: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.12
+ibmSystemProcessorEntry: 1.3.6.1.4.1.2.6.159.1.1.140.1.1
+ibmSystemProcessorFamily: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.3
+ibmSystemProcessorKeyIndex: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.1
+ibmSystemProcessorManufacturer: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.2
+ibmSystemProcessorMaxClockSpeed: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.7
+ibmSystemProcessorPowerManagementSupported: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.10
+ibmSystemProcessorStatus: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.15
+ibmSystemProcessorStepping: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.4
+ibmSystemProcessorTable: 1.3.6.1.4.1.2.6.159.1.1.140.1
+ibmSystemProcessorUniqueID: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.13
+ibmSystemProcessorUpgradeMethod: 1.3.6.1.4.1.2.6.159.1.1.140.1.1.11

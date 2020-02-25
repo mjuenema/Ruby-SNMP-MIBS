@@ -1,0 +1,17 @@
+extremeSmartTrapFlushInstanceTableIndex: 1.3.6.1.4.1.1916.1.6.3
+extremeSmartTrapInstanceActualOperation: 1.3.6.1.4.1.1916.1.6.2.1.4
+extremeSmartTrapInstanceChangeTime: 1.3.6.1.4.1.1916.1.6.2.1.5
+extremeSmartTrapInstanceChangedOid: 1.3.6.1.4.1.1916.1.6.2.1.3
+extremeSmartTrapInstanceEntry: 1.3.6.1.4.1.1916.1.6.2.1
+extremeSmartTrapInstanceRule: 1.3.6.1.4.1.1916.1.6.2.1.2
+extremeSmartTrapInstanceSubindex: 1.3.6.1.4.1.1916.1.6.2.1.1
+extremeSmartTrapInstanceTable: 1.3.6.1.4.1.1916.1.6.2
+extremeSmartTrapRulesDesiredOID: 1.3.6.1.4.1.1916.1.6.1.1.3
+extremeSmartTrapRulesEntry: 1.3.6.1.4.1.1916.1.6.1.1
+extremeSmartTrapRulesIndex: 1.3.6.1.4.1.1916.1.6.1.1.1
+extremeSmartTrapRulesOperation: 1.3.6.1.4.1.1916.1.6.1.1.5
+extremeSmartTrapRulesRowStatus: 1.3.6.1.4.1.1916.1.6.1.1.2
+extremeSmartTrapRulesSupportedOID: 1.3.6.1.4.1.1916.1.6.1.1.4
+extremeSmartTrapRulesTable: 1.3.6.1.4.1.1916.1.6.1
+extremeSmartTrapRulesTrapDestIndex: 1.3.6.1.4.1.1916.1.6.1.1.6
+extremeTrapPoll: 1.3.6.1.4.1.1916.1.6

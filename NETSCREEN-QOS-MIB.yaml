@@ -1,0 +1,13 @@
+netscreenQosMibModule: 1.3.6.1.4.1.3224.5.0
+nsQosPly: 1.3.6.1.4.1.3224.5.3
+nsQosPlyDSEnable: 1.3.6.1.4.1.3224.5.3.1.1.7
+nsQosPlyEntry: 1.3.6.1.4.1.3224.5.3.1.1
+nsQosPlyGanBW: 1.3.6.1.4.1.3224.5.3.1.1.4
+nsQosPlyId: 1.3.6.1.4.1.3224.5.3.1.1.1
+nsQosPlyMaxBW: 1.3.6.1.4.1.3224.5.3.1.1.5
+nsQosPlyQosEnable: 1.3.6.1.4.1.3224.5.3.1.1.3
+nsQosPlyTable: 1.3.6.1.4.1.3224.5.3.1
+nsQosPlyTraffPriority: 1.3.6.1.4.1.3224.5.3.1.1.6
+nsQosPlyVsys: 1.3.6.1.4.1.3224.5.3.1.1.2
+nsQosSysShapingMode: 1.3.6.1.4.1.3224.5.2
+nsQosUsrShapingMode: 1.3.6.1.4.1.3224.5.1

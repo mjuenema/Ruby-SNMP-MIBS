@@ -1,0 +1,17 @@
+agent: 1.3.6.1.4.1.42.2.12.2
+modules: 1.3.6.1.4.1.42.2.12.2.2
+nfsmFileEntry: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1
+nfsmFileSystemAvailSpace: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.4
+nfsmFileSystemEntryIndex: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.8
+nfsmFileSystemGroup: 1.3.6.1.4.1.42.2.12.2.2.27.1
+nfsmFileSystemMountPoint: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.7
+nfsmFileSystemName: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.1
+nfsmFileSystemPctUsedSpace: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.5
+nfsmFileSystemPctUsedSpaceRate: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.6
+nfsmFileSystemSize: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.2
+nfsmFileSystemUsedSpace: 1.3.6.1.4.1.42.2.12.2.2.27.1.1.1.3
+nfsmFileTable: 1.3.6.1.4.1.42.2.12.2.2.27.1.1
+nfsmon: 1.3.6.1.4.1.42.2.12.2.2.27
+prod: 1.3.6.1.4.1.42.2
+sun: 1.3.6.1.4.1.42
+sunsymon: 1.3.6.1.4.1.42.2.12

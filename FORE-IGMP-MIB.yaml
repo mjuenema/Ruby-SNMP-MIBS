@@ -1,0 +1,9 @@
+foreIgmpModule: 1.3.6.1.4.1.326.1.8.3
+igmpIpmcEntry: 1.3.6.1.4.1.326.1.8.3.1.1
+igmpIpmcTable: 1.3.6.1.4.1.326.1.8.3.1
+igmpRouterEntry: 1.3.6.1.4.1.326.1.8.3.2.1
+igmpRouterTable: 1.3.6.1.4.1.326.1.8.3.2
+ipMulticastAddress: 1.3.6.1.4.1.326.1.8.3.1.1.1
+ipmcPortGroup: 1.3.6.1.4.1.326.1.8.3.1.1.2
+routerPortGroup: 1.3.6.1.4.1.326.1.8.3.2.1.2
+vlan: 1.3.6.1.4.1.326.1.8.3.2.1.1

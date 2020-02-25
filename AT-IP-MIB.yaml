@@ -1,0 +1,10 @@
+atIpAddressAddr: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.2
+atIpAddressAddrType: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.1
+atIpAddressAssignmentType: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.6
+atIpAddressEntry: 1.3.6.1.4.1.207.8.4.4.4.602.1.1
+atIpAddressIfIndex: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.5
+atIpAddressLabel: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.4
+atIpAddressPrefixLen: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.3
+atIpAddressRowStatus: 1.3.6.1.4.1.207.8.4.4.4.602.1.1.7
+atIpAddressTable: 1.3.6.1.4.1.207.8.4.4.4.602.1
+atIpMib: 1.3.6.1.4.1.207.8.4.4.4.602

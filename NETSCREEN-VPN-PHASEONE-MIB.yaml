@@ -1,0 +1,13 @@
+netscreenVpnPhaseoneMibModule: 1.3.6.1.4.1.3224.4.0.5
+nsVpnPhOneAuthMethod: 1.3.6.1.4.1.3224.4.5.1.1.3
+nsVpnPhOneDhGroup: 1.3.6.1.4.1.3224.4.5.1.1.4
+nsVpnPhOneEncryp: 1.3.6.1.4.1.3224.4.5.1.1.5
+nsVpnPhOneEntry: 1.3.6.1.4.1.3224.4.5.1.1
+nsVpnPhOneHash: 1.3.6.1.4.1.3224.4.5.1.1.6
+nsVpnPhOneIndex: 1.3.6.1.4.1.3224.4.5.1.1.1
+nsVpnPhOneLifetime: 1.3.6.1.4.1.3224.4.5.1.1.7
+nsVpnPhOneLifetimeMeasure: 1.3.6.1.4.1.3224.4.5.1.1.8
+nsVpnPhOneName: 1.3.6.1.4.1.3224.4.5.1.1.2
+nsVpnPhOneTable: 1.3.6.1.4.1.3224.4.5.1
+nsVpnPhOneVsys: 1.3.6.1.4.1.3224.4.5.1.1.9
+nsVpnPhaseOneCfg: 1.3.6.1.4.1.3224.4.5

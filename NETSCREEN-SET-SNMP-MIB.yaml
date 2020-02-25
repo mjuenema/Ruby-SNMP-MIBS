@@ -1,0 +1,14 @@
+netscreenSetSnmpMibModule: 1.3.6.1.4.1.3224.7.0.9
+nsSetSNMP: 1.3.6.1.4.1.3224.7.9
+nsSetSnmpCommHostEntry: 1.3.6.1.4.1.3224.7.9.5.1
+nsSetSnmpCommHostIndex: 1.3.6.1.4.1.3224.7.9.5.1.1
+nsSetSnmpCommHostTable: 1.3.6.1.4.1.3224.7.9.5
+nsSetSnmpCommunity: 1.3.6.1.4.1.3224.7.9.5.1.2
+nsSetSnmpContact: 1.3.6.1.4.1.3224.7.9.2
+nsSetSnmpHostInComm: 1.3.6.1.4.1.3224.7.9.5.1.3
+nsSetSnmpLocation: 1.3.6.1.4.1.3224.7.9.3
+nsSetSnmpSysName: 1.3.6.1.4.1.3224.7.9.1
+nsSetSnmpTrafficAlarmPermit: 1.3.6.1.4.1.3224.7.9.5.1.6
+nsSetSnmpTrapPermit: 1.3.6.1.4.1.3224.7.9.5.1.5
+nsSetSnmpVPNEnable: 1.3.6.1.4.1.3224.7.9.4
+nsSetSnmpWritePermit: 1.3.6.1.4.1.3224.7.9.5.1.4

@@ -1,0 +1,9 @@
+netscreenSetDhcpMibModule: 1.3.6.1.4.1.3224.7.0.5
+nsSetDHCP: 1.3.6.1.4.1.3224.7.5
+nsSetDHCPRelayServer: 1.3.6.1.4.1.3224.7.5.1.1.3
+nsSetDHCPService: 1.3.6.1.4.1.3224.7.5.1.1.2
+nsSetDHCPVpnEncryp: 1.3.6.1.4.1.3224.7.5.1.1.4
+nsSetDhcpEntry: 1.3.6.1.4.1.3224.7.5.1.1
+nsSetDhcpIfIdx: 1.3.6.1.4.1.3224.7.5.1.1.1
+nsSetDhcpIfInfo: 1.3.6.1.4.1.3224.7.5.1.1.5
+nsSetDhcpTable: 1.3.6.1.4.1.3224.7.5.1

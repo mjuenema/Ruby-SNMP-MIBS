@@ -1,0 +1,12 @@
+deviceAttackEntry: 1.3.6.1.4.1.3417.2.3.1.1.1.1
+deviceAttackIndex: 1.3.6.1.4.1.3417.2.3.1.1.1.1.1
+deviceAttackMIB: 1.3.6.1.4.1.3417.2.3
+deviceAttackMIBNotifications: 1.3.6.1.4.1.3417.2.3.2
+deviceAttackMIBNotificationsPrefix: 1.3.6.1.4.1.3417.2.3.2.0
+deviceAttackMIBObjects: 1.3.6.1.4.1.3417.2.3.1
+deviceAttackName: 1.3.6.1.4.1.3417.2.3.1.1.1.1.2
+deviceAttackStatus: 1.3.6.1.4.1.3417.2.3.1.1.1.1.3
+deviceAttackTable: 1.3.6.1.4.1.3417.2.3.1.1.1
+deviceAttackTime: 1.3.6.1.4.1.3417.2.3.1.1.1.1.4
+deviceAttackTrap: 1.3.6.1.4.1.3417.2.3.2.0.1
+deviceAttackValues: 1.3.6.1.4.1.3417.2.3.1.1

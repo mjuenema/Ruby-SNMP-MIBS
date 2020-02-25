@@ -1,0 +1,17 @@
+cicServiceAdminState: 1.3.6.1.4.1.9.9.9968.1.1.1.1.2
+cicServiceCompliance: 1.3.6.1.4.1.9.9.9968.2.1.1
+cicServiceCompliances: 1.3.6.1.4.1.9.9.9968.2.1
+cicServiceConfig: 1.3.6.1.4.1.9.9.9968.1.1
+cicServiceEntry: 1.3.6.1.4.1.9.9.9968.1.1.1.1
+cicServiceGraceTime: 1.3.6.1.4.1.9.9.9968.1.1.1.1.3
+cicServiceGroup: 1.3.6.1.4.1.9.9.9968.2.2.1
+cicServiceGroups: 1.3.6.1.4.1.9.9.9968.2.2
+cicServiceOperState: 1.3.6.1.4.1.9.9.9968.1.1.1.1.1
+cicServiceRepeatOwner: 1.3.6.1.4.1.9.9.9968.1.1.1.1.5
+cicServiceRepeatResult: 1.3.6.1.4.1.9.9.9968.1.1.1.1.6
+cicServiceRepetition: 1.3.6.1.4.1.9.9.9968.1.1.1.1.4
+cicServiceTable: 1.3.6.1.4.1.9.9.9968.1.1.1
+ciscoIfCallServiceMIB: 1.3.6.1.4.1.9.9.9968
+ciscoIfCallServiceMIBConformance: 1.3.6.1.4.1.9.9.9968.2
+ciscoIfCallServiceMIBNotifs: 1.3.6.1.4.1.9.9.9968.0
+ciscoIfCallServiceMIBObjects: 1.3.6.1.4.1.9.9.9968.1

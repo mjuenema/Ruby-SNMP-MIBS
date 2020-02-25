@@ -1,0 +1,10 @@
+sfpsChassisRipAPIChassisMac: 1.3.6.1.4.1.52.4.2.4.2.6.1.2.2
+sfpsChassisRipAPINumInTable: 1.3.6.1.4.1.52.4.2.4.2.6.1.2.5
+sfpsChassisRipAPIPort: 1.3.6.1.4.1.52.4.2.4.2.6.1.2.3
+sfpsChassisRipAPITimer: 1.3.6.1.4.1.52.4.2.4.2.6.1.2.4
+sfpsChassisRipAPIVerb: 1.3.6.1.4.1.52.4.2.4.2.6.1.2.1
+sfpsChassisRipChassisMac: 1.3.6.1.4.1.52.4.2.4.2.6.1.1.1
+sfpsChassisRipFPPortMask: 1.3.6.1.4.1.52.4.2.4.2.6.1.1.2
+sfpsChassisRipINBPortMask: 1.3.6.1.4.1.52.4.2.4.2.6.1.1.3
+sfpsChassisRipModifiedTime: 1.3.6.1.4.1.52.4.2.4.2.6.1.1.4
+sfpsChassisRipStatus: 1.3.6.1.4.1.52.4.2.4.2.6.1.1.5

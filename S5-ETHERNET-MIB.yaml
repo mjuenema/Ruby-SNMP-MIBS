@@ -1,0 +1,13 @@
+s5EnCfg: 1.3.6.1.4.1.45.1.6.6.1
+s5EnMisc: 1.3.6.1.4.1.45.1.6.6.3
+s5EnNodeAgeInterval: 1.3.6.1.4.1.45.1.6.6.3.3
+s5EnNodeInactInterval: 1.3.6.1.4.1.45.1.6.6.3.2
+s5EnPIntconAddrCollect: 1.3.6.1.4.1.45.1.6.6.3.1.1.5
+s5EnPIntconBrdIndx: 1.3.6.1.4.1.45.1.6.6.3.1.1.2
+s5EnPIntconEntry: 1.3.6.1.4.1.45.1.6.6.3.1.1
+s5EnPIntconIfIndx: 1.3.6.1.4.1.45.1.6.6.3.1.1.1
+s5EnPIntconIntconStatus: 1.3.6.1.4.1.45.1.6.6.3.1.1.4
+s5EnPIntconPortIndx: 1.3.6.1.4.1.45.1.6.6.3.1.1.3
+s5EnPIntconTable: 1.3.6.1.4.1.45.1.6.6.3.1
+s5EnStat: 1.3.6.1.4.1.45.1.6.6.2
+s5EthernetMib: 1.3.6.1.4.1.45.1.6.6.0

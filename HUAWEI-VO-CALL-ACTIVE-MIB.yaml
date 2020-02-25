@@ -1,0 +1,14 @@
+hwVoCallActiveCallOrigin: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.7
+hwVoCallActiveCalledNumber: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.3
+hwVoCallActiveCallerNumber: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.2
+hwVoCallActiveChannel: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.1
+hwVoCallActiveEncodeType: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.4
+hwVoCallActiveEntry: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1
+hwVoCallActiveIPSigType: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.8
+hwVoCallActiveLocalAddress: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.5
+hwVoCallActiveObjects: 1.3.6.1.4.1.2011.5.25.1.6.1
+hwVoCallActivePSTNSigType: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.9
+hwVoCallActivePeerAddress: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.6
+hwVoCallActiveStatus: 1.3.6.1.4.1.2011.5.25.1.6.1.1.1.10
+hwVoCallActiveTable: 1.3.6.1.4.1.2011.5.25.1.6.1.1
+hwVoiceCallActiveMIB: 1.3.6.1.4.1.2011.5.25.1.6

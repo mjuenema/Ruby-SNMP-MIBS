@@ -1,0 +1,15 @@
+sa: 1.3.6.1.4.1.1429
+saCmMta: 1.3.6.1.4.1.1429.78.1
+saCmMtaCliAccess: 1.3.6.1.4.1.1429.78.1.1001
+saCmMtaCliAccessPasswordType: 1.3.6.1.4.1.1429.78.1.1001.5
+saCmMtaDecryptMtaConfigFile: 1.3.6.1.4.1.1429.78.1.13
+saCmMtaDevice: 1.3.6.1.4.1.1429.78.1.1
+saCmMtaDhcpOptionSixty: 1.3.6.1.4.1.1429.78.1.20
+saCmMtaDhcpPktcOption: 1.3.6.1.4.1.1429.78.1.8
+saCmMtaIpFilters: 1.3.6.1.4.1.1429.78.1.3
+saCmMtaProvSnmpSetCommunityString: 1.3.6.1.4.1.1429.78.1.26
+saCmMtaProvisioningMode: 1.3.6.1.4.1.1429.78.1.7
+saCmMtaRequireTod: 1.3.6.1.4.1.1429.78.1.10
+saCmMtaSidCount: 1.3.6.1.4.1.1429.78.1.5
+saCmMtaSwUpgradeControlTimer: 1.3.6.1.4.1.1429.78.1.14
+saVoip: 1.3.6.1.4.1.1429.78

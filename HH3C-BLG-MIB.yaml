@@ -1,0 +1,10 @@
+hh3cBlg: 1.3.6.1.4.1.25506.2.108
+hh3cBlgGroupCountClear: 1.3.6.1.4.1.25506.2.108.1.1.1.6
+hh3cBlgGroupRxByteCount: 1.3.6.1.4.1.25506.2.108.1.1.1.5
+hh3cBlgGroupRxPacketCount: 1.3.6.1.4.1.25506.2.108.1.1.1.3
+hh3cBlgGroupTxByteCount: 1.3.6.1.4.1.25506.2.108.1.1.1.4
+hh3cBlgGroupTxPacketCount: 1.3.6.1.4.1.25506.2.108.1.1.1.2
+hh3cBlgIndex: 1.3.6.1.4.1.25506.2.108.1.1.1.1
+hh3cBlgObjects: 1.3.6.1.4.1.25506.2.108.1
+hh3cBlgStatsEntry: 1.3.6.1.4.1.25506.2.108.1.1.1
+hh3cBlgStatsTable: 1.3.6.1.4.1.25506.2.108.1.1

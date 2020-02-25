@@ -1,0 +1,16 @@
+esiServerGroup: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.2
+esiServerMode: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.3
+esiServerName: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.1
+esiServerStatus: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.10
+esiServerTrustedIP: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.4
+esiServerTrustedModule: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.11
+esiServerTrustedPort: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.7
+esiServerTrustedSlot: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.6
+esiServerUntrustedIP: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.5
+esiServerUntrustedModule: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.12
+esiServerUntrustedPort: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.9
+esiServerUntrustedSlot: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1.8
+wlsxESIConfigGroup: 1.3.6.1.4.1.14823.2.2.1.10.1
+wlsxESIMIB: 1.3.6.1.4.1.14823.2.2.1.10
+wlsxESIServerEntry: 1.3.6.1.4.1.14823.2.2.1.10.1.1.1
+wlsxESIServerTable: 1.3.6.1.4.1.14823.2.2.1.10.1.1

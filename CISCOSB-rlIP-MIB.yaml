@@ -1,0 +1,17 @@
+rlIp: 1.3.6.1.4.1.9.6.1.101.250
+rlIpAddressAddr: 1.3.6.1.4.1.9.6.1.101.250.1.1.2
+rlIpAddressAddrType: 1.3.6.1.4.1.9.6.1.101.250.1.1.1
+rlIpAddressCompleteAddr: 1.3.6.1.4.1.9.6.1.101.250.1.1.14
+rlIpAddressCreated: 1.3.6.1.4.1.9.6.1.101.250.1.1.9
+rlIpAddressEntry: 1.3.6.1.4.1.9.6.1.101.250.1.1
+rlIpAddressExtdPrefixLength: 1.3.6.1.4.1.9.6.1.101.250.1.1.13
+rlIpAddressExtdType: 1.3.6.1.4.1.9.6.1.101.250.1.1.6
+rlIpAddressGeneralPrefixName: 1.3.6.1.4.1.9.6.1.101.250.1.1.4
+rlIpAddressIfIndex: 1.3.6.1.4.1.9.6.1.101.250.1.1.5
+rlIpAddressLastChanged: 1.3.6.1.4.1.9.6.1.101.250.1.1.10
+rlIpAddressOrigin: 1.3.6.1.4.1.9.6.1.101.250.1.1.3
+rlIpAddressPrefix: 1.3.6.1.4.1.9.6.1.101.250.1.1.7
+rlIpAddressRowStatus: 1.3.6.1.4.1.9.6.1.101.250.1.1.11
+rlIpAddressStatus: 1.3.6.1.4.1.9.6.1.101.250.1.1.8
+rlIpAddressStorageType: 1.3.6.1.4.1.9.6.1.101.250.1.1.12
+rlIpAddressTable: 1.3.6.1.4.1.9.6.1.101.250.1

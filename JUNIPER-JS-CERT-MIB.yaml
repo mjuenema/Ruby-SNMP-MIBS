@@ -1,0 +1,14 @@
+jnxJsCertificateMIB: 1.3.6.1.4.1.2636.3.39.1.3.1
+jnxJsCertificateObjects: 1.3.6.1.4.1.2636.3.39.1.3.1.1
+jnxJsLoadedCaCertEntry: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1.1
+jnxJsLoadedCaCertExpire: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1.1.3
+jnxJsLoadedCaCertIssuer: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1.1.4
+jnxJsLoadedCaCertName: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1.1.1
+jnxJsLoadedCaCertSubject: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1.1.2
+jnxJsLoadedCaCertTable: 1.3.6.1.4.1.2636.3.39.1.3.1.1.1
+jnxJsLoadedLocalCertEntry: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2.1
+jnxJsLoadedLocalCertExpire: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2.1.3
+jnxJsLoadedLocalCertIssuer: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2.1.4
+jnxJsLoadedLocalCertName: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2.1.1
+jnxJsLoadedLocalCertSubject: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2.1.2
+jnxJsLoadedLocalCertTable: 1.3.6.1.4.1.2636.3.39.1.3.1.1.2

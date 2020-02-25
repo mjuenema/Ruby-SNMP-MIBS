@@ -1,0 +1,14 @@
+trpzPortCompliance: 1.3.6.1.4.1.14525.4.6.1.2.1.1
+trpzPortCompliances: 1.3.6.1.4.1.14525.4.6.1.2.1
+trpzPortConfigEntry: 1.3.6.1.4.1.14525.4.6.1.1.1.1
+trpzPortConfigGroup: 1.3.6.1.4.1.14525.4.6.1.2.2.1
+trpzPortConfigPoeMode: 1.3.6.1.4.1.14525.4.6.1.1.1.1.3
+trpzPortConfigPortMode: 1.3.6.1.4.1.14525.4.6.1.1.1.1.2
+trpzPortConfigPortNumber: 1.3.6.1.4.1.14525.4.6.1.1.1.1.1
+trpzPortConfigTable: 1.3.6.1.4.1.14525.4.6.1.1.1
+trpzPortConfigTrunkMaster: 1.3.6.1.4.1.14525.4.6.1.1.1.1.4
+trpzPortConformance: 1.3.6.1.4.1.14525.4.6.1.2
+trpzPortDataObjects: 1.3.6.1.4.1.14525.4.6.1.1
+trpzPortGroups: 1.3.6.1.4.1.14525.4.6.1.2.2
+trpzPortMib: 1.3.6.1.4.1.14525.4.6
+trpzPortObjects: 1.3.6.1.4.1.14525.4.6.1

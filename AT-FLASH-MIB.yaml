@@ -1,0 +1,16 @@
+flash: 1.3.6.1.4.1.207.8.4.4.4.31
+flashCheckFailure: 1.3.6.1.4.1.207.8.4.4.4.31.10
+flashCloseFailure: 1.3.6.1.4.1.207.8.4.4.4.31.4
+flashCompactFailure: 1.3.6.1.4.1.207.8.4.4.4.31.12
+flashCompleteFailure: 1.3.6.1.4.1.207.8.4.4.4.31.5
+flashCreateFailure: 1.3.6.1.4.1.207.8.4.4.4.31.7
+flashDeleteFailure: 1.3.6.1.4.1.207.8.4.4.4.31.9
+flashEraseFailure: 1.3.6.1.4.1.207.8.4.4.4.31.11
+flashFailureTrap: 1.3.6.1.4.1.207.8.4.4.4.31.0.1
+flashGetFailure: 1.3.6.1.4.1.207.8.4.4.4.31.1
+flashOpenFailure: 1.3.6.1.4.1.207.8.4.4.4.31.2
+flashPutFailure: 1.3.6.1.4.1.207.8.4.4.4.31.8
+flashReadFailure: 1.3.6.1.4.1.207.8.4.4.4.31.3
+flashTrap: 1.3.6.1.4.1.207.8.4.4.4.31.0
+flashVerifyFailure: 1.3.6.1.4.1.207.8.4.4.4.31.13
+flashWriteFailure: 1.3.6.1.4.1.207.8.4.4.4.31.6

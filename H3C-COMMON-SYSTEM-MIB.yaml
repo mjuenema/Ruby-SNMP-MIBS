@@ -1,0 +1,9 @@
+hwReboot: 1.3.6.1.4.1.2011.10.6.7
+hwRebootSendTrap: 1.3.6.1.4.1.2011.10.6.8.3
+hwSoftwareVersion: 1.3.6.1.4.1.2011.10.6.9
+hwStartFtpServer: 1.3.6.1.4.1.2011.10.6.6
+hwSysBootType: 1.3.6.1.4.1.2011.10.6.10
+hwSystemNotification: 1.3.6.1.4.1.2011.10.6.8
+hwWriteConfig: 1.3.6.1.4.1.2011.10.6.5
+hwWriteFailureTrap: 1.3.6.1.4.1.2011.10.6.8.2
+hwWriteSuccessTrap: 1.3.6.1.4.1.2011.10.6.8.1

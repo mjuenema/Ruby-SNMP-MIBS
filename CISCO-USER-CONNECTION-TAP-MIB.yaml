@@ -1,0 +1,13 @@
+cUserConnectionTapMIBCompliance: 1.3.6.1.4.1.9.9.400.2.1.1
+cUserConnectionTapMIBCompliances: 1.3.6.1.4.1.9.9.400.2.1
+cUserConnectionTapMIBConform: 1.3.6.1.4.1.9.9.400.2
+cUserConnectionTapMIBGroups: 1.3.6.1.4.1.9.9.400.2.2
+cUserConnectionTapMIBObjects: 1.3.6.1.4.1.9.9.400.1
+ciscoUserConnectionTapMIB: 1.3.6.1.4.1.9.9.400
+cuctTapStreamAcctSessID: 1.3.6.1.4.1.9.9.400.1.1.2.1.1
+cuctTapStreamCapabilities: 1.3.6.1.4.1.9.9.400.1.1.1
+cuctTapStreamComplianceGroup: 1.3.6.1.4.1.9.9.400.2.2.1
+cuctTapStreamEncodePacket: 1.3.6.1.4.1.9.9.400.1.1
+cuctTapStreamEntry: 1.3.6.1.4.1.9.9.400.1.1.2.1
+cuctTapStreamStatus: 1.3.6.1.4.1.9.9.400.1.1.2.1.2
+cuctTapStreamTable: 1.3.6.1.4.1.9.9.400.1.1.2

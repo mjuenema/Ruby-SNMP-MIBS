@@ -1,0 +1,16 @@
+netscreenVpnManualMibModule: 1.3.6.1.4.1.3224.4.0.2
+nsVpnManualKey: 1.3.6.1.4.1.3224.4.2
+nsVpnManualKeyAhHash: 1.3.6.1.4.1.3224.4.2.1.1.9
+nsVpnManualKeyEntry: 1.3.6.1.4.1.3224.4.2.1.1
+nsVpnManualKeyEspAuthAlg: 1.3.6.1.4.1.3224.4.2.1.1.8
+nsVpnManualKeyEspEncAlg: 1.3.6.1.4.1.3224.4.2.1.1.7
+nsVpnManualKeyGW: 1.3.6.1.4.1.3224.4.2.1.1.3
+nsVpnManualKeyIndex: 1.3.6.1.4.1.3224.4.2.1.1.1
+nsVpnManualKeyMonitorEnable: 1.3.6.1.4.1.3224.4.2.1.1.10
+nsVpnManualKeySILocal: 1.3.6.1.4.1.3224.4.2.1.1.4
+nsVpnManualKeySIRemote: 1.3.6.1.4.1.3224.4.2.1.1.5
+nsVpnManualKeyTable: 1.3.6.1.4.1.3224.4.2.1
+nsVpnManualKeyTunName: 1.3.6.1.4.1.3224.4.2.1.1.2
+nsVpnManualKeyTunToTrust: 1.3.6.1.4.1.3224.4.2.1.1.11
+nsVpnManualKeyTunnelType: 1.3.6.1.4.1.3224.4.2.1.1.6
+nsVpnManualKeyVsys: 1.3.6.1.4.1.3224.4.2.1.1.12

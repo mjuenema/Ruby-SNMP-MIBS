@@ -1,0 +1,16 @@
+rlGreenEth: 1.3.6.1.4.1.9.6.1.101.134
+rlGreenEthCumulativePowerSaveMeter: 1.3.6.1.4.1.9.6.1.101.134.5
+rlGreenEthCumulativePowerSaveMeterReset: 1.3.6.1.4.1.9.6.1.101.134.7
+rlGreenEthCurrentEnergyConsumption: 1.3.6.1.4.1.9.6.1.101.134.3
+rlGreenEthCurrentMaxEnergyConsumption: 1.3.6.1.4.1.9.6.1.101.134.4
+rlGreenEthEnergyDetectEnable: 1.3.6.1.4.1.9.6.1.101.134.1
+rlGreenEthForceShortReachIfIndexList: 1.3.6.1.4.1.9.6.1.101.134.9
+rlGreenEthMaskLedStatus: 1.3.6.1.4.1.9.6.1.101.134.10
+rlGreenEthPortAdminState: 1.3.6.1.4.1.9.6.1.101.134.8.1.2
+rlGreenEthPortEntry: 1.3.6.1.4.1.9.6.1.101.134.8.1
+rlGreenEthPortNonOperReason: 1.3.6.1.4.1.9.6.1.101.134.8.1.4
+rlGreenEthPortOperState: 1.3.6.1.4.1.9.6.1.101.134.8.1.3
+rlGreenEthPortSavingTypeValue: 1.3.6.1.4.1.9.6.1.101.134.8.1.1
+rlGreenEthPortTable: 1.3.6.1.4.1.9.6.1.101.134.8
+rlGreenEthShortReachEnable: 1.3.6.1.4.1.9.6.1.101.134.2
+rlGreenEthShortReachThreshold: 1.3.6.1.4.1.9.6.1.101.134.6

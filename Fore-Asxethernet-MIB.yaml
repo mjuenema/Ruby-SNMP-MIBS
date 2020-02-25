@@ -1,0 +1,8 @@
+asxEthernetAutoNegotiate: 1.3.6.1.4.1.326.2.2.2.5
+asxEthernetAutoNegotiationEntry: 1.3.6.1.4.1.326.2.2.2.5.1.1
+asxEthernetAutoNegotiationTable: 1.3.6.1.4.1.326.2.2.2.5.1
+asxEthernetConfigModes: 1.3.6.1.4.1.326.2.2.2.5.1.1.1
+asxEthernetLinkState: 1.3.6.1.4.1.326.2.2.2.5.1.1.3
+asxEthernetOperStatus: 1.3.6.1.4.1.326.2.2.2.5.1.1.2
+asxEthernetRemoteAutoNeg: 1.3.6.1.4.1.326.2.2.2.5.1.1.4
+asxEthernetRemoteOperStatus: 1.3.6.1.4.1.326.2.2.2.5.1.1.5

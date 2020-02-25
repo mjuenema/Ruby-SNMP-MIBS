@@ -1,0 +1,14 @@
+atAlmMon: 1.3.6.1.4.1.207.8.4.4.3.26
+atAlmMonAbnormalState: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.10
+atAlmMonActionDescription: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.5
+atAlmMonActionEntry: 1.3.6.1.4.1.207.8.4.4.3.26.1.1
+atAlmMonActionIndex: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.2
+atAlmMonActionStackMemberId: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.1
+atAlmMonActionState: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.11
+atAlmMonActionTable: 1.3.6.1.4.1.207.8.4.4.3.26.1
+atAlmMonActionUseFaultLed: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.9
+atAlmMonActionUseRelay1: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.6
+atAlmMonActionUseRelay2: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.7
+atAlmMonActionUseRelay3: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.8
+atAlmMonAlarmType: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.3
+atAlmMonAlarmTypeSelection: 1.3.6.1.4.1.207.8.4.4.3.26.1.1.4

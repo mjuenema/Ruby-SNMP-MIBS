@@ -1,0 +1,16 @@
+usdBridgeEthernetCompliances: 1.3.6.1.4.1.4874.2.2.31.4.1
+usdBridgeEthernetConformance: 1.3.6.1.4.1.4874.2.2.31.4
+usdBridgeEthernetGroups: 1.3.6.1.4.1.4874.2.2.31.4.2
+usdBridgeEthernetMIB: 1.3.6.1.4.1.4874.2.2.31
+usdBridgedEthernetCompliance: 1.3.6.1.4.1.4874.2.2.31.4.1.1
+usdBridgedEthernetGroup: 1.3.6.1.4.1.4874.2.2.31.4.2.1
+usdBridgedEthernetGroup2: 1.3.6.1.4.1.4874.2.2.31.4.2.2
+usdBridgedEthernetIfEntry: 1.3.6.1.4.1.4874.2.2.31.1.1.2.1
+usdBridgedEthernetIfIfIndex: 1.3.6.1.4.1.4874.2.2.31.1.1.2.1.1
+usdBridgedEthernetIfLayer: 1.3.6.1.4.1.4874.2.2.31.1.1
+usdBridgedEthernetIfLowerIfIndex: 1.3.6.1.4.1.4874.2.2.31.1.1.2.1.3
+usdBridgedEthernetIfRowStatus: 1.3.6.1.4.1.4874.2.2.31.1.1.2.1.4
+usdBridgedEthernetIfTable: 1.3.6.1.4.1.4874.2.2.31.1.1.2
+usdBridgedEthernetNextIfIndex: 1.3.6.1.4.1.4874.2.2.31.1.1.1
+usdBridgedEthernetObjects: 1.3.6.1.4.1.4874.2.2.31.1
+usdBridgedEthernetProxyArp: 1.3.6.1.4.1.4874.2.2.31.1.1.2.1.2

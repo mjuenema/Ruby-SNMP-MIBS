@@ -1,0 +1,17 @@
+tpSysMonitorCpu: 1.3.6.1.4.1.11863.6.4.1.1
+tpSysMonitorCpu1Minute: 1.3.6.1.4.1.11863.6.4.1.1.1.1.3
+tpSysMonitorCpu5Minutes: 1.3.6.1.4.1.11863.6.4.1.1.1.1.4
+tpSysMonitorCpu5Seconds: 1.3.6.1.4.1.11863.6.4.1.1.1.1.2
+tpSysMonitorCpuEntry: 1.3.6.1.4.1.11863.6.4.1.1.1.1
+tpSysMonitorCpuOverLoading: 1.3.6.1.4.1.11863.6.4.2.1
+tpSysMonitorCpuTable: 1.3.6.1.4.1.11863.6.4.1.1.1
+tpSysMonitorCpuUnitNumber: 1.3.6.1.4.1.11863.6.4.1.1.1.1.1
+tpSysMonitorMemory: 1.3.6.1.4.1.11863.6.4.1.2
+tpSysMonitorMemoryEntry: 1.3.6.1.4.1.11863.6.4.1.2.1.1
+tpSysMonitorMemoryOverLoading: 1.3.6.1.4.1.11863.6.4.2.2
+tpSysMonitorMemoryTable: 1.3.6.1.4.1.11863.6.4.1.2.1
+tpSysMonitorMemoryUnitNumber: 1.3.6.1.4.1.11863.6.4.1.2.1.1.1
+tpSysMonitorMemoryUtilization: 1.3.6.1.4.1.11863.6.4.1.2.1.1.2
+tplinkSysMonitorMIB: 1.3.6.1.4.1.11863.6.4
+tplinkSysMonitorMIBObjects: 1.3.6.1.4.1.11863.6.4.1
+tplinkSysMonitorNotifications: 1.3.6.1.4.1.11863.6.4.2

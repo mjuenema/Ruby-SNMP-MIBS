@@ -1,0 +1,10 @@
+h3cQoSCapabilityEntry: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1
+h3cQoSCapabilityGroup: 1.3.6.1.4.1.2011.10.7.1.1.1
+h3cQoSCapabilityMibObjects: 1.3.6.1.4.1.2011.10.7.1.1
+h3cQoSCapabilityPhysicalIndex: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1.2
+h3cQoSCapabilityPhysicalType: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1.1
+h3cQoSCapabilityTable: 1.3.6.1.4.1.2011.10.7.1.1.1.1
+h3cQoSCharacteristicsIndex: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1.4
+h3cQoSCharacteristicsValue: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1.5
+h3cQoSModuleIndex: 1.3.6.1.4.1.2011.10.7.1.1.1.1.1.3
+h3cQosCapability: 1.3.6.1.4.1.2011.10.7.1

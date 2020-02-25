@@ -1,0 +1,14 @@
+cifLConfEntry: 1.3.6.1.4.1.9.9.9399.1.1.1.1
+cifLConfTable: 1.3.6.1.4.1.9.9.9399.1.1.1
+cifLFELoopbackDeviceAndCode: 1.3.6.1.4.1.9.9.9399.1.1.1.1.3
+cifLLoopback: 1.3.6.1.4.1.9.9.9399.1.1.1.1.1
+cifLLoopbackStatus: 1.3.6.1.4.1.9.9.9399.1.1.1.1.2
+cifLRowStatus: 1.3.6.1.4.1.9.9.9399.1.1.1.1.4
+ciscoIfLoopbackConfig: 1.3.6.1.4.1.9.9.9399.1.1
+ciscoIfLoopbackGroup: 1.3.6.1.4.1.9.9.9399.8.2.1
+ciscoIfLoopbackMIB: 1.3.6.1.4.1.9.9.9399
+ciscoIfLoopbackMIBCompliance: 1.3.6.1.4.1.9.9.9399.8.1.1
+ciscoIfLoopbackMIBCompliances: 1.3.6.1.4.1.9.9.9399.8.1
+ciscoIfLoopbackMIBConformance: 1.3.6.1.4.1.9.9.9399.8
+ciscoIfLoopbackMIBGroups: 1.3.6.1.4.1.9.9.9399.8.2
+ciscoIfLoopbackMIBObjects: 1.3.6.1.4.1.9.9.9399.1

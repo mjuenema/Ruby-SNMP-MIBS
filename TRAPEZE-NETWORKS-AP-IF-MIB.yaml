@@ -1,0 +1,16 @@
+trpzApIfApSerialNum: 1.3.6.1.4.1.14525.4.16.1.1.1.1
+trpzApIfBasicGroup: 1.3.6.1.4.1.14525.4.16.2.2.1
+trpzApIfCompliance: 1.3.6.1.4.1.14525.4.16.2.1.1
+trpzApIfCompliances: 1.3.6.1.4.1.14525.4.16.2.1
+trpzApIfConformance: 1.3.6.1.4.1.14525.4.16.2
+trpzApIfEntry: 1.3.6.1.4.1.14525.4.16.1.1.1
+trpzApIfGroups: 1.3.6.1.4.1.14525.4.16.2.2
+trpzApIfHighSpeed: 1.3.6.1.4.1.14525.4.16.1.1.1.6
+trpzApIfIndex: 1.3.6.1.4.1.14525.4.16.1.1.1.2
+trpzApIfMac: 1.3.6.1.4.1.14525.4.16.1.1.1.7
+trpzApIfMib: 1.3.6.1.4.1.14525.4.16
+trpzApIfMibObjects: 1.3.6.1.4.1.14525.4.16.1
+trpzApIfMtu: 1.3.6.1.4.1.14525.4.16.1.1.1.5
+trpzApIfName: 1.3.6.1.4.1.14525.4.16.1.1.1.3
+trpzApIfTable: 1.3.6.1.4.1.14525.4.16.1.1
+trpzApIfType: 1.3.6.1.4.1.14525.4.16.1.1.1.4

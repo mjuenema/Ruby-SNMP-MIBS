@@ -1,0 +1,17 @@
+jnxLsysSpPolicyAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.3
+jnxLsysSpPolicyEntry: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1
+jnxLsysSpPolicyHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.4
+jnxLsysSpPolicyHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.5
+jnxLsysSpPolicyLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.6
+jnxLsysSpPolicyLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.7
+jnxLsysSpPolicyLsysName: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1.1
+jnxLsysSpPolicyMIB: 1.3.6.1.4.1.2636.3.39.1.17.3.1
+jnxLsysSpPolicyMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.2
+jnxLsysSpPolicyMaximum: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1.5
+jnxLsysSpPolicyObjects: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1
+jnxLsysSpPolicyProfileName: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1.2
+jnxLsysSpPolicyReserved: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1.4
+jnxLsysSpPolicySummary: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2
+jnxLsysSpPolicyTable: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1
+jnxLsysSpPolicyUsage: 1.3.6.1.4.1.2636.3.39.1.17.3.1.1.1.1.3
+jnxLsysSpPolicyUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.3.1.2.1

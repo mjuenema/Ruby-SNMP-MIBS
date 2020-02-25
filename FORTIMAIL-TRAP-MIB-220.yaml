@@ -1,0 +1,12 @@
+fmlTrapArchiveEvent: 1.3.6.1.4.1.12356.1688.0.204
+fmlTrapAvThresholdEvent: 1.3.6.1.4.1.12356.1688.0.106
+fmlTrapCpuHighThreshold: 1.3.6.1.4.1.12356.1688.0.101
+fmlTrapHAEvent: 1.3.6.1.4.1.12356.1688.0.203
+fmlTrapIpChange: 1.3.6.1.4.1.12356.1688.0.301
+fmlTrapLogDiskHighThreshold: 1.3.6.1.4.1.12356.1688.0.103
+fmlTrapMailDeferredQueueHighThreshold: 1.3.6.1.4.1.12356.1688.0.105
+fmlTrapMailDiskHighThreshold: 1.3.6.1.4.1.12356.1688.0.104
+fmlTrapMemLowThreshold: 1.3.6.1.4.1.12356.1688.0.102
+fmlTrapRAIDEvent: 1.3.6.1.4.1.12356.1688.0.202
+fmlTrapSpamThresholdEvent: 1.3.6.1.4.1.12356.1688.0.107
+fmlTrapSystemEvent: 1.3.6.1.4.1.12356.1688.0.201

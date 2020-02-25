@@ -1,0 +1,11 @@
+hh3cEponFBGroupIndex: 1.3.6.1.4.1.25506.2.42.6.1.1.1.1
+hh3cEponFBGroupRowStatus: 1.3.6.1.4.1.25506.2.42.6.1.1.1.2
+hh3cEponFBMIB: 1.3.6.1.4.1.25506.2.42.6.1
+hh3cEponFBMIBEntry: 1.3.6.1.4.1.25506.2.42.6.1.1.1
+hh3cEponFBMIBTable: 1.3.6.1.4.1.25506.2.42.6.1.1
+hh3cEponFBMasterPort: 1.3.6.1.4.1.25506.2.42.6.1.1.1.3
+hh3cEponFBMasterPortStatus: 1.3.6.1.4.1.25506.2.42.6.1.1.1.5
+hh3cEponFBMibObjects: 1.3.6.1.4.1.25506.2.42.6
+hh3cEponFBSlavePort: 1.3.6.1.4.1.25506.2.42.6.1.1.1.4
+hh3cEponFBSlavePortStatus: 1.3.6.1.4.1.25506.2.42.6.1.1.1.6
+hh3cEponFBSwitchover: 1.3.6.1.4.1.25506.2.42.6.1.1.1.7

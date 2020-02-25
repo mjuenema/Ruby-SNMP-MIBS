@@ -1,0 +1,9 @@
+hh3cDot11CFGEXT: 1.3.6.1.4.1.25506.2.75.6
+hh3cDot11LBGlobalGroup: 1.3.6.1.4.1.25506.2.75.6.1.1
+hh3cDot11LoadBalance: 1.3.6.1.4.1.25506.2.75.6.1
+hh3cDot11LoadBalanceSessionEnable: 1.3.6.1.4.1.25506.2.75.6.1.1.3
+hh3cDot11LoadBalanceSessionGap: 1.3.6.1.4.1.25506.2.75.6.1.1.6
+hh3cDot11LoadBalanceSessionThres: 1.3.6.1.4.1.25506.2.75.6.1.1.4
+hh3cDot11LoadBalanceTrafficEnable: 1.3.6.1.4.1.25506.2.75.6.1.1.1
+hh3cDot11LoadBalanceTrafficGap: 1.3.6.1.4.1.25506.2.75.6.1.1.5
+hh3cDot11LoadBalanceTrafficThres: 1.3.6.1.4.1.25506.2.75.6.1.1.2

@@ -1,0 +1,9 @@
+adminIlmiRegATMAddress: 1.3.6.1.4.1.326.1.14.1.1.3
+adminIlmiRegAddressIndex: 1.3.6.1.4.1.326.1.14.1.1.4
+adminIlmiRegEntry: 1.3.6.1.4.1.326.1.14.1.1
+adminIlmiRegParm1: 1.3.6.1.4.1.326.1.14.1.1.5
+adminIlmiRegPort: 1.3.6.1.4.1.326.1.14.1.1.1
+adminIlmiRegRowStatus: 1.3.6.1.4.1.326.1.14.1.1.6
+adminIlmiRegServiceID: 1.3.6.1.4.1.326.1.14.1.1.2
+adminIlmiRegTable: 1.3.6.1.4.1.326.1.14.1
+ilmiRegistryModule: 1.3.6.1.4.1.326.1.14.2

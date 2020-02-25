@@ -1,0 +1,11 @@
+bKafkaClientLatencyAvgProcessingTime: 1.3.6.1.4.1.39406.2.1.12.1.1.1.6
+bKafkaClientLatencyEntry: 1.3.6.1.4.1.39406.2.1.12.1.1.1
+bKafkaClientLatencyMaxProcessingTime: 1.3.6.1.4.1.39406.2.1.12.1.1.1.4
+bKafkaClientLatencyMinProcessingTime: 1.3.6.1.4.1.39406.2.1.12.1.1.1.5
+bKafkaClientLatencyProcessTimeMorethan1MSPktCount: 1.3.6.1.4.1.39406.2.1.12.1.1.1.7
+bKafkaClientLatencyStatsInterval: 1.3.6.1.4.1.39406.2.1.12.1.1.1.1
+bKafkaClientLatencyStatsIntervalDuration: 1.3.6.1.4.1.39406.2.1.12.1.1.1.2
+bKafkaClientLatencyTable: 1.3.6.1.4.1.39406.2.1.12.1.1
+bKafkaClientLatencyTotalPktCount: 1.3.6.1.4.1.39406.2.1.12.1.1.1.3
+bKafkaClientObjects: 1.3.6.1.4.1.39406.2.1.12.1
+benuKafkaClientMIB: 1.3.6.1.4.1.39406.2.1.12

@@ -1,0 +1,6 @@
+atQosv2: 1.3.6.1.4.1.207.8.4.4.4.503
+atQosv2IfIndex: 1.3.6.1.4.1.207.8.4.4.4.503.1.1
+atQosv2Notification: 1.3.6.1.4.1.207.8.4.4.4.503.0
+atQosv2NotificationVariables: 1.3.6.1.4.1.207.8.4.4.4.503.1
+atQosv2StormDetectionTrap: 1.3.6.1.4.1.207.8.4.4.4.503.0.1
+atQosv2VlanId: 1.3.6.1.4.1.207.8.4.4.4.503.1.2

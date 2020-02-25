@@ -1,0 +1,11 @@
+cmtsC3NTPMIB: 1.3.6.1.4.1.4115.1.4.3.7
+dcxNTPMasterServer: 1.3.6.1.4.1.4115.1.4.3.7.1.2
+dcxNTPObjects: 1.3.6.1.4.1.4115.1.4.3.7.1
+dcxNTPServerAttempts: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.4
+dcxNTPServerEntry: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1
+dcxNTPServerInterval: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.2
+dcxNTPServerIp: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.1
+dcxNTPServerOffset: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.5
+dcxNTPServerStatus: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.6
+dcxNTPServerSuccess: 1.3.6.1.4.1.4115.1.4.3.7.1.1.1.3
+dcxNTPServerTable: 1.3.6.1.4.1.4115.1.4.3.7.1.1

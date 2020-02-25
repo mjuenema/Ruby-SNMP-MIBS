@@ -1,0 +1,7 @@
+bluecoatSGFailoverMIB: 1.3.6.1.4.1.3417.2.13
+bluecoatSgFailoverMIBNotifications: 1.3.6.1.4.1.3417.2.13.2
+bluecoatSgFailoverMIBNotificationsPrefix: 1.3.6.1.4.1.3417.2.13.2.0
+bluecoatSgFailoverMIBObjects: 1.3.6.1.4.1.3417.2.13.1
+bluecoatSgFailoverMessage: 1.3.6.1.4.1.3417.2.13.1.1.1
+bluecoatSgFailoverTrap: 1.3.6.1.4.1.3417.2.13.2.0.1
+bluecoatSgFailoverValues: 1.3.6.1.4.1.3417.2.13.1.1

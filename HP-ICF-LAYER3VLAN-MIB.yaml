@@ -1,0 +1,10 @@
+hpicfL3VlanConfigMIBCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.70.2.1.1
+hpicfL3VlanConfigMIBCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.70.2.1
+hpicfLayer3VlanConfig: 1.3.6.1.4.1.11.2.14.11.5.1.70.1
+hpicfLayer3VlanConfigConformance: 1.3.6.1.4.1.11.2.14.11.5.1.70.2
+hpicfLayer3VlanConfigEntry: 1.3.6.1.4.1.11.2.14.11.5.1.70.1.1.1
+hpicfLayer3VlanConfigGroup: 1.3.6.1.4.1.11.2.14.11.5.1.70.2.2.1
+hpicfLayer3VlanConfigMIB: 1.3.6.1.4.1.11.2.14.11.5.1.70
+hpicfLayer3VlanConfigMIBGroups: 1.3.6.1.4.1.11.2.14.11.5.1.70.2.2
+hpicfLayer3VlanConfigTable: 1.3.6.1.4.1.11.2.14.11.5.1.70.1.1
+hpicfLayer3VlanStatus: 1.3.6.1.4.1.11.2.14.11.5.1.70.1.1.1.1

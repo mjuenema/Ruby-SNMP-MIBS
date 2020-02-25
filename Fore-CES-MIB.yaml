@@ -1,0 +1,11 @@
+cbrctActiveIntPeriod: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.7
+cbrctConfEntry: 1.3.6.1.4.1.326.2.2.2.1.16.2.1
+cbrctConfTable: 1.3.6.1.4.1.326.2.2.2.1.16.2
+cbrctIdleDetection: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.2
+cbrctIdleIntPeriod: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.6
+cbrctIdleMask: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.3
+cbrctIdlePatterns: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.5
+cbrctNoOfIdlePatterns: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.4
+cbrctState: 1.3.6.1.4.1.326.2.2.2.1.16.2.1.1
+cesExtGroup: 1.3.6.1.4.1.326.2.2.2.1.16
+cesExtTable: 1.3.6.1.4.1.326.2.2.2.1.16.1

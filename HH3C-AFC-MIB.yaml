@@ -1,0 +1,11 @@
+hh3cAFC: 1.3.6.1.4.1.25506.2.85
+hh3cAFCLeaf: 1.3.6.1.4.1.25506.2.85.1
+hh3cAFCNotify: 1.3.6.1.4.1.25506.2.85.2
+hh3cAFCNotifyPrefix: 1.3.6.1.4.1.25506.2.85.2.0
+hh3cDDosAttackEnd: 1.3.6.1.4.1.25506.2.85.2.0.2
+hh3cDDosAttackPolicy: 1.3.6.1.4.1.25506.2.85.1.3
+hh3cDDosAttackSpeed: 1.3.6.1.4.1.25506.2.85.1.5
+hh3cDDosAttackStart: 1.3.6.1.4.1.25506.2.85.2.0.1
+hh3cDDosAttackTargetIP: 1.3.6.1.4.1.25506.2.85.1.1
+hh3cDDosAttackThreshold: 1.3.6.1.4.1.25506.2.85.1.4
+hh3cDDosAttackType: 1.3.6.1.4.1.25506.2.85.1.2

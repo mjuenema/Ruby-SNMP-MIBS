@@ -1,0 +1,13 @@
+bSyslogClear: 1.3.6.1.4.1.39406.1.3.7
+bSyslogConsoleSeverity: 1.3.6.1.4.1.39406.1.3.6
+bSyslogMaxSize: 1.3.6.1.4.1.39406.1.3.2
+bSyslogNotifications: 1.3.6.1.4.1.39406.1.3.0
+bSyslogServerAddress: 1.3.6.1.4.1.39406.1.3.4.1.2
+bSyslogServerEnable: 1.3.6.1.4.1.39406.1.3.3
+bSyslogServerEntry: 1.3.6.1.4.1.39406.1.3.4.1
+bSyslogServerIndex: 1.3.6.1.4.1.39406.1.3.4.1.1
+bSyslogServerPort: 1.3.6.1.4.1.39406.1.3.4.1.3
+bSyslogServerTable: 1.3.6.1.4.1.39406.1.3.4
+bSyslogSeverity: 1.3.6.1.4.1.39406.1.3.5
+bSyslogSize: 1.3.6.1.4.1.39406.1.3.1
+benuSyslog: 1.3.6.1.4.1.39406.1.3

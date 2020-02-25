@@ -1,0 +1,15 @@
+rsAlarmHostname: 1.3.6.1.4.1.4355.2.4.5
+rsAlarmId: 1.3.6.1.4.1.4355.2.4.1
+rsAlarmLabel: 1.3.6.1.4.1.4355.2.4.2
+rsAlarmLevel: 1.3.6.1.4.1.4355.2.4.4
+rsAlarmMsg: 1.3.6.1.4.1.4355.2.4.6
+rsAlarmTime: 1.3.6.1.4.1.4355.2.4.3
+rsAlarmTrap: 1.3.6.1.4.1.4355.2.3.0.1
+rsAlarmTrapEnable: 1.3.6.1.4.1.4355.2.5.1
+rsSnmpShutdown: 1.3.6.1.4.1.4355.2.3.0.3
+rsSnmpStart: 1.3.6.1.4.1.4355.2.3.0.2
+rsSysTrapControl: 1.3.6.1.4.1.4355.2.5
+rsSysTrapObjects: 1.3.6.1.4.1.4355.2.4
+rsSysTraps: 1.3.6.1.4.1.4355.2.3
+rsSysTrapsPrefix: 1.3.6.1.4.1.4355.2.3.0
+rsSystemConfigMIB: 1.3.6.1.4.1.4355.2

@@ -1,0 +1,11 @@
+rcTrunk: 1.3.6.1.4.1.8886.6.1.6
+rcTrunkEnable: 1.3.6.1.4.1.8886.6.1.6.1
+rcTrunkGroupCurrentPortInOperation: 1.3.6.1.4.1.8886.6.1.6.5.1.3
+rcTrunkGroupEntry: 1.3.6.1.4.1.8886.6.1.6.5.1
+rcTrunkGroupID: 1.3.6.1.4.1.8886.6.1.6.5.1.1
+rcTrunkGroupMode: 1.3.6.1.4.1.8886.6.1.6.5.1.4
+rcTrunkGroupSetPorts: 1.3.6.1.4.1.8886.6.1.6.5.1.2
+rcTrunkGroupTable: 1.3.6.1.4.1.8886.6.1.6.5
+rcTrunkLoadingSharingMode: 1.3.6.1.4.1.8886.6.1.6.2
+rcTrunkMaxGroup: 1.3.6.1.4.1.8886.6.1.6.3
+rcTrunkTicketGenerationAlgorithm: 1.3.6.1.4.1.8886.6.1.6.4

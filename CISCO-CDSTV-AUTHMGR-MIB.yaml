@@ -1,0 +1,17 @@
+cdstvAuthMgrAddress: 1.3.6.1.4.1.9.9.751.1.2
+cdstvAuthMgrAddressType: 1.3.6.1.4.1.9.9.751.1.1
+cdstvAuthMgrDebugLevel: 1.3.6.1.4.1.9.9.751.1.9
+cdstvAuthMgrEventIsAddress: 1.3.6.1.4.1.9.9.751.1.5
+cdstvAuthMgrEventIsAddressType: 1.3.6.1.4.1.9.9.751.1.4
+cdstvAuthMgrEventIsPort: 1.3.6.1.4.1.9.9.751.1.6
+cdstvAuthMgrPort: 1.3.6.1.4.1.9.9.751.1.3
+cdstvAuthMgrServerThreadPool: 1.3.6.1.4.1.9.9.751.1.8
+cdstvAuthMgrTraxisSoapInterface: 1.3.6.1.4.1.9.9.751.1.7
+ciscoCdstvAuthMgrMIBCompliance: 1.3.6.1.4.1.9.9.751.2.1.1
+ciscoCdstvAuthMgrMIBCompliances: 1.3.6.1.4.1.9.9.751.2.1
+ciscoCdstvAuthMgrMIBConform: 1.3.6.1.4.1.9.9.751.2
+ciscoCdstvAuthMgrMIBGroups: 1.3.6.1.4.1.9.9.751.2.2
+ciscoCdstvAuthMgrMIBMainObjectGroup: 1.3.6.1.4.1.9.9.751.2.2.1
+ciscoCdstvAuthMgrMIBNotifs: 1.3.6.1.4.1.9.9.751.0
+ciscoCdstvAuthMgrMIBObjects: 1.3.6.1.4.1.9.9.751.1
+ciscoCdstvAuthmgrMIB: 1.3.6.1.4.1.9.9.751

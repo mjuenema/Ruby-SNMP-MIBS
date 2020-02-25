@@ -1,0 +1,16 @@
+cbbsmEventDescription: 1.3.6.1.4.1.9.9.358.1.1.1
+cbbsmEventID: 1.3.6.1.4.1.9.9.358.1.1.3
+cbbsmEventSource: 1.3.6.1.4.1.9.9.358.1.1.2
+cbbsmEventTime: 1.3.6.1.4.1.9.9.358.1.1.5
+cbbsmEventType: 1.3.6.1.4.1.9.9.358.1.1.4
+ciscoBbsmEvent: 1.3.6.1.4.1.9.9.358.0.1
+ciscoBbsmEventInfo: 1.3.6.1.4.1.9.9.358.1.1
+ciscoBbsmMIB: 1.3.6.1.4.1.9.9.358
+ciscoBbsmMIBCompliance: 1.3.6.1.4.1.9.9.358.2.1.1
+ciscoBbsmMIBCompliances: 1.3.6.1.4.1.9.9.358.2.1
+ciscoBbsmMIBConformance: 1.3.6.1.4.1.9.9.358.2
+ciscoBbsmMIBGroup: 1.3.6.1.4.1.9.9.358.2.2.1
+ciscoBbsmMIBGroups: 1.3.6.1.4.1.9.9.358.2.2
+ciscoBbsmMIBNotificationGroup: 1.3.6.1.4.1.9.9.358.2.2.2
+ciscoBbsmMIBObjects: 1.3.6.1.4.1.9.9.358.1
+ciscoBbsmNotifications: 1.3.6.1.4.1.9.9.358.0

@@ -1,0 +1,14 @@
+caemCompliance: 1.3.6.1.4.1.9.9.61.3.1.1
+caemCompliances: 1.3.6.1.4.1.9.9.61.3.1
+caemConformance: 1.3.6.1.4.1.9.9.61.3
+caemGroup: 1.3.6.1.4.1.9.9.61.3.2.1
+caemGroups: 1.3.6.1.4.1.9.9.61.3.2
+caemMIBNotificationPrefix: 1.3.6.1.4.1.9.9.61.2
+caemMIBNotifications: 1.3.6.1.4.1.9.9.61.2.0
+caemObjects: 1.3.6.1.4.1.9.9.61.1
+caemSupplyFailedComponent: 1.3.6.1.4.1.9.9.61.1.1.1.1
+caemSupplyStatusEntry: 1.3.6.1.4.1.9.9.61.1.1.1
+caemSupplyStatusTable: 1.3.6.1.4.1.9.9.61.1.1
+caemTemperatureNotification: 1.3.6.1.4.1.9.9.61.2.0.1
+caemVoltageNotification: 1.3.6.1.4.1.9.9.61.2.0.2
+ciscoAccessEnvMonMIB: 1.3.6.1.4.1.9.9.61

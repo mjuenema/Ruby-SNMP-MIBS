@@ -1,0 +1,11 @@
+redPortAdminMode: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.6
+redPortBoard: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.1
+redPortCommit: 1.3.6.1.4.1.326.2.2.1.1.17.2
+redPortConfEntry: 1.3.6.1.4.1.326.2.2.1.1.17.1.1
+redPortConfModule: 1.3.6.1.4.1.326.2.2.1.1.17
+redPortConfTable: 1.3.6.1.4.1.326.2.2.1.1.17.1
+redPortModule: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.2
+redPortOperState: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.7
+redPortPendingAdminMode: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.4
+redPortPendingCommitState: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.5
+redPortPort: 1.3.6.1.4.1.326.2.2.1.1.17.1.1.3

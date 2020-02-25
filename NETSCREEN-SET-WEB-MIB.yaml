@@ -1,0 +1,11 @@
+netscreenSetWebMibModule: 1.3.6.1.4.1.3224.7.0.12
+nsSetWebIdleTimeout: 1.3.6.1.4.1.3224.7.12.1.1.2
+nsSetWebPort: 1.3.6.1.4.1.3224.7.12.1.1.4
+nsSetWebSSLCertificate: 1.3.6.1.4.1.3224.7.12.1.1.6
+nsSetWebSSLCipher: 1.3.6.1.4.1.3224.7.12.1.1.7
+nsSetWebSSLPort: 1.3.6.1.4.1.3224.7.12.1.1.5
+nsSetWebTimeout: 1.3.6.1.4.1.3224.7.12.1.1.3
+nsSetWebUI: 1.3.6.1.4.1.3224.7.12
+nsSetWebUICfgEntry: 1.3.6.1.4.1.3224.7.12.1.1
+nsSetWebUICfgTable: 1.3.6.1.4.1.3224.7.12.1
+nsSetWebVsys: 1.3.6.1.4.1.3224.7.12.1.1.1

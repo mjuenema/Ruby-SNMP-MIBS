@@ -1,0 +1,11 @@
+firewall: 1.3.6.1.4.1.207.8.4.4.4.77
+firewallSessionsStatistics: 1.3.6.1.4.1.207.8.4.4.4.77.2
+firewallTrap: 1.3.6.1.4.1.207.8.4.4.4.77.0.1
+firewallTrapMessage: 1.3.6.1.4.1.207.8.4.4.4.77.1
+firewallTraps: 1.3.6.1.4.1.207.8.4.4.4.77.0
+nodeIpAddress: 1.3.6.1.4.1.207.8.4.4.4.77.2.3.1.1
+numberOfSessionsPerNode: 1.3.6.1.4.1.207.8.4.4.4.77.2.3.1.2
+numberOfSessionsPerNodeCountingStatus: 1.3.6.1.4.1.207.8.4.4.4.77.2.2
+numberOfSessionsPerNodeEntry: 1.3.6.1.4.1.207.8.4.4.4.77.2.3.1
+numberOfSessionsPerNodeTable: 1.3.6.1.4.1.207.8.4.4.4.77.2.3
+totalNumberOfSessions: 1.3.6.1.4.1.207.8.4.4.4.77.2.1

@@ -1,0 +1,14 @@
+deviceWccpBytesLowRedir: 1.3.6.1.4.1.3417.2.5.2.1.1.1.8
+deviceWccpBytesRedir: 1.3.6.1.4.1.3417.2.5.2.1.1.1.7
+deviceWccpEnabled: 1.3.6.1.4.1.3417.2.5.1
+deviceWccpIndex: 1.3.6.1.4.1.3417.2.5.2.1.1.1.1
+deviceWccpMIB: 1.3.6.1.4.1.3417.2.5
+deviceWccpMIBObjects: 1.3.6.1.4.1.3417.2.5.2
+deviceWccpPacketsLowRedir: 1.3.6.1.4.1.3417.2.5.2.1.1.1.6
+deviceWccpPacketsRedir: 1.3.6.1.4.1.3417.2.5.2.1.1.1.5
+deviceWccpServiceID: 1.3.6.1.4.1.3417.2.5.2.1.1.1.2
+deviceWccpServiceType: 1.3.6.1.4.1.3417.2.5.2.1.1.1.3
+deviceWccpServiceVersion: 1.3.6.1.4.1.3417.2.5.2.1.1.1.4
+deviceWccpValueEntry: 1.3.6.1.4.1.3417.2.5.2.1.1.1
+deviceWccpValueTable: 1.3.6.1.4.1.3417.2.5.2.1.1
+deviceWccpValues: 1.3.6.1.4.1.3417.2.5.2.1

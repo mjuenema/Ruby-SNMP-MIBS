@@ -1,0 +1,15 @@
+mitelAppCmnObjects: 1.3.6.1.4.1.1027.4.1.2.1
+mitelAppCommon: 1.3.6.1.4.1.1027.4.1.2
+mitelAppNumberOfApps: 1.3.6.1.4.1.1027.4.1.2.1.2
+mitelAppTable: 1.3.6.1.4.1.1027.4.1.2.1.1
+mitelAppTableEntry: 1.3.6.1.4.1.1027.4.1.2.1.1.1
+mitelAppTblAppAlrmStatus: 1.3.6.1.4.1.1027.4.1.2.1.1.1.6
+mitelAppTblProductDescr: 1.3.6.1.4.1.1027.4.1.2.1.1.1.5
+mitelAppTblProductManufacturer: 1.3.6.1.4.1.1027.4.1.2.1.1.1.2
+mitelAppTblProductName: 1.3.6.1.4.1.1027.4.1.2.1.1.1.3
+mitelAppTblProductOid: 1.3.6.1.4.1.1027.4.1.2.1.1.1.1
+mitelAppTblProductVersion: 1.3.6.1.4.1.1027.4.1.2.1.1.1.4
+mitelComplAppCmn: 1.3.6.1.4.1.1027.5.1.5.1
+mitelComplAppCommon: 1.3.6.1.4.1.1027.5.1.5
+mitelGrpAppCmn: 1.3.6.1.4.1.1027.5.2.3.1
+mitelGrpAppCommon: 1.3.6.1.4.1.1027.5.2.3

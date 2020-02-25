@@ -1,0 +1,8 @@
+extremeSnmpv3: 1.3.6.1.4.1.1916.1.23
+extremeTarget: 1.3.6.1.4.1.1916.1.23.1
+extremeTargetAddrExtEntry: 1.3.6.1.4.1.1916.1.23.1.1.1
+extremeTargetAddrExtIgnoreMPModel: 1.3.6.1.4.1.1916.1.23.1.1.1.1
+extremeTargetAddrExtStandardMode: 1.3.6.1.4.1.1916.1.23.1.1.1.2
+extremeTargetAddrExtTable: 1.3.6.1.4.1.1916.1.23.1.1
+extremeTargetAddrExtTrapDestIndex: 1.3.6.1.4.1.1916.1.23.1.1.1.3
+extremeTargetAddrExtUseEventComm: 1.3.6.1.4.1.1916.1.23.1.1.1.4

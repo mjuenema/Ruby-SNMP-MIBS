@@ -1,0 +1,11 @@
+trpzQosConfQosProfConfMaxBandwidthKbps: 1.3.6.1.4.1.14525.4.20.1.1.1.2
+trpzQosConfQosProfConfProfileName: 1.3.6.1.4.1.14525.4.20.1.1.1.1
+trpzQosConfQosProfileConfigEntry: 1.3.6.1.4.1.14525.4.20.1.1.1
+trpzQosConfQosProfileConfigGroup: 1.3.6.1.4.1.14525.4.20.2.2.1
+trpzQosConfQosProfileConfigTable: 1.3.6.1.4.1.14525.4.20.1.1
+trpzQosConfigCompliance: 1.3.6.1.4.1.14525.4.20.2.1.1
+trpzQosConfigCompliances: 1.3.6.1.4.1.14525.4.20.2.1
+trpzQosConfigConformance: 1.3.6.1.4.1.14525.4.20.2
+trpzQosConfigGroups: 1.3.6.1.4.1.14525.4.20.2.2
+trpzQosConfigMib: 1.3.6.1.4.1.14525.4.20
+trpzQosConfigMibObjects: 1.3.6.1.4.1.14525.4.20.1

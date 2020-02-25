@@ -1,0 +1,10 @@
+hpicfL3MacConfigConformance: 1.3.6.1.4.1.11.2.14.11.5.1.36.2
+hpicfL3MacConfigGroup: 1.3.6.1.4.1.11.2.14.11.5.1.36.2.2.1
+hpicfL3MacConfigIfAdvTimer: 1.3.6.1.4.1.11.2.14.11.5.1.36.1.1.1.1
+hpicfL3MacConfigIfEntry: 1.3.6.1.4.1.11.2.14.11.5.1.36.1.1.1
+hpicfL3MacConfigIfTable: 1.3.6.1.4.1.11.2.14.11.5.1.36.1.1
+hpicfL3MacConfigMIB: 1.3.6.1.4.1.11.2.14.11.5.1.36
+hpicfL3MacConfigMIBCompliance: 1.3.6.1.4.1.11.2.14.11.5.1.36.2.1.1
+hpicfL3MacConfigMIBCompliances: 1.3.6.1.4.1.11.2.14.11.5.1.36.2.1
+hpicfL3MacConfigMIBGroups: 1.3.6.1.4.1.11.2.14.11.5.1.36.2.2
+hpicfL3MacConfigObjects: 1.3.6.1.4.1.11.2.14.11.5.1.36.1

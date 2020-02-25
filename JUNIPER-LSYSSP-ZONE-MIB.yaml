@@ -1,0 +1,17 @@
+jnxLsysSpZoneAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.3
+jnxLsysSpZoneEntry: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1
+jnxLsysSpZoneHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.4
+jnxLsysSpZoneHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.5
+jnxLsysSpZoneLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.6
+jnxLsysSpZoneLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.7
+jnxLsysSpZoneLsysName: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1.1
+jnxLsysSpZoneMIB: 1.3.6.1.4.1.2636.3.39.1.17.1.1
+jnxLsysSpZoneMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.2
+jnxLsysSpZoneMaximum: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1.5
+jnxLsysSpZoneObjects: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1
+jnxLsysSpZoneProfileName: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1.2
+jnxLsysSpZoneReserved: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1.4
+jnxLsysSpZoneSummary: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2
+jnxLsysSpZoneTable: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1
+jnxLsysSpZoneUsage: 1.3.6.1.4.1.2636.3.39.1.17.1.1.1.1.1.3
+jnxLsysSpZoneUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.1.1.2.1

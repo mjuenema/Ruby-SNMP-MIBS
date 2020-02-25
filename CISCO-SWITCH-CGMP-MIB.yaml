@@ -1,0 +1,16 @@
+ciscoSwitchCgmpMIB: 1.3.6.1.4.1.9.9.101
+ciscoSwitchCgmpMIBCompliance: 1.3.6.1.4.1.9.9.101.3.1.1
+ciscoSwitchCgmpMIBCompliances: 1.3.6.1.4.1.9.9.101.3.1
+ciscoSwitchCgmpMIBConformance: 1.3.6.1.4.1.9.9.101.3
+ciscoSwitchCgmpMIBGroups: 1.3.6.1.4.1.9.9.101.3.2
+ciscoSwitchCgmpMIBObjects: 1.3.6.1.4.1.9.9.101.1
+sCgmpEnable: 1.3.6.1.4.1.9.9.101.1.1.1
+sCgmpFastLeaveEnable: 1.3.6.1.4.1.9.9.101.1.1.2
+sCgmpGroup: 1.3.6.1.4.1.9.9.101.3.2.1
+sCgmpInfo: 1.3.6.1.4.1.9.9.101.1.1
+sCgmpRouterEntry: 1.3.6.1.4.1.9.9.101.1.1.4.1
+sCgmpRouterEntryStatus: 1.3.6.1.4.1.9.9.101.1.1.4.1.4
+sCgmpRouterHoldTime: 1.3.6.1.4.1.9.9.101.1.1.3
+sCgmpRouterMacAddress: 1.3.6.1.4.1.9.9.101.1.1.4.1.3
+sCgmpRouterTable: 1.3.6.1.4.1.9.9.101.1.1.4
+sCgmpRouterVlanIndex: 1.3.6.1.4.1.9.9.101.1.1.4.1.1

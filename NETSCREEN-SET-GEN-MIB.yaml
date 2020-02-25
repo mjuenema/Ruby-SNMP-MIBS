@@ -1,0 +1,10 @@
+netscreenSetGenMibModule: 1.3.6.1.4.1.3224.7.0.1
+nsSetGenDomain: 1.3.6.1.4.1.3224.7.1.3
+nsSetGenDropSelfLogPac: 1.3.6.1.4.1.3224.7.1.8
+nsSetGenHostName: 1.3.6.1.4.1.3224.7.1.2
+nsSetGenLicInfo: 1.3.6.1.4.1.3224.7.1.6
+nsSetGenOpMode: 1.3.6.1.4.1.3224.7.1.4
+nsSetGenSCSAdminEnable: 1.3.6.1.4.1.3224.7.1.7
+nsSetGenSwVer: 1.3.6.1.4.1.3224.7.1.5
+nsSetGenSysIp: 1.3.6.1.4.1.3224.7.1.1
+nsSetGeneral: 1.3.6.1.4.1.3224.7.1

@@ -1,0 +1,15 @@
+trpzApUnconfCompliance: 1.3.6.1.4.1.14525.4.15.2.1.1
+trpzApUnconfCompliances: 1.3.6.1.4.1.14525.4.15.2.1
+trpzApUnconfConformance: 1.3.6.1.4.1.14525.4.15.2
+trpzApUnconfGroups: 1.3.6.1.4.1.14525.4.15.2.2
+trpzApUnconfMibObjects: 1.3.6.1.4.1.14525.4.15.1
+trpzApUnconfOrphanApModelName: 1.3.6.1.4.1.14525.4.15.1.2.1.2
+trpzApUnconfOrphanApSerialNum: 1.3.6.1.4.1.14525.4.15.1.2.1.1
+trpzApUnconfOrphanBasicGroup: 1.3.6.1.4.1.14525.4.15.2.2.1
+trpzApUnconfOrphanEntry: 1.3.6.1.4.1.14525.4.15.1.2.1
+trpzApUnconfOrphanIpAddress: 1.3.6.1.4.1.14525.4.15.1.2.1.5
+trpzApUnconfOrphanPhysPortNum: 1.3.6.1.4.1.14525.4.15.1.2.1.6
+trpzApUnconfOrphanReason: 1.3.6.1.4.1.14525.4.15.1.2.1.8
+trpzApUnconfOrphanTable: 1.3.6.1.4.1.14525.4.15.1.2
+trpzApUnconfOrphanVLANName: 1.3.6.1.4.1.14525.4.15.1.2.1.7
+trpzApUnconfiguredMib: 1.3.6.1.4.1.14525.4.15

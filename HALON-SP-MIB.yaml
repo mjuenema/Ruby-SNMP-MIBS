@@ -1,0 +1,16 @@
+configurationRevision: 1.3.6.1.4.1.33234.1.1.1.2
+halonSecurity: 1.3.6.1.4.1.33234
+halonSecurityProducts: 1.3.6.1.4.1.33234.1
+halonSecuritySP: 1.3.6.1.4.1.33234.1.1
+halonSecuritySPObjects: 1.3.6.1.4.1.33234.1.1.1
+mailQueueLength: 1.3.6.1.4.1.33234.1.1.1.3
+quarantinedMessages: 1.3.6.1.4.1.33234.1.1.1.4
+serialNumber: 1.3.6.1.4.1.33234.1.1.1.1
+statCount: 1.3.6.1.4.1.33234.1.1.1.5.1.4
+statCreated: 1.3.6.1.4.1.33234.1.1.1.5.1.5
+statEntry: 1.3.6.1.4.1.33234.1.1.1.5.1
+statKey1Index: 1.3.6.1.4.1.33234.1.1.1.5.1.1
+statKey2Index: 1.3.6.1.4.1.33234.1.1.1.5.1.2
+statKey3Index: 1.3.6.1.4.1.33234.1.1.1.5.1.3
+statTable: 1.3.6.1.4.1.33234.1.1.1.5
+statUpdated: 1.3.6.1.4.1.33234.1.1.1.5.1.6

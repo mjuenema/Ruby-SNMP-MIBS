@@ -1,0 +1,13 @@
+cdeClientStatusChange: 1.3.6.1.4.1.9.9.822.0.2
+cdeClientStatusChangeEnable: 1.3.6.1.4.1.9.9.822.1.2
+cdeServerStatusChange: 1.3.6.1.4.1.9.9.822.0.1
+cdeServerStatusChangeEnable: 1.3.6.1.4.1.9.9.822.1.1
+ciscoDtiExtCompliance: 1.3.6.1.4.1.9.9.822.2.1.1
+ciscoDtiExtCompliances: 1.3.6.1.4.1.9.9.822.2.1
+ciscoDtiExtConform: 1.3.6.1.4.1.9.9.822.2
+ciscoDtiExtGroups: 1.3.6.1.4.1.9.9.822.2.2
+ciscoDtiExtMIB: 1.3.6.1.4.1.9.9.822
+ciscoDtiExtNotifs: 1.3.6.1.4.1.9.9.822.0
+ciscoDtiExtNotifsControlGroup: 1.3.6.1.4.1.9.9.822.2.2.1
+ciscoDtiExtNotifsGroup: 1.3.6.1.4.1.9.9.822.2.2.2
+ciscoDtiExtObjects: 1.3.6.1.4.1.9.9.822.1

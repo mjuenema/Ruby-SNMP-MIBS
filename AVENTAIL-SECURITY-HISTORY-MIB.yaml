@@ -1,0 +1,10 @@
+aventailSecurityHistory: 1.3.6.1.4.1.4331.4
+lastAccessDenial: 1.3.6.1.4.1.4331.4.4
+lastAccessDeniedResource: 1.3.6.1.4.1.4331.4.4.2
+lastAccessDeniedTime: 1.3.6.1.4.1.4331.4.4.3
+lastAccessDeniedUser: 1.3.6.1.4.1.4331.4.4.1
+lastLoginDenial: 1.3.6.1.4.1.4331.4.2
+lastLoginDeniedTime: 1.3.6.1.4.1.4331.4.2.2
+lastLoginDeniedUser: 1.3.6.1.4.1.4331.4.2.1
+numOfAccessDenials: 1.3.6.1.4.1.4331.4.3
+numOfLoginDenials: 1.3.6.1.4.1.4331.4.1

@@ -1,0 +1,17 @@
+ciscoNDEMIB: 1.3.6.1.4.1.9.9.226
+ciscoNDEMIBObjects: 1.3.6.1.4.1.9.9.226.1
+cndeCollectorAddress: 1.3.6.1.4.1.9.9.226.1.1.2.1.2
+cndeCollectorAddressType: 1.3.6.1.4.1.9.9.226.1.1.2.1.1
+cndeCollectorConfiguration: 1.3.6.1.4.1.9.9.226.1.1
+cndeCollectorConfigurationGroup: 1.3.6.1.4.1.9.9.226.3.2.1
+cndeCollectorEntry: 1.3.6.1.4.1.9.9.226.1.1.2.1
+cndeCollectorPort: 1.3.6.1.4.1.9.9.226.1.1.2.1.3
+cndeCollectorStatus: 1.3.6.1.4.1.9.9.226.1.1.2.1.4
+cndeCollectorTable: 1.3.6.1.4.1.9.9.226.1.1.2
+cndeMIBCompliance: 1.3.6.1.4.1.9.9.226.3.1.1
+cndeMIBCompliances: 1.3.6.1.4.1.9.9.226.3.1
+cndeMIBConformance: 1.3.6.1.4.1.9.9.226.3
+cndeMIBGroups: 1.3.6.1.4.1.9.9.226.3.2
+cndeMIBNotifications: 1.3.6.1.4.1.9.9.226.2
+cndeMIBNotifs: 1.3.6.1.4.1.9.9.226.0
+cndeMaxCollectors: 1.3.6.1.4.1.9.9.226.1.1.1

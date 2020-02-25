@@ -1,0 +1,16 @@
+bWagSubHighThreshold: 1.3.6.1.4.1.39406.2.1.2.2.1
+bWagSubHighThresholdReached: 1.3.6.1.4.1.39406.2.1.2.0.1
+bWagSubLowThreshold: 1.3.6.1.4.1.39406.2.1.2.2.2
+bWagSubLowThresholdReached: 1.3.6.1.4.1.39406.2.1.2.0.2
+bWagSubMIBNotifObjects: 1.3.6.1.4.1.39406.2.1.2.2
+bWagSubMIBObjects: 1.3.6.1.4.1.39406.2.1.2.1
+bWagSubMaxNumOfSubscribers: 1.3.6.1.4.1.39406.2.1.2.1.1
+bWagSubTunnelMIBNotifications: 1.3.6.1.4.1.39406.2.1.2.0
+bWagTunHighThreshold: 1.3.6.1.4.1.39406.2.1.2.4.1
+bWagTunHighThresholdReached: 1.3.6.1.4.1.39406.2.1.2.0.3
+bWagTunLowThreshold: 1.3.6.1.4.1.39406.2.1.2.4.2
+bWagTunLowThresholdReached: 1.3.6.1.4.1.39406.2.1.2.0.4
+bWagTunMaxNumOfTunnels: 1.3.6.1.4.1.39406.2.1.2.3.1
+bWagTunnelMIBNotifObjects: 1.3.6.1.4.1.39406.2.1.2.4
+bWagTunnelMIBObjects: 1.3.6.1.4.1.39406.2.1.2.3
+benuWagSubTunMIB: 1.3.6.1.4.1.39406.2.1.2

@@ -1,0 +1,13 @@
+rcBayStackMIB: 1.3.6.1.4.1.2272.40.1
+rcBayStackObjects: 1.3.6.1.4.1.2272.40.1.1
+rcBayStackSshDsaHostKeyStatus: 1.3.6.1.4.1.2272.40.1.1.3.1
+rcBayStackSshExt: 1.3.6.1.4.1.2272.40.1.1.3
+rcBayStackSshSessionEntry: 1.3.6.1.4.1.2272.40.1.1.2.1
+rcBayStackSshSessionId: 1.3.6.1.4.1.2272.40.1.1.2.1.1
+rcBayStackSshSessionIp: 1.3.6.1.4.1.2272.40.1.1.2.1.2
+rcBayStackSshSessionTable: 1.3.6.1.4.1.2272.40.1.1.2
+rcBayStackTftpAction: 1.3.6.1.4.1.2272.40.1.1.1.1
+rcBayStackTftpExt: 1.3.6.1.4.1.2272.40.1.1.1
+rcBayStackTraps: 1.3.6.1.4.1.2272.40.1.21
+rcBayStackTraps0: 1.3.6.1.4.1.2272.40.1.21.0
+rcMltConfigError: 1.3.6.1.4.1.2272.40.1.21.0.1

@@ -1,0 +1,17 @@
+deviceSensorCode: 1.3.6.1.4.1.3417.2.1.1.1.1.1.6
+deviceSensorIndex: 1.3.6.1.4.1.3417.2.1.1.1.1.1.1
+deviceSensorMIB: 1.3.6.1.4.1.3417.2.1
+deviceSensorMIBNotifications: 1.3.6.1.4.1.3417.2.1.2
+deviceSensorMIBNotificationsPrefix: 1.3.6.1.4.1.3417.2.1.2.0
+deviceSensorMIBObjects: 1.3.6.1.4.1.3417.2.1.1
+deviceSensorName: 1.3.6.1.4.1.3417.2.1.1.1.1.1.9
+deviceSensorScale: 1.3.6.1.4.1.3417.2.1.1.1.1.1.4
+deviceSensorStatus: 1.3.6.1.4.1.3417.2.1.1.1.1.1.7
+deviceSensorTimeStamp: 1.3.6.1.4.1.3417.2.1.1.1.1.1.8
+deviceSensorTrap: 1.3.6.1.4.1.3417.2.1.2.0.1
+deviceSensorTrapEnabled: 1.3.6.1.4.1.3417.2.1.1.1.1.1.2
+deviceSensorUnits: 1.3.6.1.4.1.3417.2.1.1.1.1.1.3
+deviceSensorValue: 1.3.6.1.4.1.3417.2.1.1.1.1.1.5
+deviceSensorValueEntry: 1.3.6.1.4.1.3417.2.1.1.1.1.1
+deviceSensorValueTable: 1.3.6.1.4.1.3417.2.1.1.1.1
+deviceSensorValues: 1.3.6.1.4.1.3417.2.1.1.1

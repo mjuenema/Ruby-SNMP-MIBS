@@ -1,0 +1,14 @@
+timetraAlarmMIBModule: 1.3.6.1.4.1.6527.1.1.3.77
+tmnxAlarmAdminState: 1.3.6.1.4.1.6527.3.1.2.77.2.1.1
+tmnxAlarmCompliance: 1.3.6.1.4.1.6527.3.1.1.77.1.1
+tmnxAlarmCompliances: 1.3.6.1.4.1.6527.3.1.1.77.1
+tmnxAlarmConfigTimeStamps: 1.3.6.1.4.1.6527.3.1.2.77.1
+tmnxAlarmConfigurations: 1.3.6.1.4.1.6527.3.1.2.77.2
+tmnxAlarmConformance: 1.3.6.1.4.1.6527.3.1.1.77
+tmnxAlarmGroups: 1.3.6.1.4.1.6527.3.1.1.77.2
+tmnxAlarmNotifications: 1.3.6.1.4.1.6527.3.1.3.77.0
+tmnxAlarmNotifyPrefix: 1.3.6.1.4.1.6527.3.1.3.77
+tmnxAlarmObjs: 1.3.6.1.4.1.6527.3.1.2.77
+tmnxAlarmSystemConfig: 1.3.6.1.4.1.6527.3.1.2.77.2.1
+tmnxAlarmSystemConfigGroup: 1.3.6.1.4.1.6527.3.1.1.77.2.1.1
+tmnxAlarmV9v0Groups: 1.3.6.1.4.1.6527.3.1.1.77.2.1

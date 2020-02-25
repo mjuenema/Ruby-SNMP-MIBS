@@ -1,0 +1,9 @@
+carpMIBObjects: 1.3.6.1.4.1.30155.6
+localSystem: 1.3.6.1.4.1.30155.23
+localTest: 1.3.6.1.4.1.30155.42
+memMIBObjects: 1.3.6.1.4.1.30155.5
+openBSD: 1.3.6.1.4.1.30155
+openBSDDefaultObjectID: 1.3.6.1.4.1.30155.23.1
+pfMIBObjects: 1.3.6.1.4.1.30155.1
+relaydMIBObjects: 1.3.6.1.4.1.30155.3
+sensorsMIBObjects: 1.3.6.1.4.1.30155.2

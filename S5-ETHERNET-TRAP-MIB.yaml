@@ -1,0 +1,8 @@
+s5EthernetTrapMib: 1.3.6.1.4.1.45.1.6.2.1.0
+s5EtrMgmAccessViolation: 1.3.6.1.4.1.45.1.6.2.1.6
+s5EtrPortAutoPart: 1.3.6.1.4.1.45.1.6.2.1.1
+s5EtrPortDteJabbering: 1.3.6.1.4.1.45.1.6.2.1.2
+s5EtrPortManualPart: 1.3.6.1.4.1.45.1.6.2.1.7
+s5EtrRedBadRemCfgDetected: 1.3.6.1.4.1.45.1.6.2.1.4
+s5EtrRedPortFailure: 1.3.6.1.4.1.45.1.6.2.1.3
+s5EtrSbsMacAccessViolation: 1.3.6.1.4.1.45.1.6.2.1.5

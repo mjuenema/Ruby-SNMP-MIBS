@@ -1,0 +1,6 @@
+hwLswArpMib: 1.3.6.1.4.1.2011.2.23.1.4
+hwLswIfIndex: 1.3.6.1.4.1.2011.2.23.1.4.1.1.1.1
+hwLswProxyArpEnableEntry: 1.3.6.1.4.1.2011.2.23.1.4.1.1.1
+hwLswProxyArpEnableTable: 1.3.6.1.4.1.2011.2.23.1.4.1.1
+hwLswProxyArpObject: 1.3.6.1.4.1.2011.2.23.1.4.1
+hwLswProxyArpStatus: 1.3.6.1.4.1.2011.2.23.1.4.1.1.1.2

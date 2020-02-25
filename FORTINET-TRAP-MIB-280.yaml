@@ -1,0 +1,16 @@
+fnTrapAvEvent: 1.3.6.1.4.1.12356.0.601
+fnTrapBridge: 1.3.6.1.4.1.12356.0.701
+fnTrapCpuHigh: 1.3.6.1.4.1.12356.0.101
+fnTrapFlgEventCount: 1.3.6.1.4.1.12356.0.901
+fnTrapHaStateChange: 1.3.6.1.4.1.12356.0.402
+fnTrapHaSwitch: 1.3.6.1.4.1.12356.0.401
+fnTrapIdsPortScan: 1.3.6.1.4.1.12356.0.502
+fnTrapIdsSynFlood: 1.3.6.1.4.1.12356.0.501
+fnTrapImTableFull: 1.3.6.1.4.1.12356.0.801
+fnTrapIpChange: 1.3.6.1.4.1.12356.0.201
+fnTrapIpsAnomaly: 1.3.6.1.4.1.12356.0.504
+fnTrapIpsSignature: 1.3.6.1.4.1.12356.0.503
+fnTrapLogFull: 1.3.6.1.4.1.12356.0.103
+fnTrapMemLow: 1.3.6.1.4.1.12356.0.102
+fnTrapVpnTunDown: 1.3.6.1.4.1.12356.0.302
+fnTrapVpnTunUp: 1.3.6.1.4.1.12356.0.301

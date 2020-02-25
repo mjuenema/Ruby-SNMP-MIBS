@@ -1,0 +1,14 @@
+alliedTelesis: 1.3.6.1.4.1.207
+atiStackInfoMib: 1.3.6.1.4.1.207.8.16
+atiswitchEnhStackEntry: 1.3.6.1.4.1.207.8.16.1.4.1
+atiswitchEnhStackMode: 1.3.6.1.4.1.207.8.16.1.1
+atiswitchEnhStackRemoteNumber: 1.3.6.1.4.1.207.8.16.1.3
+atiswitchEnhStackSwId: 1.3.6.1.4.1.207.8.16.1.4.1.1
+atiswitchEnhStackSwMacAddr: 1.3.6.1.4.1.207.8.16.1.4.1.2
+atiswitchEnhStackSwMode: 1.3.6.1.4.1.207.8.16.1.4.1.4
+atiswitchEnhStackSwModel: 1.3.6.1.4.1.207.8.16.1.4.1.6
+atiswitchEnhStackSwName: 1.3.6.1.4.1.207.8.16.1.4.1.3
+atiswitchEnhStackSwSoftwareVersion: 1.3.6.1.4.1.207.8.16.1.4.1.5
+atiswitchEnhStackTable: 1.3.6.1.4.1.207.8.16.1.4
+atiswitchEnhancedStacking: 1.3.6.1.4.1.207.8.16.1
+mibObject: 1.3.6.1.4.1.207.8

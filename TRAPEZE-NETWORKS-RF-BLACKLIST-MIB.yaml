@@ -1,0 +1,12 @@
+trpzRFBlacklistCompliance: 1.3.6.1.4.1.14525.4.18.2.1.1
+trpzRFBlacklistCompliances: 1.3.6.1.4.1.14525.4.18.2.1
+trpzRFBlacklistConformance: 1.3.6.1.4.1.14525.4.18.2
+trpzRFBlacklistGroups: 1.3.6.1.4.1.14525.4.18.2.2
+trpzRFBlacklistMib: 1.3.6.1.4.1.14525.4.18
+trpzRFBlacklistMibObjects: 1.3.6.1.4.1.14525.4.18.1
+trpzRFBlacklistXmtrEntry: 1.3.6.1.4.1.14525.4.18.1.2.1
+trpzRFBlacklistXmtrGroup: 1.3.6.1.4.1.14525.4.18.2.2.1
+trpzRFBlacklistXmtrMacAddress: 1.3.6.1.4.1.14525.4.18.1.2.1.1
+trpzRFBlacklistXmtrTable: 1.3.6.1.4.1.14525.4.18.1.2
+trpzRFBlacklistXmtrTimeToLive: 1.3.6.1.4.1.14525.4.18.1.2.1.3
+trpzRFBlacklistXmtrType: 1.3.6.1.4.1.14525.4.18.1.2.1.2

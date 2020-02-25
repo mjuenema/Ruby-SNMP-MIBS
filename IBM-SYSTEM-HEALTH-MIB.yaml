@@ -1,0 +1,13 @@
+ibmSystemComponentHealthAlertingManagedElement: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.10
+ibmSystemComponentHealthCurrentState: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.2
+ibmSystemComponentHealthDateTime: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.4
+ibmSystemComponentHealthDescription: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.6
+ibmSystemComponentHealthEntry: 1.3.6.1.4.1.2.6.159.1.1.30.3.1
+ibmSystemComponentHealthEventCategory: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.7
+ibmSystemComponentHealthEventID: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.9
+ibmSystemComponentHealthKeyIndex: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.1
+ibmSystemComponentHealthLastState: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.3
+ibmSystemComponentHealthLastUpdate: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.5
+ibmSystemComponentHealthResolution: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.8
+ibmSystemComponentHealthStatus: 1.3.6.1.4.1.2.6.159.1.1.30.3.1.11
+ibmSystemComponentHealthTable: 1.3.6.1.4.1.2.6.159.1.1.30.3

@@ -1,0 +1,16 @@
+ciscoIfTopNExtCapsGroup: 1.3.6.1.4.1.9.9.482.2.2.1
+ciscoIfTopNExtControlGroup: 1.3.6.1.4.1.9.9.482.2.2.2
+ciscoIfTopNExtCtrlVlanGroup: 1.3.6.1.4.1.9.9.482.2.2.3
+ciscoIfTopNExtMIBCompliance: 1.3.6.1.4.1.9.9.482.2.1.1
+ciscoIfTopNExtMIBCompliances: 1.3.6.1.4.1.9.9.482.2.1
+ciscoIfTopNExtMIBGroups: 1.3.6.1.4.1.9.9.482.2.2
+ciscoInterfaceTopNExtMIB: 1.3.6.1.4.1.9.9.482
+ciscoInterfaceTopNExtMIBConform: 1.3.6.1.4.1.9.9.482.2
+ciscoInterfaceTopNExtMIBNotifs: 1.3.6.1.4.1.9.9.482.0
+ciscoInterfaceTopNExtMIBObjects: 1.3.6.1.4.1.9.9.482.1
+citneInterfaceTopNCaps: 1.3.6.1.4.1.9.9.482.1.1
+citneInterfaceTopNControlEntry: 1.3.6.1.4.1.9.9.482.1.2.1
+citneInterfaceTopNControlTable: 1.3.6.1.4.1.9.9.482.1.2
+citneInterfaceTopNCounterType: 1.3.6.1.4.1.9.9.482.1.2.1.1
+citneInterfaceTopNInterfaceType: 1.3.6.1.4.1.9.9.482.1.2.1.2
+citneInterfaceTopNVlanNumber: 1.3.6.1.4.1.9.9.482.1.2.1.3

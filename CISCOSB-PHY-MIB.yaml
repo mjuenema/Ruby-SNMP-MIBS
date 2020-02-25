@@ -1,0 +1,13 @@
+rlPhy: 1.3.6.1.4.1.9.6.1.101.90
+rlPhyTest: 1.3.6.1.4.1.9.6.1.101.90.1
+rlPhyTestGetAlarm: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.5
+rlPhyTestGetEntry: 1.3.6.1.4.1.9.6.1.101.90.1.2.1
+rlPhyTestGetResult: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.3
+rlPhyTestGetStatus: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.2
+rlPhyTestGetTable: 1.3.6.1.4.1.9.6.1.101.90.1.2
+rlPhyTestGetTimeStamp: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.6
+rlPhyTestGetType: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.1
+rlPhyTestGetUnits: 1.3.6.1.4.1.9.6.1.101.90.1.2.1.4
+rlPhyTestSetEntry: 1.3.6.1.4.1.9.6.1.101.90.1.1.1
+rlPhyTestSetTable: 1.3.6.1.4.1.9.6.1.101.90.1.1
+rlPhyTestSetType: 1.3.6.1.4.1.9.6.1.101.90.1.1.1.1

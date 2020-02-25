@@ -1,0 +1,8 @@
+rlLbd: 1.3.6.1.4.1.9.6.1.101.127
+rlLbdDetectionInterval: 1.3.6.1.4.1.9.6.1.101.127.2
+rlLbdEnable: 1.3.6.1.4.1.9.6.1.101.127.1
+rlLbdMode: 1.3.6.1.4.1.9.6.1.101.127.3
+rlLbdPortAdminStatus: 1.3.6.1.4.1.9.6.1.101.127.4.1.1
+rlLbdPortEntry: 1.3.6.1.4.1.9.6.1.101.127.4.1
+rlLbdPortOperStatus: 1.3.6.1.4.1.9.6.1.101.127.4.1.2
+rlLbdPortTable: 1.3.6.1.4.1.9.6.1.101.127.4

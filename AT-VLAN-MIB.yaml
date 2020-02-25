@@ -1,0 +1,11 @@
+atVlanInfo: 1.3.6.1.4.1.207.8.4.4.3.16
+atVlanStatCollectionEntry: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1
+atVlanStatCollectionIngressOctets: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.5
+atVlanStatCollectionIngressPkts: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.4
+atVlanStatCollectionName: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.1
+atVlanStatCollectionPortMap: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.3
+atVlanStatCollectionResetStats: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.6
+atVlanStatCollectionTable: 1.3.6.1.4.1.207.8.4.4.3.16.1.2
+atVlanStatCollectionVlanId: 1.3.6.1.4.1.207.8.4.4.3.16.1.2.1.2
+atVlanStatNumCollections: 1.3.6.1.4.1.207.8.4.4.3.16.1.1
+atVlanStatistics: 1.3.6.1.4.1.207.8.4.4.3.16.1

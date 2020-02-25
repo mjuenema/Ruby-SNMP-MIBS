@@ -1,0 +1,8 @@
+rlStack: 1.3.6.1.4.1.9.6.1.101.107
+rlStackActiveUnitIdAfterReset: 1.3.6.1.4.1.9.6.1.101.107.1.1.2
+rlStackActiveUnitIdEntry: 1.3.6.1.4.1.9.6.1.101.107.1.1
+rlStackActiveUnitIdTable: 1.3.6.1.4.1.9.6.1.101.107.1
+rlStackCurrentUnitId: 1.3.6.1.4.1.9.6.1.101.107.1.1.1
+rlStackUnitMacAddressAfterReset: 1.3.6.1.4.1.9.6.1.101.107.4
+rlStackUnitMode: 1.3.6.1.4.1.9.6.1.101.107.3
+rlStackUnitModeAfterReset: 1.3.6.1.4.1.9.6.1.101.107.2

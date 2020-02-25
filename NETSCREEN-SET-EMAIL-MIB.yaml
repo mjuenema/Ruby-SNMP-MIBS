@@ -1,0 +1,7 @@
+netscreenSetEmailMibModule: 1.3.6.1.4.1.3224.7.0.7
+nsSetEmail: 1.3.6.1.4.1.3224.7.7
+nsSetEmailAddr1: 1.3.6.1.4.1.3224.7.7.4
+nsSetEmailAddr2: 1.3.6.1.4.1.3224.7.7.5
+nsSetEmailEnable: 1.3.6.1.4.1.3224.7.7.1
+nsSetEmailLog: 1.3.6.1.4.1.3224.7.7.3
+nsSetEmailSMTP: 1.3.6.1.4.1.3224.7.7.2

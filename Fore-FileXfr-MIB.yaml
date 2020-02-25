@@ -1,0 +1,17 @@
+fXfrDirection: 1.3.6.1.4.1.326.1.6.2.2.1.4
+fXfrEntry: 1.3.6.1.4.1.326.1.6.2.2.1
+fXfrEntryStatus: 1.3.6.1.4.1.326.1.6.2.2.1.5
+fXfrGroup: 1.3.6.1.4.1.326.1.6.2
+fXfrIndex: 1.3.6.1.4.1.326.1.6.2.2.1.1
+fXfrLocalFile: 1.3.6.1.4.1.326.1.6.2.2.1.3
+fXfrNextIndex: 1.3.6.1.4.1.326.1.6.2.1
+fXfrOwnerIpAddress: 1.3.6.1.4.1.326.1.6.2.2.1.8
+fXfrOwnerSignature: 1.3.6.1.4.1.326.1.6.2.2.1.9
+fXfrPassword: 1.3.6.1.4.1.326.1.6.2.2.1.12
+fXfrRemoteFileUrl: 1.3.6.1.4.1.326.1.6.2.2.1.2
+fXfrStatus: 1.3.6.1.4.1.326.1.6.2.2.1.6
+fXfrStatusText: 1.3.6.1.4.1.326.1.6.2.2.1.7
+fXfrTable: 1.3.6.1.4.1.326.1.6.2.2
+fXfrTransferType: 1.3.6.1.4.1.326.1.6.2.2.1.10
+fXfrUserId: 1.3.6.1.4.1.326.1.6.2.2.1.11
+foreFileXfrModule: 1.3.6.1.4.1.326.1.6.1

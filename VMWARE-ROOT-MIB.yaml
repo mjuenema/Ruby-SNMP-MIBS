@@ -1,0 +1,8 @@
+vmwExperimental: 1.3.6.1.4.1.6876.700
+vmwOID: 1.3.6.1.4.1.6876.60
+vmwProductSpecific: 1.3.6.1.4.1.6876.4
+vmwResources: 1.3.6.1.4.1.6876.3
+vmwSystem: 1.3.6.1.4.1.6876.1
+vmwTraps: 1.3.6.1.4.1.6876.50
+vmwVirtMachines: 1.3.6.1.4.1.6876.2
+vmware: 1.3.6.1.4.1.6876

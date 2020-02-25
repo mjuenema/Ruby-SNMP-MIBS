@@ -1,0 +1,13 @@
+rcPortStatistics: 1.3.6.1.4.1.8886.6.1.7
+rcPortStatsAllBitsEntry: 1.3.6.1.4.1.8886.6.1.7.2.1
+rcPortStatsAllBitsTable: 1.3.6.1.4.1.8886.6.1.7.2
+rcPortStatsEntry: 1.3.6.1.4.1.8886.6.1.7.1.1
+rcPortStatsTable: 1.3.6.1.4.1.8886.6.1.7.1
+rcStatInPktType: 1.3.6.1.4.1.8886.6.1.7.1.1.3
+rcStatOutPktType: 1.3.6.1.4.1.8886.6.1.7.1.1.5
+rcStatsClear: 1.3.6.1.4.1.8886.6.1.7.1.1.6
+rcStatsInAllBits: 1.3.6.1.4.1.8886.6.1.7.2.1.1
+rcStatsInPacket: 1.3.6.1.4.1.8886.6.1.7.1.1.2
+rcStatsOutAllBits: 1.3.6.1.4.1.8886.6.1.7.2.1.2
+rcStatsOutPacket: 1.3.6.1.4.1.8886.6.1.7.1.1.4
+rcStatsPortIndex: 1.3.6.1.4.1.8886.6.1.7.1.1.1

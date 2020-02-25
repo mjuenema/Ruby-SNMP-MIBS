@@ -1,0 +1,14 @@
+epsr: 1.3.6.1.4.1.207.8.4.4.4.136
+epsrControlVlanId: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.5
+epsrDomainName: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.2
+epsrEventVariablesEntry: 1.3.6.1.4.1.207.8.4.4.4.136.2.1
+epsrEventVariablesTable: 1.3.6.1.4.1.207.8.4.4.4.136.2
+epsrEvents: 1.3.6.1.4.1.207.8.4.4.4.136.1
+epsrFromState: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.3
+epsrNodeTrap: 1.3.6.1.4.1.207.8.4.4.4.136.1.1
+epsrNodeTrapType: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.1
+epsrPrimaryIfIndex: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.6
+epsrPrimaryIfState: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.7
+epsrSecondaryIfIndex: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.8
+epsrSecondaryIfState: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.9
+epsrToState: 1.3.6.1.4.1.207.8.4.4.4.136.2.1.4

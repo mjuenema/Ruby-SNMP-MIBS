@@ -1,0 +1,9 @@
+snArpInfo: 1.3.6.1.4.1.1991.1.1.3.22
+snArpStats: 1.3.6.1.4.1.1991.1.1.3.22.1
+snArpStatsInvalidDestination: 1.3.6.1.4.1.1991.1.1.3.22.1.7
+snArpStatsInvalidSource: 1.3.6.1.4.1.1991.1.1.3.22.1.6
+snArpStatsPendingDrop: 1.3.6.1.4.1.1991.1.1.3.22.1.5
+snArpStatsRepliesSent: 1.3.6.1.4.1.1991.1.1.3.22.1.4
+snArpStatsRequestReceived: 1.3.6.1.4.1.1991.1.1.3.22.1.2
+snArpStatsRequestSent: 1.3.6.1.4.1.1991.1.1.3.22.1.3
+snArpStatsTotalReceived: 1.3.6.1.4.1.1991.1.1.3.22.1.1

@@ -1,0 +1,14 @@
+juniDismanEventCompliance: 1.3.6.1.4.1.4874.2.2.66.3.1.1
+juniDismanEventCompliances: 1.3.6.1.4.1.4874.2.2.66.3.1
+juniDismanEventConformance: 1.3.6.1.4.1.4874.2.2.66.3
+juniDismanEventGroups: 1.3.6.1.4.1.4874.2.2.66.3.2
+juniDismanEventMIB: 1.3.6.1.4.1.4874.2.2.66
+juniDismanEventMIBNotificationObjects: 1.3.6.1.4.1.4874.2.2.66.2.1
+juniDismanEventMIBNotificationPrefix: 1.3.6.1.4.1.4874.2.2.66.2
+juniDismanEventMIBObjects: 1.3.6.1.4.1.4874.2.2.66.1
+juniMteExistenceTestResult: 1.3.6.1.4.1.4874.2.2.66.2.1.1
+juniMteTrigger: 1.3.6.1.4.1.4874.2.2.66.1.1
+juniMteTriggerContextNameLimit: 1.3.6.1.4.1.4874.2.2.66.1.1.1.1.2
+juniMteTriggerEntry: 1.3.6.1.4.1.4874.2.2.66.1.1.1.1
+juniMteTriggerTable: 1.3.6.1.4.1.4874.2.2.66.1.1.1
+juniMteTriggerTableGroup: 1.3.6.1.4.1.4874.2.2.66.3.2.1

@@ -1,0 +1,7 @@
+hh3cIpBdstForwardBroadcast: 1.3.6.1.4.1.25506.2.33.1.1
+hh3cIpBdstGroup: 1.3.6.1.4.1.25506.2.33.2
+hh3cIpBdstScalarGroup: 1.3.6.1.4.1.25506.2.33.1
+hh3cIpBdstTrap: 1.3.6.1.4.1.25506.2.33.3
+hh3cIpBdstTrapPrex: 1.3.6.1.4.1.25506.2.33.3.0
+hh3cIpBroadcast: 1.3.6.1.4.1.25506.2.33
+hh3cIpReceiveBroadcast: 1.3.6.1.4.1.25506.2.33.1.2

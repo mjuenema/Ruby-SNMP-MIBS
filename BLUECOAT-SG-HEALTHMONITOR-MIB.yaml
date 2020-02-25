@@ -1,0 +1,17 @@
+bluecoatSGHealthMonMIB: 1.3.6.1.4.1.3417.2.12
+deviceHealthMonCriticalTrap: 1.3.6.1.4.1.3417.2.12.2.0.3
+deviceHealthMonMIBCompliance: 1.3.6.1.4.1.3417.2.12.3.1.1
+deviceHealthMonMIBCompliances: 1.3.6.1.4.1.3417.2.12.3.1
+deviceHealthMonMIBConformance: 1.3.6.1.4.1.3417.2.12.3
+deviceHealthMonMIBGroup: 1.3.6.1.4.1.3417.2.12.3.2.1
+deviceHealthMonMIBGroups: 1.3.6.1.4.1.3417.2.12.3.2
+deviceHealthMonMIBNotifGroup: 1.3.6.1.4.1.3417.2.12.3.3.1
+deviceHealthMonMIBNotifGroups: 1.3.6.1.4.1.3417.2.12.3.3
+deviceHealthMonMIBNotifPrefix: 1.3.6.1.4.1.3417.2.12.2.0
+deviceHealthMonMIBNotification: 1.3.6.1.4.1.3417.2.12.2
+deviceHealthMonMIBObjects: 1.3.6.1.4.1.3417.2.12.1
+deviceHealthMonMessage: 1.3.6.1.4.1.3417.2.12.1.1.1
+deviceHealthMonOkTrap: 1.3.6.1.4.1.3417.2.12.2.0.1
+deviceHealthMonStatus: 1.3.6.1.4.1.3417.2.12.1.1.2
+deviceHealthMonValues: 1.3.6.1.4.1.3417.2.12.1.1
+deviceHealthMonWarningTrap: 1.3.6.1.4.1.3417.2.12.2.0.2

@@ -1,0 +1,17 @@
+jnxLsysSpFlowsessAvailableAmount: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.3
+jnxLsysSpFlowsessEntry: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1
+jnxLsysSpFlowsessHeaviestUsage: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.4
+jnxLsysSpFlowsessHeaviestUser: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.5
+jnxLsysSpFlowsessLightestUsage: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.6
+jnxLsysSpFlowsessLightestUser: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.7
+jnxLsysSpFlowsessLsysName: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1.1
+jnxLsysSpFlowsessMIB: 1.3.6.1.4.1.2636.3.39.1.17.6.1
+jnxLsysSpFlowsessMaxQuota: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.2
+jnxLsysSpFlowsessMaximum: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1.5
+jnxLsysSpFlowsessObjects: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1
+jnxLsysSpFlowsessProfileName: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1.2
+jnxLsysSpFlowsessReserved: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1.4
+jnxLsysSpFlowsessSummary: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2
+jnxLsysSpFlowsessTable: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1
+jnxLsysSpFlowsessUsage: 1.3.6.1.4.1.2636.3.39.1.17.6.1.1.1.1.3
+jnxLsysSpFlowsessUsedAmount: 1.3.6.1.4.1.2636.3.39.1.17.6.1.2.1

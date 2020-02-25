@@ -1,0 +1,9 @@
+h3cPPri: 1.3.6.1.4.1.2011.10.2.37.1.1
+h3cPPriPriorityType: 1.3.6.1.4.1.2011.10.2.37.1.1.1.1.2
+h3cPPriPriorityVlaue: 1.3.6.1.4.1.2011.10.2.37.1.1.1.1.3
+h3cPPriProtocolType: 1.3.6.1.4.1.2011.10.2.37.1.1.1.1.1
+h3cPPriRowStatus: 1.3.6.1.4.1.2011.10.2.37.1.1.1.1.4
+h3cProtocolPriority: 1.3.6.1.4.1.2011.10.2.37
+h3cProtocolPriorityEntry: 1.3.6.1.4.1.2011.10.2.37.1.1.1.1
+h3cProtocolPriorityObjects: 1.3.6.1.4.1.2011.10.2.37.1
+h3cProtocolPriorityTable: 1.3.6.1.4.1.2011.10.2.37.1.1.1

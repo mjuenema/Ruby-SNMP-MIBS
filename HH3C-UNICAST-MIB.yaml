@@ -1,0 +1,9 @@
+hh3cURPFClearStat: 1.3.6.1.4.1.25506.2.44.1.1.6
+hh3cURPFDroppedPacket: 1.3.6.1.4.1.25506.2.44.1.1.5
+hh3cURPFEnabled: 1.3.6.1.4.1.25506.2.44.1.1.2
+hh3cURPFEntry: 1.3.6.1.4.1.25506.2.44.1.1
+hh3cURPFIfIndex: 1.3.6.1.4.1.25506.2.44.1.1.1
+hh3cURPFSlotID: 1.3.6.1.4.1.25506.2.44.1.1.3
+hh3cURPFTable: 1.3.6.1.4.1.25506.2.44.1
+hh3cURPFTotalReceivedPacket: 1.3.6.1.4.1.25506.2.44.1.1.4
+hh3cUnicast: 1.3.6.1.4.1.25506.2.44

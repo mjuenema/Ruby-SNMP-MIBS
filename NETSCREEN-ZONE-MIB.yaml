@@ -1,0 +1,8 @@
+netscreenZoneMibModule: 1.3.6.1.4.1.3224.8.0
+nsZoneCfg: 1.3.6.1.4.1.3224.8.1
+nsZoneCfgEntry: 1.3.6.1.4.1.3224.8.1.1.1
+nsZoneCfgId: 1.3.6.1.4.1.3224.8.1.1.1.1
+nsZoneCfgName: 1.3.6.1.4.1.3224.8.1.1.1.2
+nsZoneCfgTable: 1.3.6.1.4.1.3224.8.1.1
+nsZoneCfgType: 1.3.6.1.4.1.3224.8.1.1.1.3
+nsZoneCfgVsys: 1.3.6.1.4.1.3224.8.1.1.1.4

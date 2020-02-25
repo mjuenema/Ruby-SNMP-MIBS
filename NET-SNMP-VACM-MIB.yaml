@@ -1,0 +1,8 @@
+netSnmpVacmMIB: 1.3.6.1.4.1.8072.1.9
+nsVacmAccessEntry: 1.3.6.1.4.1.8072.1.9.1.1
+nsVacmAccessTable: 1.3.6.1.4.1.8072.1.9.1
+nsVacmAuthType: 1.3.6.1.4.1.8072.1.9.1.1.1
+nsVacmContextMatch: 1.3.6.1.4.1.8072.1.9.1.1.2
+nsVacmStatus: 1.3.6.1.4.1.8072.1.9.1.1.5
+nsVacmStorageType: 1.3.6.1.4.1.8072.1.9.1.1.4
+nsVacmViewName: 1.3.6.1.4.1.8072.1.9.1.1.3

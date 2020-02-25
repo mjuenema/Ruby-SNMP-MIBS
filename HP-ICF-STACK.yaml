@@ -1,0 +1,17 @@
+hpicfStack: 1.3.6.1.4.1.11.2.14.11.1.5
+hpicfStackActiveAgent: 1.3.6.1.4.1.11.2.14.11.1.5.3
+hpicfStackAgentBoxId: 1.3.6.1.4.1.11.2.14.11.1.5.2.1.1
+hpicfStackAgentEntry: 1.3.6.1.4.1.11.2.14.11.1.5.2.1
+hpicfStackAgentForced: 1.3.6.1.4.1.11.2.14.11.1.5.4
+hpicfStackAgentTable: 1.3.6.1.4.1.11.2.14.11.1.5.2
+hpicfStackBasicGroup: 1.3.6.1.4.1.11.2.14.10.2.6.1.2.1
+hpicfStackBoxEntry: 1.3.6.1.4.1.11.2.14.11.1.5.1.1
+hpicfStackBoxId: 1.3.6.1.4.1.11.2.14.11.1.5.1.1.1
+hpicfStackBoxName: 1.3.6.1.4.1.11.2.14.11.1.5.1.1.2
+hpicfStackBoxTable: 1.3.6.1.4.1.11.2.14.11.1.5.1
+hpicfStackCompliance: 1.3.6.1.4.1.11.2.14.10.2.6.1.1.1
+hpicfStackCompliances: 1.3.6.1.4.1.11.2.14.10.2.6.1.1
+hpicfStackConformance: 1.3.6.1.4.1.11.2.14.10.2.6.1
+hpicfStackGroups: 1.3.6.1.4.1.11.2.14.10.2.6.1.2
+hpicfStackMib: 1.3.6.1.4.1.11.2.14.10.2.6
+hpicfStackMultiAgentGroup: 1.3.6.1.4.1.11.2.14.10.2.6.1.2.2

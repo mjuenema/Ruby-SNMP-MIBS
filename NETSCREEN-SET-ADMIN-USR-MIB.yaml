@@ -1,0 +1,15 @@
+netscreenSetAdminUsrMibModule: 1.3.6.1.4.1.3224.7.0.11
+nsAdminUserClientIndex: 1.3.6.1.4.1.3224.7.11.3.1.1
+nsAdminUserClientIp: 1.3.6.1.4.1.3224.7.11.3.1.2
+nsAdminUserClientNetmask: 1.3.6.1.4.1.3224.7.11.3.1.3
+nsAdminUserLocalIndex: 1.3.6.1.4.1.3224.7.11.1.1.1
+nsAdminUserLocalName: 1.3.6.1.4.1.3224.7.11.1.1.2
+nsAdminUserLocalPriv: 1.3.6.1.4.1.3224.7.11.1.1.3
+nsAdminUserRadius: 1.3.6.1.4.1.3224.7.11.2
+nsAdminUserRadiusEnabled: 1.3.6.1.4.1.3224.7.11.2.1
+nsAdminUserRadiusServer: 1.3.6.1.4.1.3224.7.11.2.2
+nsSetAdminUser: 1.3.6.1.4.1.3224.7.11
+nsSetAdminUserClientEntry: 1.3.6.1.4.1.3224.7.11.3.1
+nsSetAdminUserClientTable: 1.3.6.1.4.1.3224.7.11.3
+nsSetAdminUserLocalEntry: 1.3.6.1.4.1.3224.7.11.1.1
+nsSetAdminUserLocalTable: 1.3.6.1.4.1.3224.7.11.1
